@@ -70,7 +70,6 @@ export default {
 
 <style scoped lang="less">
   .container, .canvas {
-    width: 1000px;
     margin: auto;
   }
 </style>

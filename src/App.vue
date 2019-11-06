@@ -37,17 +37,35 @@ export default {
     src: url("~@/assets/fonts/DFGothic-SU-WING-RKSJ-H.ttf") format("truetype");
   }
 
-  body, html, h1 {
+  body, html, ul {
     margin: 0;
     padding: 0;
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  h1, h2 {
+    font-family: DFGothic;
+    margin: 0;
+  }
+  * {
+    box-sizing: border-box;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
   }
 </style>
 
 <style lang="less">
 #app {
-  font-family: DFGothic, Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: white;
+  font-size: 18px;
 }
 </style>
