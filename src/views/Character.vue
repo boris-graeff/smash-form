@@ -2,16 +2,19 @@
   <div class="character" :style="{backgroundImage: `url(https://www.smashbros.com/assets_v2/img/fighter/${id}/ss_1.jpg)`}">
     <div>
       <div>
-        <h1>{{ character.name }}</h1>
+        <router-link :to="{name: 'home'}">Home</router-link>
+        <h1>{{ character.index }}. {{ character.name }}</h1>
+        <router-link :to="{name: 'character', params: { id: previousCharacter.id}}">{{ previousCharacter.name }}</router-link> |
+        <router-link :to="{name: 'character', params: { id: nextCharacter.id}}">{{ nextCharacter.name }}</router-link>
         <div class="details">
-          <p>{{ character.description }}</p>
+          <p>{{ character.description || 'coming soon' }}</p>
           <div class="pros">
             <span>+</span>
-            {{ character.strength }}
+            {{ character.strength || 'coming soon' }}
           </div>
           <div class="cons">
             <span>-</span>
-            {{ character.weakness }}
+            {{ character.weakness || 'coming soon' }}
           </div>
         </div>
       </div>
@@ -25,7 +28,7 @@
 
 <script>
 import { mapGetters } from 'vuex'
-import { GET_CHARACTER } from '@/store'
+import { GET_CHARACTER, GET_NEXT_CHARACTER, GET_PREVIOUS_CHARACTER } from '@/store'
 import RadarChart from '@/components/RadarChart'
 
 export default {
@@ -34,10 +37,18 @@ export default {
   },
   computed: {
     ...mapGetters({
-      getCharacter: GET_CHARACTER
+      getCharacter: GET_CHARACTER,
+      getNextCharacter: GET_NEXT_CHARACTER,
+      getPreviousCharacter: GET_PREVIOUS_CHARACTER
     }),
     character () {
       return this.getCharacter(this.id)
+    },
+    nextCharacter () {
+      return this.getNextCharacter(this.id)
+    },
+    previousCharacter () {
+      return this.getPreviousCharacter(this.id)
     }
   },
   components: {

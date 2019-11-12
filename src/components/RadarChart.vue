@@ -7,17 +7,32 @@
 <script>
 import ChartJS from 'chart.js'
 
+const WEIGHT = { min: 62, max: 135 }
+const DASH = { min: 1.18, max: 3.85 }
+const AIR_SPEED = { min: 0.735, max: 1.344 }
+const GRAVITY = { min: 0.053, max: 0.23 }
+const JUMP = { min: 19.79, max: 50.51 }
+
+const all = [WEIGHT, DASH, AIR_SPEED, JUMP, GRAVITY]
+all.forEach(el => {
+  el.min = el.min - ((el.max - el.min) / 10)
+})
+
 export default {
   props: {
     character: Object
   },
   computed: {
     dataSet () {
-      const weight = ((this.character.weight - 62) / (135 - 62)) * 100
-      const dash = ((this.character.dash - 1.18) / (3.85 - 1.18)) * 100
-      const airSpeed = ((this.character.airSpeed - 0.735) / (1.344 - 0.735)) * 100
-      const gravity = ((this.character.gravity - 0.053) / (0.23 - 0.053)) * 100
-      const jump = ((this.character.jump - 19.79) / (50.51 - 19.79)) * 100
+      let { weight, dash, airSpeed, gravity, jump } = this.character
+      if ([weight, dash, airSpeed, gravity, jump].includes('pas encore')) return []
+
+      weight = ((weight - WEIGHT.min) / (WEIGHT.max - WEIGHT.min)) * 100
+      dash = ((dash - DASH.min) / (DASH.max - DASH.min)) * 100
+      airSpeed = ((airSpeed - AIR_SPEED.min) / (AIR_SPEED.max - AIR_SPEED.min)) * 100
+      gravity = ((gravity - GRAVITY.min) / (GRAVITY.max - GRAVITY.min)) * 100
+      jump = ((jump - JUMP.min) / (JUMP.max - JUMP.min)) * 100
+
       return [weight, dash, airSpeed, gravity, jump]
     }
   },
