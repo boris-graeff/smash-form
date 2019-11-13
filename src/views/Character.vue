@@ -1,21 +1,35 @@
 <template>
-  <div class="character" :style="{backgroundImage: `url(https://www.smashbros.com/assets_v2/img/fighter/${id}/ss_1.jpg)`}">
-    <div>
+  <div class="character" :style="{backgroundImage: `url(https://www.smashbros.com/assets_v2/img/fighter/${character.imageId}/ss_1.jpg)`}">
+    <header>
       <div>
-        <router-link :to="{name: 'home'}">Home</router-link>
+        <router-link :to="{name: 'home'}">
+          <img src="@/assets/icons/home.svg" alt="Home" />
+        </router-link>
         <h1>{{ character.index }}. {{ character.name }}</h1>
-        <router-link :to="{name: 'character', params: { id: previousCharacter.id}}">{{ previousCharacter.name }}</router-link> |
-        <router-link :to="{name: 'character', params: { id: nextCharacter.id}}">{{ nextCharacter.name }}</router-link>
-        <div class="details">
-          <p>{{ character.description || 'coming soon' }}</p>
-          <div class="pros">
-            <span>+</span>
-            {{ character.strength || 'coming soon' }}
-          </div>
-          <div class="cons">
-            <span>-</span>
-            {{ character.weakness || 'coming soon' }}
-          </div>
+      </div>
+      <nav>
+        <router-link :to="{name: 'character', params: { id: previousCharacter.id}}">
+          <img src="@/assets/icons/previous.svg" alt="Previous" />
+          {{ previousCharacter.name }}
+        </router-link>
+        <router-link :to="{name: 'character', params: { id: nextCharacter.id}}">
+          {{ nextCharacter.name }}
+          <img src="@/assets/icons/next.svg" alt="Next" />
+        </router-link>
+      </nav>
+    </header>
+
+    <div class="main">
+      <div class="details">
+        <p>{{ character.description }}</p>
+        <p>{{ character.feeling }}</p>
+        <div class="pros">
+          <img src="@/assets/icons/pros.svg" alt="Pros" />
+          {{ character.strength || 'coming soon' }}
+        </div>
+        <div class="cons">
+          <img src="@/assets/icons/cons.svg" alt="Cons" />
+          {{ character.weakness || 'coming soon' }}
         </div>
       </div>
 
@@ -62,9 +76,10 @@ export default {
     background-size: cover;
     background-position: center center;
     min-height: 100vh;
-    padding: 1rem;
+    padding: 2vw;
     position: relative;
     display: flex;
+    flex-direction: column;
 
     &:before {
       content: '';
@@ -76,14 +91,16 @@ export default {
       bottom: 0;
     }
 
-    > div {
+    > * {
       z-index: 1;
       position: relative;
+    }
+
+    > div {
       display: flex;
       flex: 1;
 
       > div {
-        flex: 1;
         align-items: center;
       }
     }
@@ -92,28 +109,49 @@ export default {
       font-size: 40px;
       text-transform: uppercase;
     }
+
+    header > div:first-child {
+      display: flex;
+      align-items: center;
+      margin-bottom: 1rem;
+
+      a {
+        margin-right: 1rem;
+      }
+    }
+
+    nav {
+      a {
+        display: inline-block;
+        padding: 6px;
+        font-family: DFGothic;
+
+        &:hover {
+          opacity: 0.9;
+        }
+
+        + a {
+          margin-left: 1rem;
+        }
+      }
+      img {
+        vertical-align: middle;
+      }
+    }
   }
 
   .details {
     max-width: 400px;
+    width: 100%;
   }
 
   .pros, .cons {
     display: flex;
     align-items: center;
 
-    span {
-      font-family: monospace;
-      font-size: 40px;
-      border-radius: 100%;
-      border: 5px solid;
+    img {
       min-width: 40px;
       width: 40px;
-      height: 40px;
-      line-height: 40px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
       margin-right: 1rem;
     }
   }
@@ -123,10 +161,12 @@ export default {
   }
 
   .chart-container {
-    display: flex;
+    flex: 1;
+  }
 
-    > * {
-      flex: 1;
-    }
+  @media screen and (max-width: 1000px) {
+   .character > div {
+     display: block;
+   }
   }
 </style>

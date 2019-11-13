@@ -37,13 +37,14 @@ export default {
     }
   },
   mounted () {
+    const fontSize = window.innerWidth < 800 ? 24 : 45
+
     this.chart = new ChartJS(this.$refs.canvas, {
       type: 'radar',
       data: {
         labels: ['POIDS', 'DASH', 'AIR SPD', 'GRAVITE', 'SAUT'],
         datasets: [
           {
-            label: '2050',
             borderWidth: 6,
             pointRadius: 0,
             fill: true,
@@ -59,7 +60,7 @@ export default {
         legend: false,
         scale: {
           pointLabels: {
-            fontSize: 45,
+            fontSize,
             fontFamily: 'DFGothic',
             fontColor: 'white'
           },
@@ -73,7 +74,7 @@ export default {
           ticks: {
             suggestedMin: 0,
             suggestedMax: 100,
-            stepSize: 25,
+            stepSize: 34,
             display: false
           }
         }

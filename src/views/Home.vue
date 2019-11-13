@@ -2,7 +2,7 @@
   <div class="home">
 
     <ul>
-      <li v-for="character in characters" :key="character.id" :style="{backgroundImage: `url(https://www.smashbros.com/assets_v2/img/fighter/thumb_a/${character.id}.png)`}">
+      <li v-for="character in characters" :key="character.id" :style="{backgroundImage: `url(https://www.smashbros.com/assets_v2/img/fighter/thumb_a/${character.imageId}.png)`}">
         <router-link :to="{ name: 'character', params: { id: character.id }}">
           {{ character.name }}
         </router-link>
@@ -26,19 +26,24 @@ export default {
 
 <style scoped lang="less">
   .home {
+    background-color: #414141;
     ul {
       display: flex;
       flex-wrap: wrap;
     }
 
     li {
-      width: 10vw;
+      width: 10%;
       height: 10vw;
       background-size: cover;
       font-family: DFGothic;
-      background-color: #414141;
       background-position: center center;
       position: relative;
+      border: 1px solid black;
+
+      &:hover {
+        opacity: 0.8;
+      }
 
       &:before {
         content: '';
@@ -57,12 +62,37 @@ export default {
         width: 100%;
         display: flex;
         justify-content: center;
-        align-items: center;
+        align-items: flex-end;
+        text-align: center;
+        padding-bottom: 6px;
 
-        &:hover {
-          opacity: 0.8;
-        }
+        text-shadow:
+            -2px -2px 0 #000,
+            2px -2px 0 #000,
+          -2px 2px 0 #000,
+          2px 2px 0 #000;
       }
+    }
+  }
+
+  @media screen and (max-width: 1000px) {
+    .home li {
+      width: 16.666%;
+      height: 16.666vw;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .home li {
+      width: 25%;
+      height: 25vw;
+    }
+  }
+
+  @media screen and (max-width: 500px) {
+    .home li {
+      width: 33.333%;
+      height: 33.333vw;
     }
   }
 </style>

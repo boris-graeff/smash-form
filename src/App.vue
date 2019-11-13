@@ -37,6 +37,10 @@ export default {
     src: url("~@/assets/fonts/DFGothic-SU-WING-RKSJ-H.ttf") format("truetype");
   }
 
+  body {
+    background-color: #414141;
+  }
+
   body, html, ul {
     margin: 0;
     padding: 0;
