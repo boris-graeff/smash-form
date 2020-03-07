@@ -1,6 +1,6 @@
 <template>
-  <div class="container">
-    <canvas ref='canvas' class="canvas" />
+  <div>
+    <canvas ref='canvas' />
   </div>
 </template>
 
@@ -18,9 +18,18 @@ all.forEach(el => {
   el.min = el.min - ((el.max - el.min) / 10)
 })
 
+const labels = {
+  fr: ['POIDS', 'DASH', 'AIR SPD', 'GRAVITE', 'SAUT'],
+  en: ['WEIGHT', 'DASH', 'AIR SPD', 'GRAVITY', 'JUMP']
+}
+
 export default {
   props: {
-    character: Object
+    character: Object,
+    lang: {
+      type: String,
+      default: 'fr'
+    }
   },
   computed: {
     dataSet () {
@@ -42,7 +51,7 @@ export default {
     this.chart = new ChartJS(this.$refs.canvas, {
       type: 'radar',
       data: {
-        labels: ['POIDS', 'DASH', 'AIR SPD', 'GRAVITE', 'SAUT'],
+        labels: labels[this.lang],
         datasets: [
           {
             borderWidth: 6,
