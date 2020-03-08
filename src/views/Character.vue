@@ -1,5 +1,5 @@
 <template>
-  <div class="character" :style="{backgroundImage: `url(https://www.smashbros.com/assets_v2/img/fighter/${character.imageId}/ss_1.jpg)`}">
+  <div class="character" :style="{backgroundImage: `url(${url})`}">
     <header>
       <div>
         <router-link :to="{name: 'home'}">
@@ -63,6 +63,10 @@ export default {
     },
     previousCharacter () {
       return this.getPreviousCharacter(this.id)
+    },
+    url () {
+      if (!this.character) return ''
+      return `https://www.smashbros.com/assets_v2/img/fighter/${this.character.imageId}/ss_1.jpg`
     }
   },
   components: {
