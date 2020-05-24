@@ -13,22 +13,23 @@ export const GET_NEXT_CHARACTER = 'GET_NEXT_CHARACTER'
 
 const CSV_FILE_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR13t6gXETiVhnQPOcCOfnfLufMq55Lna0Gxv7KwFxoZw3nD1v0CsapdzTkyBSDU9Q8afPY49evhqqE/pub?output=csv'
 
-const computeRawData = (rawData) => {
+const computeRawData = rawData => {
   rawData.shift()
+
   return rawData.map((line, index) => ({
-    id: line[16],
+    id: line[24],
     index: index + 1,
-    name: line[15],
-    imageId: line[17],
-    strength: line[3],
-    weakness: line[4],
-    feeling: line[5],
-    description: line[8],
-    weight: line[9],
-    dash: line[10],
-    airSpeed: line[11],
-    gravity: line[12],
-    jump: line[13]
+    name: line[23],
+    imageId: line[25],
+    strength: line[4],
+    weakness: line[5],
+    feeling: line[6],
+    description: line[10],
+    weight: line[16],
+    dash: line[17],
+    airSpeed: line[19],
+    gravity: line[20],
+    jump: line[21]
   }))
 }
 
