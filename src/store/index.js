@@ -27,6 +27,7 @@ const computeRawData = rawData => {
     description: line[10],
     weight: line[16],
     dash: line[17],
+    runSpeed: line[18],
     airSpeed: line[19],
     gravity: line[20],
     jump: line[21]
