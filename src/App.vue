@@ -7,12 +7,12 @@
 
 <script>
 import { mapGetters } from 'vuex'
-import { FETCH_CHARACTERS, CHARACTERS } from '@/store'
+import { CHARACTERS } from '@/store'
 
 export default {
   data () {
     return {
-      isLoading: true
+      isLoading: false
     }
   },
   computed: {
@@ -26,7 +26,7 @@ export default {
     }
   },
   mounted () {
-    this.$store.dispatch(FETCH_CHARACTERS)
+    // this.$store.dispatch(FETCH_CHARACTERS)
   }
 }
 </script>

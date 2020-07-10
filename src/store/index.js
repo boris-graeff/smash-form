@@ -1,10 +1,11 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 import Papa from 'papaparse'
+import data from './data.txt'
 
 Vue.use(Vuex)
 
-const SET_CHARACTERS = 'SET_CHARACTERS'
+export const SET_CHARACTERS = 'SET_CHARACTERS'
 export const FETCH_CHARACTERS = 'FETCH_CHARACTERS'
 export const CHARACTERS = 'CHARACTERS'
 export const GET_CHARACTER = 'GET_CHARACTER'
@@ -17,14 +18,14 @@ const computeRawData = rawData => {
   rawData.shift()
 
   return rawData.map((line, index) => ({
-    id: line[24],
+    id: line[23],
     index: index + 1,
-    name: line[23],
-    imageId: line[25],
+    name: line[22],
+    imageId: line[24],
     strength: line[4],
     weakness: line[5],
-    feeling: line[6],
-    description: line[10],
+    feeling: line[13],
+    description: line[2],
     weight: line[16],
     dash: line[17],
     runSpeed: line[18],
@@ -34,7 +35,7 @@ const computeRawData = rawData => {
   }))
 }
 
-export default new Vuex.Store({
+const store = new Vuex.Store({
   state: {
     characters: []
   },
@@ -73,3 +74,14 @@ export default new Vuex.Store({
     }
   }
 })
+
+const onComplete = (result) => {
+  const characters = computeRawData(result.data)
+  store.commit(SET_CHARACTERS, characters)
+}
+
+Papa.parse(data, {
+  complete: onComplete
+})
+
+export default store

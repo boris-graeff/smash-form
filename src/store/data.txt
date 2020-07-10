@@ -1,0 +1,1282 @@
+ ,Personnages,Présentation (1.1ligne),"Première apparition:
+Nom du jeu (année - machine)",Points forts,Points faibles,Meilleur MU,Pire MU,Meilleur Stage / Pire Stage,Particularités,Coups importants (1ligne par coup),Conseils pour le jouer (1.5 ligne par conseil),Coups en sortie de Bouclier,Plaisir de jeu (2 lignes),Meilleur joueur fr / Meilleur joueur inter,Lien Discord,poids (62 - 135),initial dash (1.5375 - 2.42) ,run speed (1.18 - 3.85),air speed (0.735 - 1.344),gravité (0.053 - 0.23),hauteur de saut (19.79 - 57.35),Name,ID,image_id
+yatta vitch (contacté) ou shido,Mario   FINI,"Mario est l'un des personnages d'excellence pour débuter dans le jeu et pour comprendre des notions importantes autour du spacing et du shield pressure. C'est également un très bon personnage pour s'initier au jeu de combo de Super Smash Bros Ultimate en apprenant à se servir des plateformes pour étendre un combo.
+
+TRAD:
+
+",,"Agressif / Grande mobilité / beaucoup de combos
+
+TRAD:
+
+","Manque de portée / agressif et donc prévisible / mauvaise recovery 
+
+TRAD:
+
+","Lent : Rondoudou
+Sac à combos : ROB, DK, Felinferno
+
+TRAD:
+
+","Bon jeu aérien : Metaknight
+Allonge : Palutena, Richter, Lucina
+Combo breaker : Harmonie et Joker
+
+TRAD:
+
+","Pokemon Stadium 2 - Champ de bataille - SmashVille
+
+/
+
+Kalos - DF",Si jamais il ya à traduire aussi,"Up air : Bon coup pour commencer un combo. Peut être utilisé en avant ou en arrière pour choisir l'orientation du combo. Un up air vers l'avant envoie à l'horizontale. Un up air vers l'arrière envoie à la verticale. 
+Neutral B : Attaque pour maintenir la pression sur l'adversaire en variant ses approches pour se créer une opportunité de combo. Permet de rester mobile tout en se protégeant. Il faut cependant maîtriser le B reverse.
+Back air : Option très safe pour tuer son adversaire et pour conserver une certaine distance dans le neutral. Peut servir à lancer des combos à bas pourcent
+Up Smash : Très bonne option qui sort très rapidement et qui rend Mario intangible. A combiner avec une esquive sur place pour rendre Mario inatteignable pendant un long moment. Il faut savoir le reverse pour surprendre.
+
+TRAD que le texte après les attaques","1) SOUMETS TOI Lorsque vous êtes en situation de désavantage avec Mario, l'une des erreurs récurrentes consiste à vouloir reprendre le contrôle du terrain en attaquant à ce moment. Et généralement quand vous êtes un joueur de Mario vous allez essayer d'utiliser le neutral air pour vous sortir d'une situation délicate. Faites attention à ne pas abuser de cette attaque à ce moment-là. Si l'adversaire vous voit venir, il peut facilement vous punir violemment avec un F Smash.
+2) GARDE TON SAUT Mario est un personnage qui n'a pas une excellente recovery. Ainsi, il faudra être très vigilant à bien conserver son deuxième saut et à ne pas l'utiliser prématurément. Par exemple, si vous essayez de sortir d'un combo en dehors du terrain, il vaut mieux s'éloigner du terrain afin de revenir par le bas plutôt que d'utiliser son saut qui risque fortement d'être gâché et couvert par l'adversaire. Conservez donc le maximum d'options pour revenir!
+3) SOIS ATTENTIF Même si Mario est un personnage qui possède une grande mobilité et un bon jeu de combo, il ne faut pourtant pas toujours mener la danse. En effet, votre Mario s'améliorera significativement si vous prenez le temps d'observer votre ennemi plus que si vous êtes toujours en action. Contrairement à ce qu'on pourrait croire, jouer Mario nécessite beaucoup d'observation et surtout de réactivité car il doit rapidement comprendre les réactions adverses pour punir son opposant. Observez et réagissez ! 
+
+TRAD:
+
+","Up B (frame 3)
+Nair (frame 6)
+Upair (frame 7)","Un personnage qui possède une grande mobilité et peu de lag dans ses attaques, ce qui permet d'effectuer beaucoup de combos et donc d'obtenir un gros potentiel de variation dans les enchaînements. Il s'agit donc d'un personnage agréable à prendre en main et qui possède suffisamment de profondeur pour pouvoir s'y intéresser sur le long terme. Son grand nombre d'options et sa bonne mobilité le placent d'ailleurs assez haut dans la tier list.
+
+TRAD:
+
+","Vitch - Yatta - Shido
+
+/
+
+Dark Wizzy - Prodigy - Mastamario","[01 - Mario] 
+ : https://discord.gg/dYj72gq
+ : TTRIS, Xalyga",98,1.936,1.76,1.208,0.087,36.33,Mario,mario,mario
+"wolfirre(contacté), mar(contatcé) FAIT","Donkey Kong TEXTE(Genki)
+
+
+PAS PRET","Donkey Kong est un personnage qui peut paraître simple aux premiers abords mais qui se démarque par le fait qu'on ait besoin de connaître les techniques avancées du jeu pour le maîtriser. Et si son poids et sa grosse hurtbox le classent du côté des sacs à combos, il possède tout de même des options très intéressantes pour renverser le cours d'un match !",Donkey Kong (1981 - Arcade),"Bonne portée d'attaque
+Poids
+Grosse puissance d'éjection
+Redoutable en avantage","Sac à combo
+Peu d'options viables en OOS
+Mauvais désavantage
+Recovery linéaire","Ont besoin de contact: Rondoudou, Ganondorf, Kirby
+Recovery horizontale: Cloud, LM, Dr Mario","Némésis : Palutena
+Projectiles: Mega Man, Duck Hunt, YLink
+Taille et combos : Fox, Pichu, Pikachu","PS / Yoshi's Story / Lylat
+/
+Kalos","Donkey Kong est un personnage qui possède un grab différent des autres personnages, puisque si vous orientez le stick vers le côté lorsque vous avez saisi votre ennemi, vous pourrez mettre ce dernier sur votre épaule. Au-delà de lui offrir une balade gratuite, cela permet surtout d'emmener l'ennemi où vous voulez et notamment dehors du terrain, pour violemment le propulser en dehors des limites du terrain ou contre le rebord de la plateforme centrale.  ","Grab: Il s'agit de la mécanique principale de Donkey Kong car il peut se déplacer avec un ennemi sur son dos. C'est donc une option très intéressante pour regagner du terrain ou pour propulser un ennemi au-delà de la blastzone. Au-delà de ça, le grab de DK possède une grande allonge, ce qui permet de pouvoir saisir un ennemi d'assez loin et de pouvoir initier des combos à bas pourcent avec un upthrow sauté.
+Dash Attack: Il s'agit d'une attaque très rapide et qui peut toucher pendant toute la durée de l'attaque. En plus de ça, ce coup possède de l'armure, ce qui peut permettre à DK de reprendre le contrôle du terrain. Une très bonne attaque pour s'approcher donc et couvrir tout atterrissage ennemi tout en menant facilement à des combos.
+Neutral B: L'attaque peut être chargée à fond et possède une excellente puissance d'éjection. En plus de ça, c'est un coup qui permet d'atterrir de manière safe sur un bouclier car l'attaque possède de l'armure pendant deux frames au début du coup. C'est aussi un bon combo finisher et c'est une option qui mène à pas mal de techniques avancées avec DK.
+F Tilt: Une fois maîtrisé permet de battre pas mal d'attaques notamment d'épéistes grâce à sa bonne portée, ce qui permet à DK de reprendre du terrain. De plus, il est possible de 2 frame un adversaire qui essaie de s'agripper au ledge !
+Back Air: La meilleure attaque de DK. Son Back Air est à la fois rapide, puissant, possède une bonne puissance d'éjection et est également disjoint, car la partie de son pied est insensible aux attaques. Une très bonne option en phase d'edgeguard ou en phase de neutral car le coup est plutôt safe si bien spacé.","Garder son saut: Faites attention à ne pas griller votre deuxième saut quand vous êtes en situation de désavantage. C'est un outil très précieux qui peut vous sauver la vie car la recovery de DK ne permet pas de regagner de la hauteur. Donc préférez vous éloigner ou choisir des options qui vous permettent de conserver cette sortie de secours !
+Pas de Spam: faites attention à ne pas spammer certaines attaques qui sont très intéressantes mais qui vous font prendre des risques comme la dash attack ou le UpB au sol, d'autant plus que cette dernière attaque peut tuer à 70% au bord du terrain. Et concernant la dash attack, elle doit surtout être utilisée pour couvrir des atterrissages ou pour surprendre, mais n'en abusez pas également.
+Pas d'oubli: N'oubliez pas certaines attaques et pensez bien notamment à toujours charger le Neutral B pendant les phases de neutral quand le jeu est posé. C'est une option intéressante qui peut mettre pas mal de pression à l'adversaire. N'hésitez donc pas à charger le punch et surtout à l'utiliser ! Et surtout, n'oubliez pas le grab, c'est l'une des meilleures options de DK !","Up B dans les airs (frame 7)
+Upair (frame 9)
+Backair (frame 10)","Donkey Kong est un personnage qui possède de nombreux avantages, surtout pour un personnage appartenant à la catégorie poids lourd. Cela rend le personnage explosif et plutôt violent car il peut très rapidement s'emparer d'une stock ou en perdre une tout aussi rapidement. Cette violence rend le personnage fun à jouer et à regarder et chaque affrontement d'autant plus intense. C'est probablement l'un des meilleurs personnages du jeu pour débuter, car il peut être simple à prendre en main, tout en nécessitant beaucoup de travail pour révéler tout le potentiel du personnage et faire en sorte de tirer le maximum possible de chaque situation d'avantage. !","Mar - Wolfire - Cosy - Oxyzz
+
+/
+
+Konga -DKWill - Runes","[02 - Donkey Kong]
+ : https://discord.gg/bt72UvP
+ : Mar",127,2.090,1.873,1.208,0.085,35.5,Donkey Kong ,donkey_kong,donkey_kong
+vins ou otakuni contacté  FAIT,Link (Tamalou) en attente de VinS pour finir d'écrire le texte,"Link est un personnage puissant qui dispose d'un grand arsenal afin d'empêcher son adversaire d'approcher et d'imposer son rythme et sa présence sur le terrain. Cependant, Link est aussi un personnage qui dispose de bonnes attaques puissantes au corps à corps, ce qui en fait donc un personnage très polyvalent.
+",The Legend of Zelda (1986 - NES),"Bonne portée
+Très bon jeu de zoning
+Puissant et lourd
+Bon jeu aérien","Lent au sol et dans les airs
+A des attaques lentes
+Combo food
+Des projos pas toujours utiles","Lourd et lent (K Rool, Ganondorf)
+Peu de mobilité (Rondoudou, Dr Mario)
+
+
+","Des persos étouffants (Lucina, Palutena, Pikachu)
+Empêche les projectiles (Wolf)","Kalos, Town and City, Pokemon Stadium 2
+
+/
+
+Smashville, BF, Yoshi's Story","Link possède bon nombre de projectiles aux particularités uniques. Son Neutral B lui permet de tirer une flèche et si celle-ci se plante sur le terrain, Link peut la récupérer pour la relancer ou pour doubler les dégâts de son prochain tir. Du côté de son Down B, Link sort une bombe qu'il peut faire exploser quand il le souhaite sauf si cette dernière reçoit trop de dégâts ou si 30 secondes se sont écoulées, auxquels cas elle explosera toute seule. Enfin, Link possède aussi un bouclier qui bloque toutes les attaques à distance si Link marche ou ne bouge pas.","- Nair : Le coup couteau suisse de Link. Ce coup peut s'autocancel et peut donc ne pas posséder de lag à l'atterrissage. Le coup dure longtemps, possède une bonne priorité et a la priorité sur pas mal de coups. C'est donc une attaque utile en situation de désavantage mais aussi pour mettre la pression sur l'adversaire, sachant que cette attaque peut tuer.
+- UpB: L'attaque possède beaucoup de portée au sol comme dans les airs. Peut être utile en sortie de bouclier, en situation de tech chase, pour finir un combo et en edgeguard pour aspirer et tuer les ennemis. Attention tout de même car l'attaque possède un gros endlag.
+- Down B: Attaque qui offre beaucoup de possibilités et de richesse au jeu de Link. Permet de mettre la pression, de tuer, ou de servir à réaliser des combos. Très utile en edgeguard notamment face à des attaques de feu et efficace aussi en ledgetrap pour couvrir des options de l'adversaire. Peut servir aussi à revenir sur le terrain.
+- Fair : Utile pour tenir à distance et dans des combos. La possibilité de frapper une ou deux fois en tombant plus ou moins rapidement peut surprendre l'adversaire.
+- Uptilt: Ce coup couvre une large zone autour de Link ce qui en fait une bonne attaque pour facilement couvrir les approches aériennes vu que le coup est assez rapide. Attention cependant car l'attaque ne touche pas les petits personnages s'ils sont face à vous.
+- Side B : Projectile rapide et plutôt safe sur un bouclier à distance raisonnable. La vitesse et l'angle du boomerang peuvent être modifiés pour varier ses approches. Un excellent outil pour gagner du terrain, piéger l'adversaire ou se sortir d'un combo. Couplée à la bombe, l'attaque devient redoutable.
+","PAS TROP DE PROJOS: Link possède certes un très bon jeu de projectiles, cependant, il ne faut pas trop en abuser et surtout bien connaître les limites de ce que vous comptez envoyer à votre adversaire. Effectivement, faites attention notamment à ne pas lancer vos projectiles si vous êtes trop proches de votre ennemi car vous pourriez vous faire lourdement punir. Il y a une zone à respecter où vous n'êtes pas safe, ce qui fait qu'il faut faire attention aux personnages un peu trop collants !
+TAPER SUR LES NAIR : En dehors des projectiles, Link peut aussi compter sur de très bonnes attaques plutôt safe sur un bouclier au corps à corps comme le Back Air ou le Neutral Air. Ces coups sont très intéressants et vous pouvez compter dessus, contrairement à d'autres attaques comme le Up Smash. Après, vous n'êtes toujours pas à l'abri d'un parry ou d'attaques disjoint qui peuvent donc battre le Neutral Air, donc restez tout de même vigilants et n'en abusez pas trop !
+COMPRENDRE LE PERSO: Link est un personnage qui possède un jeu de neutral assez particulier avec toutes ses options à distance et au corps à corps, c'est pourquoi, il faut comprendre le fonctionnement du personnage dans un premier temps et comprendre comment gérer la phase de neutral lorsque vous incarnez Link. Concentrez-vous sur les fondamentaux, plus que sur les combos et techniques avancés. Et n'oubliez pas que Link est un sac de frappe idéal en phase de désavantage, donc évitez de dépenser inutilement vos sauts, sous peine de ne pouvoir rien faire !","Up B (frame 7)
+Backair (frame 9)
+Nair, Upsmash (frame 10)","Link est un personnage polyvalent qui possède un éventail de possibilités énormes, ce qui fait que l'on peut toujours se renouveler avec le perso, contrairement à d'autres personnages trop linéaires. Le jeu de projectiles et la bombe notamment confèrent beaucoup d'intérêt au personnage, même si le personnage ne se résume pas seulement à quelqu'un qui vide ses poches grâce à ses attaques intéressantes au corps à corps. Au-delà de ça, la licence Zelda donne une aura particulière à ce personnage qui en devient tout de suite beaucoup plus plaisant !","Vins - Otakuni - Link91
+
+/
+
+T - Javi - Izaw","[03 - Link]
+:link: : https://discord.gg/8pm4FBB
+:passport_control: : Pan's Awakening",104,1.98,1.534,0.924,0.096,29,Link ,link,link
+dash tidus (samus) / privé mais contacté sans réponse,Samus (Tamalou),"Samus est un personnage qui est plutôt difficile à bien jouer mais qui possède de nombreuses options que ce soit au corps à corps ou surtout à distance. Cela rend le personnage plutôt flexible, ce qui permet de varier ses approches et donc de pouvoir reprendre son souffle lors d'un échange un peu trop tendu.",Metroid (1986 - NES),"Un personnage flexible
+Un bon jeu aérien
+Une bonne recovery","Peut se faire ladder
+Contre des persos avec une hitbox disjoint","Sacs à combos (Bowser, Ridley)
+Recovery exploitable (Chrom, Ike)
+Du mal à approcher (Ken, Ryu)","Bouclier reflécteur (Ness, Fos, GandW)
+Petits gabarits (Amphinobi, Pichu)
+Projectiles (Banjo, Duck Hunt, Link)","Kalos DF, Smashville
+/
+BF","Samus est un personnage qui possède un grappin, ce qui peut lui permettre d'agripper un ennemi à distance, d'attaquer à distance ou bien d'agripper le rebord du terrain. Tant qu'on parle de sa recovery, son Down B peut être utile pour revenir sur le terrain. Effectivement, Samus lâche une bombe dans les airs qui peut la faire rebondir si jamais elle reste sur la trajectoire de la bombe. A noter qu'elle peut aussi effectuer un walljump contre un mur afin de varier sa recovery.","Aerials: Le Back Air a une grosse puissance d'éjection. Le Neutral Air est le couteau suisse de Samus et peut servir à tout. Le Forward Air est très utile en situation de combo et pour punir les sauts adverses.
+Neutral B: L'un des atouts de Samus car quand il est chargé il permet d'exercer une grosse pression psychologique sur l'adversaire qui sait qu'il peut se faire briser un bouclier entamer ou se prendre de gros dégâts et se faire éjecter au loin. Attention car si l'attaque est totalement chargée, Samus perd toutefois en mobilité. Il est donc recommandé d'utiliser également l'attaque même si elle n'est pas entièrement chargée pour se créer une ouverture.
+Down B: Il s'agit d'un outil très intéressant dans l'arsenal de Samus car cela permet de jouer safe sur beaucoup de match-ups compliqués. En effet, l'attaque permet de varier ses approches pour revenir sur le terrain ainsi que d'empêcher l'adversaire de revenir sur le terrain.
+Up B: Coup très intéressant car il peut kill à haut pourcentage et car c'est une très bonne option en sortie de bouclier, à condition que l'adversaire soit suffisamment proche. Sinon c'est une option qui peut vous placer dans une grosse situation de désavantage.
+Up Tilt:Attaque qui donne aussi pas mal de situations de combo et notamment un qui est garanti à bas pourcent et qui fait quasiment 40% de dégâts.
+Grab: Suivi d'une Down Throw, le grab vous offre des options de combos plutôt intéressantes. Cependant le grab sera surtout très utile dans les airs car il permet de shieldpoke, d'exercer une pression sur l'adversaire, pour éventuellement le suivre d'une plus grosse attaque tout en restant plutôt safe !","NON AU SPAM: Il faudra faire attention à ne pas spammer non stop les projectiles car le personnage a d'autres atouts qu'un simple barrage de projectiles. Les projectiles de Samus sont certes très intéressants mais il ne faut pas compter que sur eux. N'hésitez pas à utiliser les attaques aériennes ou encore le grab pour varier vos approches et mettre la pression à votre adversaire.
+NEUTRAL B SEREIN: N'ayez pas peur du neutral B même si l'adversaire possède un bouclier reflecteur. Vous prenez peut-être le risque de vous faire renvoyer l'attaque, mais cela permet malgré tout de faire peur à votre adversaire, car ce dernier sait qu'il devra être plus vigilant pour ne pas se faire lourdement punir, ce qui peut le pousser à l'erreur. Et puis, n'oubliez pas que le Neutral B même non chargé reste toujours un très bon outil.
+GERER SON GRAB: Le grab est un excellent outil qui peut être lourdement punissable. Malgré tout, il ne faut pas en avoir peur car le grab donne de bonnes situations d'avantage, ce qui encore une fois peut faire peur à votre adversaire. De plus, si votre ennemi a tendance à se protéger, il va devoir choisir d'autres options plus risquées que le bouclier ce qui peut laisser à Samus l'occasion de punir violemment son adversaire.","Up B (frame 4)
+Upair (frame 8)
+Nair, Zair, Upsmash (frame 11)","Pour Samus, le plaisir viendra essentiellement de sa flexibilité et de sa capacité à  mixer les approches possibles, notamment en alternant entre le corps à corps et la distance. Cela fait que le personnage est très complet avec certaines attaques très puissantes et des combos facilement réalisables à bas pourcent. Il s'agit en outre d'un personnage qui peut infliger une grosse pression à son ennemi et qui donne la sensation de contrôler le terrain et les approches adverses. Un personnage à réserver donc aux joueurs et joueuses les plus patients qui souhaitent posséder une vision d'ensemble du terrain..","DashTidus - CP! Hayrot - Cylosis
+
+/
+
+Quik - Joker - YB","[04 - Samus & Dark Samus] 
+:link: : https://discord.gg/e9vyVF2
+:passport_control: : Aba",108,1.87,1.654,1.103,0.075,37,Samus,samus,samus
+,"Samus Sombre
+
+DARK SAMUS","Samus Sombre est un personnage écho très proche de Samus et qui possède les mêmes attaques que cette dernière malgré quelques différences de hitbox notables. Tout comme Samus, il s'agit donc d'un personnage qui possède un très bon jeu de projectiles, mais qui peut aussi compter sur ses nombreuses attaques au corps à corps pour varier ses approches. ",Metroid Prime (2002 - GC),"Un personnage flexible
+Un bon jeu aérien
+Une bonne recovery","Peut se faire ladder
+Contre des persos avec une hitbox disjoint","Sacs à combos (Bowser, Ridley)
+Recovery exploitable (Chrom, Ike)
+Du mal à approcher (Ken, Ryu)","Bouclier reflécteur (Ness, Fos, GandW)
+Petits gabarits (Amphinobi, Pichu)
+Projectiles (Banjo, Duck Hunt, Link)","Kalos DF, Smashville
+/
+BF","Contrairement à Samus, Samus Sombre détient des attaques qui ne possèdent pas l'élément feu mais plutôt l'élément électrique, ce qui ne lui permet ainsi pas de pouvoir faire exploser des bombes. En autre différence visible, on pourra parler de l'animation de roulade qui diffère car Samus Sombre ne se transforme pas en Morph Ball ce qui est donc plus rapide mais qui le protège moins des attaques ennemies. Enfin, certaines attaques comme le Up Smash ou surtout le missile du Side B sont plus basses et lui permettent donc de toucher des ennemis plus petits.","Aerials: Le Back Air a une grosse puissance d'éjection. Le Neutral Air est le couteau suisse de Samus Sombre et peut servir à tout. Le Forward Air est très utile en situation de combo et pour punir les sauts adverses.
+Neutral B: L'un des atouts de Samus Sombre car quand il est chargé il permet d'exercer une grosse pression psychologique sur l'adversaire qui sait qu'il peut se faire briser un bouclier entamer ou se prendre de gros dégâts et se faire éjecter au loin. Attention car si l'attaque est totalement chargée, Samus Sombre perd toutefois en mobilité. Il est donc recommandé d'utiliser également l'attaque même si elle n'est pas entièrement chargée pour se créer une ouverture.
+Down B: Il s'agit d'un outil très intéressant dans l'arsenal de Samus Sombre car cela permet de jouer safe sur beaucoup de match-ups compliqués. En effet, l'attaque permet de varier ses approches pour revenir sur le terrain ainsi que d'empêcher l'adversaire de revenir sur le terrain.
+Up B: Coup très intéressant car il peut kill à haut pourcentage et car c'est une très bonne option en sortie de bouclier, à condition que l'adversaire soit suffisamment proche. Sinon c'est une option qui peut vous placer dans une grosse situation de désavantage.
+Up Tilt:Attaque qui donne aussi pas mal de situations de combo et notamment un qui est garanti à bas pourcent et qui fait quasiment 40% de dégâts.
+Grab: Suivi d'une Down Throw, le grab vous offre des options de combos plutôt intéressantes. Cependant le grab sera surtout très utile dans les airs car il permet de shieldpoke, d'exercer une pression sur l'adversaire, pour éventuellement le suivre d'une plus grosse attaque tout en restant plutôt safe !","NON AU SPAM: Il faudra faire attention à ne pas spammer non stop les projectiles car le personnage a d'autres atouts qu'un simple barrage de projectiles. Les projectiles de Samus Sombre sont certes très intéressants mais il ne faut pas compter que sur eux. N'hésitez pas à utiliser les attaques aériennes ou encore le grab pour varier vos approches et mettre la pression à votre adversaire.
+NEUTRAL B SEREIN: N'ayez pas peur du neutral B même si l'adversaire possède un bouclier reflecteur. Vous prenez peut-être le risque de vous faire renvoyer l'attaque, mais cela permet malgré tout de faire peur à votre adversaire, car ce dernier sait qu'il devra être plus vigilant pour ne pas se faire lourdement punir, ce qui peut le pousser à l'erreur. Et puis, n'oubliez pas que le Neutral B même non chargé reste toujours un très bon outil.
+GERER SON GRAB: Le grab est un excellent outil qui peut être lourdement punissable. Malgré tout, il ne faut pas en avoir peur car le grab donne de bonnes situations d'avantage, ce qui encore une fois peut faire peur à votre adversaire. De plus, si votre ennemi a tendance à se protéger, il va devoir choisir d'autres options plus risquées que le bouclier ce qui peut laisser à Samus Sombre l'occasion de punir violemment son adversaire.","Up B (frame 4)
+Upair (frame 8)
+Nair, Zair, Upsmash (frame 11)","Pour Samus Sombre, le plaisir viendra essentiellement de sa flexibilité et de sa capacité à  mixer les approches possibles, notamment en alternant entre le corps à corps et la distance. Cela fait que le personnage est très complet avec certaines attaques très puissantes et des combos facilement réalisables à bas pourcent. Il s'agit en outre d'un personnage qui peut infliger une grosse pression à son ennemi et qui donne la sensation de contrôler le terrain et les approches adverses. Un personnage à réserver donc aux joueurs et joueuses les plus patients qui souhaitent posséder une vision d'ensemble du terrain.",,,108,1.87,1.654,1.103,0.075,37,Dark Samus,dark_samus,dark_samus
+zudenka (pas de mp Twitter) / verdigri (contacté) + BlueSky (en attente sur Discord),Yoshi (Genki),"Yoshi est un personnage très mobile et particulièrement agressif, capable de tuer son adversaire très rapidement grâce à ses excellentes options aériennes. Cependant, il a aussi à sa disposition beaucoup d'options défensives intéressantes, ce qui le rend donc capable de s'adapter à son adversaire. Yoshi n'est donc jamais un adversaire facile à affronter.",Super Mario World (1990 - SNES),"Polyvalent
+- bonne mobilité
+- un shield résistant
+- un saut plutôt safe","- dur face à un adversaire défensif
+- manque de portée
+- recovery compliquée","Faible mobilité : Dr Mario, Ganon, Félinferno
+Sacs à combos: DK, K Rool","Epeistes et portée: Lucina, ...
+Projectiles: Samus, MM, Snake
+Grande mobilité: Amphinobi, MK, ZSS","BF
+/
+TandCity","Yoshi est un personnage qui possède deux options défensives uniques. La première concerne son bouclier qui diffère des autres personnages. Normalement, quand un bouclier est maintenu, il rétrécit et donc il est possible de toucher quelqu'un ayant son bouclier activé si l'on vise bien une zone exposée du corps. Yoshi, quant à lui, n'est pas concerné par ce problème, et son shield, même affaibli, couvrira toujours tout son corps. Pour finir, le deuxième atout unique sur lequel Yoshi peut compter n'est autre que son double saut et plus précisément l'armure qui est présente sur ce double saut, ce qui lui permet d'éviter tout knockback si l'attaque adverse n'est pas très puissante.","neutral air, up air, down air, forward tilt (qui permet d'ouvrir un combo), up tilt","UTILISER LA LANGUE: évitez de bourrer, à savoir de faire des options défensives à la chaîne même si votre adversaire continue d'esquiver ou de se protéger face à vos assauts. De cette manière, vous ne risquez pas d'inquiétez votre adversaire. N'hésitez donc pas à utiliser le Neutral B qui est l'outil principal pour faire douter l'adversaire et l'empêcher d'utiliser sereinement son Bouclier.
+Gérer son double saut: C'est un conseil d'autant plus pour Yoshi dont la survie en dehors du terrain est intimement liée à son double saut. Tâchez donc de l'économisez au maximum et de l'utiliser le plus tard possible même s'il est important de varier son utilisation. Enfin, n'oubliez pas d'apprendre à bien gérer la mobilité accordée par ce deuxième saut, qui peut vous permettre notamment de viser le ledge, d'aller sur l'adversaire en encaissant un coup ou de passer par dessus grâce à un oeuf, etc.
+TOUT UTILISER: Il s'agit d'un personnage qui a la chance d'avoir uniquement des moves utiles sauf le Side B qui peut malgré tout surprendre tout le monde vu que c'est généralement un misinput quand il est utilisé. Bien sûr certains moves vont être plus ou moins utilisés en fonction des joueurs car on a tous un style propre. Cependant, ce qu'il faut retenir c'est que si un joueur n'utilise pas du tout un ou plusieurs moves de Yoshi, il doit vraiment essayer de comprendre comment l'intégrer efficacement dans son jeu. ","Nair (frame 6)
+Upair (frame 8)
+Upsmash (frame 11)","personnage disposant d'une recovery de up B absolument abjecte, mais disposant du meilleur double saut du jeu, pouvant le faire remonter des profondeurs de maps facilement et ayant de la super armure durant toute l'animation, il est aussi le seul personnage a avoir le bouclier constamment autour de lui, ne permettant qu'a son ennemi de le contrer soit avec un grab, soit via breakshield. Il est aussi un personnage très aggressif disposant de multiples combos pouvant faire monter son adversaire dans les 70%, peut aussi tuer très vite grâce a ses coups vu précédemment ","Verdigri - Zudenka - Yosheroce
+
+/
+
+Suarez - Yoshidora - Seth","[05 - Yoshi]
+:link: :  https://discord.gg/A88DP87
+:passport_control: : Verdigri",104,1.98,2.046,1.344,0.08,51.56,Yoshi ,yoshi,yoshi
+jesuischoq contacté fini! FAIT,Kirby (Tamalou) TEXTE,"Kirby est le personnage du néophyte par excellence puisqu'il a été conçu pour initier les débutants à Smash. Attention cependant car cela ne veut pas dire que le personnage est à sous-estimer. Même si ses statistiques générales sont plutôt faibles, le personnage renferme en effet des forces insoupçonnées qui pourraient bien vous surprendre!",Kirby's Dreamland (1992 - GameBoy),"TRES BON JEU AU SOL
+5 SAUTS POUR EDGEGUARD
+SA PETITE TAILLE","FAIBLE DANS LES AIRS
+DES ATTAQUES SANS DISJOINT
+DES PLATEFORMES GENANTES",ATTAQUES TROP HAUTES Wii Fit Trainer/ Captain Falcon,"FORTS DANS LES AIRS Yoshi/ Inkling 
+BON JEU DE PROJECTILES (Snake/Samus)
+NEMESIS (Game and Watch)","DF/ TandC
+
+/
+
+BF","Kirby possède une attaque qui lui permet d'assimiler les techniques adverses, à savoir le Neutral B. Une fois votre ennemi en bouche, il vous faudra orienter votre stick vers le bas pour pouvoir récupérer l'attaque Neutral B de votre adversaire. Cela peut ainsi conférer de véritables projectiles à Kirby et lui donner l'opportunité d'améliorer ses attaques, s'il récupère les Arts Monado sur Shulk. Cependant, si vous souhaitez vous débarasser d'une attaque, il vous suffira alors d'effectuer une provocation. Il peut en effet être utile de ne pas récupérer d'attaque sur votre ennemi car le Neutral B tout seul peut vous permettre de passer outre le bouclier de votre ennemi !","Up Tilt: L'une des seules attaques disjoint de Kirby avec le Up Smash. Le Up Tilt est une très bonne option contre les approches aériennes et permet à bas pourcent de lancer facilement un combo.
+Down Tilt: Permet d'approcher un adversaire resté au col. Cette attaque est rapide, possède une portée convenable et donne une chance sur trois de faire trébucher son adversaire.
+Neutral Air: Permet de se sortir d'une situation de désavantage car il est possible d'attendre le meilleur moment pour l'utiliser grâce aux 5 sauts de Kirby. Mène à des kill confirms et peut aussi tuer.
+Forward Air: Meilleur coup de Kirby. Permet d'approcher avec un short hop pour lancer un combo, éjecter, ou contourner le bouclier adverse. Il est possible d'effectuer 1 à 3 attaques en tombant ce qui peut surprendre.","STOP AU DOWN AIR. Lorsque vous êtes en phase de neutral, faîtes attention à ne pas trop utiliser le Down Air. Même si l'attaque peut sembler au premier abord intéressante car il s'agit d'un multihit qui peut mener à pas mal de combos, il s'agit en fait de l'une des pires attaques de Kirby et l'une des attaques aériennes les plus lentes du jeu. Vous n'êtes pas du tout safe si vous l'utilisez sur un bouclier, ce qui peut mener à une grosse punition adverse. Préférez donc le Neutral Air pour atterrir.
+LA TETE DANS LES NUAGES. Kirby est un personnage terrestre, qui tire toute sa puissance de son jeu au sol. Le fait qu'il possède 5 sauts n'en fait pas un personnage qui doit s'en aller toujours plus haut. Si vous allez dans les airs, il faut que ce soit pour donner envie à votre adversaire de vous suivre dans les airs avant de fastfall pour le punir avec un Up Tilt ou un Up Smash. Privilégiez des approches rasantes ou des approches en vous servant des Tilt.
+BOUCLIER = DANGER. Même si Kirby possède des coups plutôt safe sur un bouclier, il existe des options beaucoup plus intéressantes pour prendre l'avantage. Ainsi, utiliser le Neutral B peut permettre de créer une ouverture ou il est encore possible de réaliser un tomahawk pour tomber brutalement sur votre ennemi et l'attraper. Cela vous permettra de remporter l'échange et de conditionner votre adversaire à moins utiliser son bouclier ou à choisir des options plus risquées, ce qui va donc vous créer encore plus d'ouvertures !","Backair (frame 9)
+Upsmash (frame 12)
+Nair, fair, upair (frame 13)","Kirby est un personnage qui offre une grande liberté de mouvement et de déplacement qui lui permet de mieux analyser la situation et de renverser le cours d'un match! C'est un personnage également agréable à prendre en main pour tout type de joueur car Kirby offre un grand confort de jeu grâce à ses nombreux sauts et au fait que le personnage ne possède pas de mécanismes complexes. Bref, un personnage plutôt facile à prendre en main, mais qui peut s'avérer redoutable surtout si votre ennemi ne fait pas suffisamment attention !","Jesuischoq
+
+/
+
+RK - Komota - SuperGirlKels","[06 - Kirby]
+:link: : https://discord.gg/MXtaYZs
+:passport_control: : Gashomy, Peeka",79,1.90,1.727,0.84,0.064,22,Kirby,kirby,kirby
+yass (contacté) - en attente au Brésil,"Fox
+en attente",,StarFox (1993 - SNES),,recovery prévoyante et très punitive,,,,,,,"Down B dans les airs (frame 6)
+Nair (frame 7)
+Dair, Upsmash (frame 8)","un des persos les plus rapides du jeu, des combos a gogos et des smash attacks rapide permettant de tuer en surprenant l'ennemi ","Yass
+
+/
+
+Light - LuiS - Paseriman","[07 - Fox]
+:link: : https://discord.gg/4JfXSG9
+:passport_control: : Shad",77,2.09,2.402,1.110,0.23,37,Fox,fox,fox
+enki (contacté) ou FRNK (réponse) ou reiko (réponse) ou tjuskar (réponse),Pikachu EN ATTENTE DE REIKO," Pikachu est un personnage nerveux et agressif qui ne laissera pas de répit à son adversaire pour peu qu'il ait une ouverture. Il peut ainsi compter sur sa petite taille ainsi que sur son excellent jeu de combo pour faire vivre un véritable enfer à des adversaires plus imposants. Généralement classé parmi les meilleurs persos de Smash, Pikachu reste une valeur sûre.",Pokemon Rouge et Bleu (1996 - Gameboy),"Difficile à toucher
+Rapide
+Bon jeu aérien
+Bonne recovery","Poids léger
+A du mal à tuer
+Manque de portée","Sacs à combos: Rob ou Ganon
+Pas le temps de respirer: Héros
+Majorité du roster","Renvoie ou absorbe: Ness, G and W
+Portée des attaques: Lucina","T and City, Yoshi Story, Kalos
+/
+BF PS2, Yoshis Island",,"Up B: Il s'agit d'un excellent moyen de revenir sur le terrain d'abord car vous pouvez vous déplacer dans deux directions différentes ce qui permet de grandement varier votre recovery, vous rendant quasiment invulnérable. De plus, cette attaque vous permet de vous approcher très rapidement d'un adversaire qui campe ou au contraire de vous sortir d'une situation difficile.
+Neutral Air: Ce coup est extrêmement intéressant. Il sort très rapidement, met la pression sur le bouclier adverse, est une bonne option en sortie de bouclier et touche plusieurs fois l'adversaire. De plus, il constitue la base des combos de Pikachu puisqu'on peut réaliser des combos comme le Nair Strings ou le Nair Loop. 
+Neutral B: C'est le meilleur projectile de Pikachu. Ce coup est un très bon outil de zoning et renvoie pas mal de projectiles. Sa trajectoire diagonale intéressante et sa capacité à suivre le terrain peuvent mettre la pression sur l'adversaire et ainsi permettre une approche en obligeant l'adversaire à choisir une option défensive, le bouclier ou le saut, que vous n'aurez plus qu'à punir!
+Forward Air: Une très bonne option pour tuer son adversaire. L'attaque est disjoint a une portée intéressante et dure longtemps ce qui permet de couvrir pas mal d'options lorsque l'adversaire est au bord du terrain.
+Donw Throw: Permet de lancer pas mal de combos, comme le Nair Loop dont j'ai parlé précédemment ou même d'être suivi d'un Fatal Foudre. Un outil à maîtriser pour avoir un bon jeu de combo, et qui fait des ravages contre les persos lourds.","Se méfier: Pikachu est un personnage qui donne un véritable sentiment de puissance, ce qui fait qu'il est possible de surestimer le personnage de façon globale. Du coup, évitez certaines options risquées et n'allez notamment pas à tout prix en dehors du terrain. Le neutral B n'est aussi pas utile en désavantage car il y a du lag sur l'attaque ce qui peut être facilement punissable. Et surtout faites attention quand l'ennemi est à kill pourcent à ne pas vous précipiter et à ne pas bourrer une dash attack ou un F Smash, et faites aussi attention car vous ne pouvez pas tout punir si l'adversaire tape sur votre bouclier.
+Vive contre attaque: Pikachu possède une très bonne recovery, qui lui permet de revenir de pas mal d'endroits en adoptant des angles intéressants. Cependant, cette attaque n'est pas non plus totalement safe, donc n'oubliez pas de bien choisir vos angles pour revenir sur le terrain et de varier le plus possible cette recovery car contre quelqu'un qui a l'habitude d'affronter Pikachu, ça peut vite faire très mal. Vous pouvez aussi utiliser le side B, mais utilisez-le avec soin car c'est une option très punissable.
+Auto pilot off: L'un des autres problèmes quand on joue Pikachu, c'est que pas mal d'attaques et d'enchaînements ou de façons de jouer peuvent fonctionner, vu que le personnage possède beaucoup d'atouts. Du coup, il peut arriver qu'on passe en auto pilot et que l'on prenne de mauvaises habitudes. L'un des exemples les plus frappants concerne l'esquive sur place que beaucoup de Pikachu font après une attaque car ils ne savent pas si leur action était safe ou non. Ne cédez pas à la panique et réflechissez à votre façon de jouer pour ne pas être lourdement puni.
+","Nair (frame 6)
+Backair, Upair (frame 7)
+Upsmash (frame10)","Pikachu vous permet d'incarner un personnage nerveux, vif et puissant qui est toujours plutôt bien classé dans les tier list. En effet, il possède de nombreux atouts et est assez complet, entre sa bonne recovery, ses projectiles et ses combos ce qui permet de s'emparer assez facilement du terrain et de ne pas posséder de grosse faiblesse. En plus de ça, il donne l'impression au joueur qui l'incarne de posséder une grande liberté de mouvement et de pouvoir se déplacer rapidement n'importe où, ce qui pourra facilement agacer votre adversaire, qui aura bien du mal à pouvoir maîtriser vos déplacements, ce qui le poussera à l'erreur de trop.","Enki - FRNK - Reiko
+
+/
+
+ESAM - DM88 - Kishiru","[08 - Pikachu]
+:link: : https://discord.gg/4Zu58Q5
+:passport_control: : FRNK, Reiko_SAc",79,1.98,2.039,0.957,0.095,35.5,Pikachu,pikachu,pikachu
+Tag (en cours de réponse),"Luigi
+en attente",,Super Mario Bros (1985 - NES),"le side B missfire qui surprendras n'importe qui si il sort, backthrow qui peut tuer facilement",,,,,,,,"Nair (frame 6)
+UpB, Upair (frame 8)
+Upsmash, Bair (frame9)","Bien que proche de son frère Mario, Luigi reste avant tout très surprenant dans beaucoup de ses attaques, un spike sur sa Dair, une taunt pouvant tuer un ennemi accroché au bord, le up B ayant une puissance démentielle si elle touche frame 1 et le missfire qui surprendras n'importe qui. il est aussi un perso qui combo pas trop mal et qui a des grabs très interessants, cependant, pour jouer la surprise de Luigi, faites comme avec tout les autres persos, et évitez d'être prévoyant","Tag
+
+/
+
+Elegant - Karupis - Shana
+","[09 - Luigi]
+:link: : https://discord.gg/DzKnQeX
+:passport_control: : Réhann, FireQuast",97,1.815,1.65,0.77,0.083,41.31,Luigi,luigi,luigi
+PEW,Ness,"Ness est un personnage assez puissant qui est realtivement simple à prendre en main tout en possédant un gameplay vraiment unique. Adepte du jeu de zoning et des attaques qui peuvent facilement éjecter un adversaire, Ness peut compter sur sa physique flottante particulière et sa petite taille qui le rend difficile à toucher pour renverser le cours d'un match.",Mother 2 ou Earthbound (1994 - SNES),"Bon edgeguard et ledgetrap
+Bon jeu de zoning
+Dur à toucher
+Bon kill power","Peu de mobilité
+Recovery exploitable
+L'un des pires désavantages","Sacs à combos: K Rool, Ganondorf, DK
+Empêche le focus: Ken et Ryu","Portée et épée: Shulk et Lucina
+Contrôle les airs: Palutena
+Projos par milliers: YLink","Smashville, Lylat
+/
+CB, DF","Ness est un personnage qui possède une recovery qui diffère des autres personnages car il doit se frapper lui-même avec un PK Thunder pour pouvoir se projeter en direction du terrain. A noter que vous pouvez effectuer un deuxième PK Thunder si vous frappez contre le terrain, à condition de ne pas attendre trop longtemps. En autre particularité, le Forward Smash de Ness peut aussi renvoyer les projectiles.","Down Smash: Le yoyo peut totalement renverser une situation, notamment lorsqu'un personnage adverse se le prend sur sa recovery. En plus de ça, c'est un excellent coup pour tuer l'ennemi même s'il a réussi à s'agripper au rebord!
+Aerials: Le Forward Air sert ainsi pour le jeu neutre et la possession du terrain, Le Up Air, quant à lui, possède un gros kill power et met la pression sur le bouclier adverse  Du côté du Back Air, c'est une attaque qui possède une bonne portée et qui conditionne l'adversaire. Enfin, pour ses attaques aériennes, le Neutral Air est la meilleure option en sortie de bouclier du personnage.
+Up B: Le Pk Thunder  inflige beaucoup de dégâts à un adversaire en dehors du terrain et permet de tuer en restant bien au chaud chez soi. C'est une attaque qui peut aussi servir à jongler avec l'ennemi ou à effectuer une frappe surpsuissante.
+Side B: Le fameux PK Fire est un excellent outil également à sa disposition pour zoner, notamment contre des persos à projectiles! Cela permet aussi de tuer à coup sûr ou de punir une roulade, tout en ayant la faculté d'annuler le saut, ce qui rendra le personnage un peu moins flottant!
+Down B: Ce coup est très utile pour approcher son ennemi afin de pouvoir initier ou de poursuivre un combo qui pourra même parfois mener à un kill confirm! Elle peut aspirer ou renvoyer certains projectiles, en plus de repousser légèrement l'adversaire ce qui peut permettre de se mettre à l'abri de certaines attaques et de pouvoir punir. C'est un très bon outil pour varier le déplacement et les combos de Ness!","Attention en désavantage: L'un des points les plus importants, lorsque l'on joue Ness, consiste à bien gérer ses phases de désavantage et notamment à ne pas gaspiller son deuxième saut n'importe comment, car sans deuxième saut, la recovery de Ness est extrêmement lisible et donc très facilement punissable. Et si jamais vous avez conservé votre deuxième saut, faites bien attention à bien accrocher le rebord et à ne pas dépasser en retombant avec une esquive aérienne, c'est très punissable. Et d'une manière générale, évitez l'esquive aérienne pour retomber.
+PK........ Fire : Le PK Fire est un très bon outil de Ness, qui lui permet de contrer pas mal de match ups. Cependant, beaucoup de débutants ne l'effectuent qu'au sol alors que l'attaque possède beaucoup de lag à ce moment-là. Donc si vous l'effectuez à terre, apprenez à bien gérer la distance de sécurité, et sinon privilégiez une utilisation aérienne qui est bien plus safe, qui couvre les airs et qui permet de se déplacer en même temps.
+Soyez prudents: Ness est un personnage qui n'a pas beaucoup de vitesse dans les airs, mais son accélération aérienne qui lui permet de changer de direction en l'air est excellente.Donc, n'hésitez pas à reculer en attaquant grâce à des Neutral Air ou des Forward Air qui sont vraiment safe et qui couvrent beaucoup d'espace, afin de vous garder une porte de sortie. Ne foncez pas tête baissée sur l'ennemi car en plus de ça, Ness a du mal à approcher, ce qui fait que chaque interaction doit être réfléchie.
+
+","Nair, Upair (frame 8)
+UpSmash, DownB dans les airs (frame 10)
+Fair (frame11)","Avec Ness, vous aurez la satisfaction de placer des mouvements difficiles qui vous donneront l'impression d'être un vrai technicien. Il possède beaucoup d'options qui en font un personnage plutôt puissant, entre son contrôle aérien, son edgeguard ou sa capacité à tuer son adversaire! Cela fait que le personnage est capable de s'adapter à différentes façons de jouer et à différents match ups, et les buffs du personnage font qu'on en découvre tous les jours sur lui, ce qui fait qu'il reste encore plein de nouvelles mécaniques à explorer! Bref, un personnage qui n'a pas fini de livrer tous ses secrets.","Pew - Pandaroux - Scal
+
+/
+
+Gackt - Bestness - Awestin","[10 - Ness]
+:link: : https://discord.gg/3c5JPBh
+:passport_control: : Scal, Pandaroux",94,1.826,1.609,1.007,0.077,45.65,Ness,ness,ness
+ogey (contacté),"Captain Falcon (Periklès)
+en attente",,F-Zero (1990-SNES),,,,,,,,,"Nair, Upair (frame 10)
+Backair (frame 13)
+UpB, jab (frame14)","La définition même du haut risque, hautes récompenses, il est particulièrement vulnérable et se fait combo facilement, mais une fois l'avantage en sa faveur, c'est lui qui s'amuse, et est capable de tuer très vite","Ogey - Pmousse
+
+/
+
+Fatality - Nishiya - NickC","[11 - Captain Falcon]
+:link: : https://discord.gg/zxxdHxU
+:passport_control: : Pmousse",104,1.98,2.552,1.218,0.12,37.31,Captain Falcon,captain_falcon,captain_falcon
+gin (contacté),"Rondoudou
+
+JIGGLYPUFF","Rondoudou est le personnage qui ne suit pas les règles de la physique du jeu grâce à ses 6 sauts et à sa grande capacité de déplacement aérienne, qui ne laisseront aucun répit à son adversaire. Capable de se déplacer partout et de punir la moindre erreur de son adversaire, Rondoudou est un personnage devant lequel il ne faudra pas s'endormir.",Pokemon Rouge et Bleu (1996 - Gameboy),"Grande liberté de mouvement
+Redoutable en edgeguard
+Tech chase dangereux","Poids léger
+Maîtrise nécessaire du spacing
+Manque de portée","Facile à edgeguard (captain / fox / falco)
+
+Sacs à combos (DK / K Rool / DDD)","Portée des attaques : Palutena / Shulk
+Némésis : Yoshi","CB / SV
+
+TC / Kalos","Rondoudou est un personnage qui a des options aériennes différentes des autres membres du roster. En effet, Rondoudou possède 6 sauts contrairement aux autres ce qui lui permet de pouvoir se déplacer librement dans les airs. En contrepartie, son Up B ne lui permet pas de revenir sur le terrain, mais sert à chanter une berceuse pour endormir ses adversaires. Rondoudou possède également une singularité qui peut être plutôt gênante. En effet, si jamais vous réussissez à briser son bouclier, le personnage meurt immédiatement peu importe à quel pourcentage Rondoudou se trouvait.","Side B : Attaque extrêmement utile qui permet de se déplacer dans les airs et au sol en ayant une hitbox active assez longtemps. Cette attaque inflige aussi beaucoup de dégâts au bouclier adverse, quitte à parfois le briser. Ce coup peut même permettre de démarrer à un combo qui peut être dévastateur !
+Dash Attack: Le meilleur killmove de Rondoudou au sol qui peut tuer n'importe qui dès 110% au bord du terrain, en plus de donner la possibilité de passer derrière le bouclier de l'adversaire . C'est aussi un très bon outil pour poursuivre son adversaire au sol, tout en surprenant votre adversaire qui s'attendra rarement à une attaque au sol de la part de Rondoudou. 
+Forward Air: L'une des meilleures options dans les airs de Rondoudou. Cette attaque permet de bien défendre le rebord du terrain, quitte à mener au Rest de Rondoudou quand le coup est légèrement retardé.
+Neutral Air: L'une des meilleures options dans les airs de Rondoudou. Contrairement au Forward Air, cette attaque repousse plus violemment ce qui fait qu'elle est généralement utilisée pour terminer un combo.
+Down B: Le rest est le mouvement signature de Roudoudou. Ce mouvement risqué enverra la plupart du casting cueillir des fraises à partir de 60 % sur Destination Finale et est idéal pour punir les roulades intempestives de votre adversaire ! Attention, tout de même, même s'il existe des moyens de rendre le mouvement assez sûr, le rest possède un cooldown de 4 secondes pendant lequel vous serez entièrement vulnérable !","Lire les trajectoires: Rondoudou est un personnage qui peut lourdement punir un adversaire dès que ce dernier se retrouve dans une situation compliquée, c'est pourquoi il va falloir s'entraîner à correctement edgeguard et à lire les trajectoires de ses adversaires lorsqu'ils essaient de revenir sur le terrain afin de couper leurs trajectoires au mieux. Cela vaut aussi pour toute situation de tech chase, apprenez à couvrir toutes les possibilités restantes de votre ennemi lorsque vous l'avez mis dans cette situation.
+Ne pas avoir peur: Rondoudou possède des attaques très intéressantes comme le Side B et le Down Air, surtout quand vous les combinez. En effet, vous pouvez quasiment briser le bouclier ennemi avec le Side B avant de Shieldpoke avec le Down Air ce qui vous créé une ouverture quasiment à coup sûr, donc n'hésitez pas à en profiter et à abuser de ces attaques. De même, Rondoudou possède beaucoup de sauts, n'hésitez donc pas à les utiliser pour pouvoir edgeguard facilement un adversaire en dehors du terrain !
+Connaître son corps: Cela passe par une bonne connaissance de ses attaques et de ses capacités. Rondoudou étant un personnage léger,soyez vigilant à choisir le moment opportun pour utiliser au mieux telle ou telle attaque, pour rentabiliser au mieux la moindre punition. Au-delà de ça, Rondoudou a la meilleure mobilité aérienne de jeu, ce qui peut facilement perturber un joueur non habitué. Il faut donc s'habituer à cette mobilité particulière pour gérer au mieux son spacing.
+","Down B dans les airs (frame 5)
+Nair (frame 9)
+Dair (frame 10)
+","Avec Rondoudou, lorsque vous gagnez un affrontement, vous saurez que vous l'aurez mérité à la sueur de votre pad ! Cela procure un sentiment grisant, d'autant plus que le personnage est vraiment unique car il n'a pas les mêmes restrictions que ses adversaires, notamment au niveau des sauts ! De plus, elle possède bon nombre de combos dévastateurs terriblement satisfaisants à placer et son edgeguarding est excellent pour apprendre et s'améliorer en défense de rebord de terrain ! Un personnage unique qui procure un sentiment indescriptible lorsqu'on réussit à la maîtriser et à remporter des victoires !","Gin
+
+/
+
+Hungrybox - Bassmage - Arika","[12 - Rondoudou]
+:link: : https://discord.gg/dFySWuP
+:passport_control: : Feilex",68,1.65,1.271,1.332,0.053,19.79,Rondoudou,purin,purin
+meru (contacté) ou zeroFK ou zudenka,"Peach
+en attente",,Super Mario Bros. (1985-NES),,,,,,,,,"UpB (frame 7)
+Nair (frame 8)
+Backair (frame 9)",,"Meru - Dia - Zudenka
+
+/
+
+Samsora - MuteAce - Umeki - Kie","[13 - Peach & Daisy] 
+:link: : https://discord.gg/5EDcCC9
+:passport_control: : Kirino, Hoka",89,1.826,1.595,1.029,0.07,30.030,Peach,peach,peach
+,Daisy,,Super Mario Land (1990-GameBoy),,,,,,,,,,,,,89,1.826,1.595,1.029,0.07,30.030,Daisy,daisy,daisy
+gulbutron  ou yami (gulbutron contacté )FAIT,Bowser (Tamalou),"Bowser est un personnage qui peut compter sur sa force et sur son poids pour faire des ravages chez ses adversaires que ce soit grâce à la puissance et la portée de ses attaques, mais aussi grâce à sa faculté à s'emparer du contrôle du terrain. Un personnage devant lequel vous risquez de trembler, à l'image du terrain lorsque Bowser se met en animation de course.",Super Mario Bros (1985 - NES),"Très résistant
+Un personnage rapide
+De gros dégâts et une grosse éjection
+Des attaques utiles","Moves punissables
+Mauvais désavantage
+Recovery linéaire
+Pas safe en attaque","Dur d'approcher: K Rool, DK, LM
+Pas le temps: Héros
+","Petits comboteurs: Pikachu, Amphinobi
+Zoneurs: Ness, YLink
+Attaques aériennes: Palutena, Roy",En fonction des MU.,Bowser est un personnage lourd et puissant qui possède de l'armure sur certaines de ses attaques ce qui le rend invincible lorsqu'il est dans certaines animations. Il faut donc être vigilant à ne pas se précipiter sur lui dans ces moments-là car vous pourriez bien être surpris et puni.,"Neutral Air: C'est une attaque qui fait pas mal de dégâts et qui lui permet d'initier un combo à n'importe quel pourcent, il est donc primordial et peut même mener à un kill confirm!
+Side B: Le coup ignore le bouclier adverse, met beaucoup de pourcentages et permet de tuer votre adversaire. L'attaque sort effectivement à la frame 6 même dans les airs, ce qui en fait une bonne option en sortie de bouclier ou pour atterrir sur le terrain. Attention toutefois à ne pas en abuser, et tout le coeur du mind game sera justement de varier entre un Fair ou un Side B. Bref, certainement le meilleur command grab même si l'attaque possède aussi un gros ending lag, ce qui en fait donc une option risquée.
+Up Smash:  Cette attaque permet de parer 70% des contres du jeu car la contre attaque frappera dans la carapace qui dispose d'une invincibilité et de disjoint, ce qui en fait également l'une des meilleures options anti aériennes. De plus, l'attaque dispose d'une très bonne puissance d'éjection, tout en faisant de groos dégâts sur les pointes. L'attaque permet même de lancer un combo si l'ennemi est éjecté par la seconde hitbox de l'attaque, quand Bowser retombe. 
+Up B au sol: Même si ce n'est pas une attaque qui ne donne pas à Bowser une grande recovery dans les airs, elle est en revanche très utile au sol. C'est une très bonne option en sortie de bouclier et elle permet de punir rapidement un adversaire car elle touche des deux côtés tout en donnant à Bowser la possibilité de se déplacer des deux côtés, ce qui peut aussi lui permettre de couvrir l'atterrissage de certaines attaques aériennes.  Attention tout de même car l'attaque possède tout de même pas mal de lag de fin et peut donc être fortement punissable.
+Forward Air: Attaque puissante qui possède une bonne range malgré un startup assez lent, ce qui permet de remporter la phase de neutral dans pas mal de match up où l'adversaire ne possède pas beaucoup de portée. La zone couverte est très large ce qui en fait une option effrayante en edgeguard mais aussi une attaque qui permet de toucher des ennemis trop petits ou qui seraient dans le dos de Bowser. L'attaque la plus safe de Bowser sur un bouclier, qui peut aussi mener à des combos à bas pourcents ou éjecter à haut pourcents.","Réfléchir: Même si Bowser est un personnage puissant, cela ne sert à rien de foncer dans le tas sans réfléchir car Bowser n'est jamais véritablement safe si l'adversaire anticipe bien vos attaques.  Le gameplan de Bowser doit donc consister en un mélange subtil de défense et d'aggression et il faut savoir quand passer de l'un à l'autre et se montrer patient.
+Up B risqué: Apprenez déjà à vous en servir pour revenir sur le terrain, car il faut appuyer à des frames précises pour aller plus ou moins haut et n'appuyez pas comme un bourrin sur le B, cela le fera aller moins haut. Et surtout, faîtes attention à ne pas abuser du Up B en sortie de bouclier. C'est un coup qui est très facile à punir si on le bait et qui ne se connecte pas toujours. En plus de ça, beaucoup d'attaques sont safe sur votre bouclier et il faut accepter de ne pas pouvoir toutes les punir.
+Pas trop de flammes; Attention à ne pas abuser non plus du Neutral B dans la phase de neutral, car même si c'est une attaque qui peut faire pas mal de dégâts, c'est une option qui vous fait aussi prendre de très gros risques. Rappelez-vous, Bowser reste immobile pendant plus d'une seconde lorsqu'il effectue cette attaque.","UpB (frame6)
+SideB dans les airs (frame9)
+Nair (frame 11)","Bowser vous confère un sentiment de puissance inégalable. La taille et la puissance de Bowser lui confèrent ainsi une aura menaçante qui peut pousser votre adversaire à cumuler les erreurs d'appréciation.  Bowser tape comme un camion et tous ses coups sont satisfaisants.  En plus de ça, Bowser est plutôt facile à prendre en main et offre suffisamment d'atouts pour permettre une bonne marge de progression sans être frustré. A reserver donc à ceux qui aiment mettre des coups qui ont un véritable impact et qui aiment quand le sol tremble sous leurs pas. ","DineauZoR - Mika - Gulbutron
+
+/
+
+Leon - Mew2King - DeluxeMenu","[14 - Bowser]
+:link: : https://discord.gg/nF9kx7W
+:passport_control: : Ampha",135,2.255,1.971,1.155,0.125,32.61,Bowser,koopa,koopa
+linkeur (contacté),Ice Climbers,,,,,,,,,,,"Nair (frame9)
+upari(frame10)
+backair (frame11)",,"Linkeur - Myollnir?
+
+/
+
+Big D - Dynax - Wishes","[15 - Ice Climbers]
+:link: : https://discord.gg/eDqA2Xp
+:passport_control: : Neibaf",92,1.68,1.683 ,0.83,0.082,34.69,Ice Climbers (Nana),ice_climber_nan,ice_climber
+,,,,,,,,,,,,,,,,92,1.68, 1.53 ,0.83,0.082,34.69,Ice Climbers (Popo),ice_climber_popo,ice_climber
+il existe ce perso?,Sheik,,The Legend of Zelda : Ocarina of Time (1998-N64),,,,,,,,,"Nair (frame6)
+backair, upair (frame7)
+fair (frame8)
+",,"Mitsu
+
+/
+
+VoiD
+
+","[16 - Sheik]
+:link: : https://discord.gg/edvYN57
+:passport_control: : Mitsu",78,2.178,2.42,1.155,0.15,40,Sheik,sheik,sheik
+purner (contacté),Zelda (Periklès),,The Legend of Zelda (1986 - NES),,,,,,,,,"UpB (frame6)
+Nair, Fair, Bair, Usmash (frame9)
+NeutralB dans les airs (frame14)",,"Purner - Guilder - Kirino
+
+/
+
+Ven - Mysterica - Raykushi - ZeroTwoNone
+
+","[17 - Zelda]
+:link: : https://discord.gg/ke3SBMC
+:passport_control: : Powarman, Kirino, Erotic-Heretic et Leaf",85,1.958,1.43,1.092,0.071,31.55,Zelda ,zelda,zelda
+Oryon (contacté),Dr.Mario (Shadow),,Docteur Mario (1990 - NES),,,,,,,,,"UpB (frame3)
+Nair (frame6)
+Upair (frame7)
+",,"Oryon
+
+/
+
+LuiS
+","[18 - Dr. Mario]
+:link: : https://discord.gg/dYj72gq
+:passport_control: : TTRIS, Xalyga",98,1.5375,1.397792,0.9238784,0.087,36.33,Dr.Mario ,dr_mario,dr_mario
+sylver (pas de message via Twitter),Pichu,,Pokemon Or et Argent (1999 - GameBoy),,,,,,,,,"Nair (frame6)
+uair (frame7)
+bair (frame8)",,"Naetoru - à voir
+
+/
+
+Nietono - VoiD - Blacktwins","[19 - Pichu]
+:link: : https://discord.gg/5NBk3MT
+:passport_control: : Mocra, Yosma",62,1.98,1.892,1.029,0.14,36.02,Pichu,pichu,pichu
+anragon(Contacté),Falco (Periklès),,StarFox (1993 - SNES),,,,,,,,,"Nair (frame6)
+Usmash (frame7)
+Fair, Upair (frame10))",,"Anragon
+
+/
+
+Juice","[20 - Falco]
+:link: : https://discord.gg/EdBwraB
+:passport_control: : Destadik",82,2.035,1.619,0.977,0.13,50.51,Falco ,falco,falco
+zeroFK(mp twitter bloqué),Marth,,Fire Emblem : Ryu to Hikari no Tsurugi (ou Shadow Dragon and the Bladeof Light) (1990-NES) ,,,,,,,,,"UpB (frame5)
+Upair (frame8)
+Nair, Fair (frame9)",,"ZeroFK
+
+/
+
+MKLeo","[21 - Marth & Lucina] 
+:link: : https://discord.gg/8Rqa2Vj
+:passport_control: : YOSMA",90,2.255,1.964,1.071,0.075,33.66,Marth,marth,marth
+n'importe quel top fr (gluto compris) (Leon contacté),Lucina,"Lucina est un personnage très puissant, choisie par de nombreux joueurs à haut niveau, grâce à son énorme capacité d'adaptation. Ce côté polyvalent provient ainsi de son excellent jeu aérien et de ses attaques qui peuvent être utilisées pour couvrir pas mal d'options et de différents gameplays adverses.",Fire Emblem Awakening (2012 - 3DS),"Personnage top tier
+Bonne allonge
+Coups multiusages
+Grande capacité d'adaptation","A du mal à atterrir
+Smash et spéciaux punissables
+Met du temps à tuer",Majorité du roster,"Vivacité: Pikachu, Joker  et Inkling
+Plus d'allonge: Shulk
+Nemesis: Amphinobi","BF, PS2, SV
+/
+Kalos, DF","Contrairement à Marth, Lucina ne possède pas de tipper sur la pointe de son épée, ce qui veut dire que toute son épée occasionne les mêmes dégâts et possède la même puissance d'éjection. Cela fait de Lucina un personnage plus constant que Marth car elle va tuer et faire des dégâts plus régulièrement. En revanche, le fait qu'elle ne possède de tipper sur ses attaques fait qu'elle ne va pas s'emparer d'une stock aussi rapidement que Marth.","Son Down Tilt. C'est une attaque très safe et qui est quasiment impunissable, ce qui assure à Lucina une vraie domination au sol. Son down tilt est son meilleur coup, tout simplement. A haut pourcent, il lance une situation de tech chase, et le down Smash est garanti au ledge après avoir utilisé le down tilt. Le coup donne ainsi pas mal de situations de kills
+Son back air. C'est une attaque indispensable dans l'arsenal de Lucina. Il s'agit d'un excellent coup pour tuer son adversaire, mais aussi afin de mettre la pression sur le bouclier adverse à l'atterrissage et peut très bien se combiner avec le neutral B pour briser le bouclier vu qu'il condittionne justement l'adversaire à se protéger. L'attaque possède une très bonne portée horizontale et verticale, ce qui en fait le coup pour edgegaguard.
+Son down B. Son contre est excellent lui aussi surtout en edgeguard car il permet de repousser voire de tuer la moîtie du roster au moins. Attention, c'est une attaque à ne jamais utiliser dans le neutral. 
+Son Fair. Cette attaque lui permet de conserver une distance suffisante tout en empêchant l'adversaire de s'approcher trop près! Le Fair est le coup pour combo, à mid pourcent, il peut être suivi d'un neutral air ou donner des situations de tech chase. A haut pourcent, il est très utile pour edgeguard
+Son neutral B. Cette attaque peut être très intéressante car elle peut permettre de briser le bouclier adverse. On peut même l'orienter pour shield poke ou pour éjecter plus facilement! Attention, cependant, l'attaque est plutôt lente ce qui en fait une option high risk high reward
+Son neutral air, Cette attaque aérienne permet de confirm sur un smash à 80 pourcent, ce qui le rend redoutable à haut pourcent. Ce coup permet de spacer, de taper en arrière, permet de cross up tout en étant safe sur un bouclier. Bref, une des  meilleures attaques pour approcher et mettre la pression sur ses adversaire!
+"," - Stop Smash: Même si les attaques Smash de Lucina, sont assez intéressantes et lui permettent de s'emparer d'une vie adverse, faites attention à ne jamais bourrer les Smash car ils sont extrêmement punissables ! Il faudra donc trouver d'autres manières de se débarasser d'un ennemi ou réserver les Smash pour les meilleurs moments, ce qui peut finalement être utile pour tous les persos !
+
+-Short hop only: Lorsque vous sautez, vous pouvez effectuer un saut plus ou moins haut en appuyant plus ou moins légèrement sur la touche du saut. Lucina, elle, est un personnage qui profite énormément des petits sauts ou short hop. Effectivement, cela rendra Lucina beaucoup plus rapide et elle pourra dès lors infliger une meilleure pression à son adversaire.
+- A la retombée: Autre point qui concerne toujours les attaques aériennes de Lucina, faites attention à davantage placer les attaques aériennes de Lucina au moment où elle redescend plutôt qu'au moment où elle est en train de s'élever dans les airs! Cela lui permettra plus facilement d'initier des combos tout en la rendant moins punissable!","UpB (frame5)
+Upair (frame8)
+Nair, Fair (frame9)","Avec Lucina, on peut facilement s'adapter à n'importe quel type de jeu, que ce soit un jeu défensif, offensif, de zoning ou de camp. Elle peut être jouée de n'importe quelle manière ce qui n'est donc jamais frustrant ! En plus de ça, elle est agréable à jouer car elle a un très bon jeu pour punir ses adversaires, si elle leur a suffisamment mis la pression. Vos actions ont donc un réel intérêt. Et au-delà du personnage en lui-même, pour la maîtriser pleinement, il faudra connaître ses fondamentaux de la logique d'un jeu de combat, ce qui fait que le personnage peut être intéressant à prendre en main quand on débute par exemple !","Leon
+
+/
+
+ProtoBanham - MkLeo - Mr. E",,90,2.255,1.964,1.071,0.075,33.66,Lucina,lucina,lucina
+,"Yink (Tamalou)
+
+YOUNG LINK",,The Legend of Zelda : Ocarina of Time (1998-N64),,,,,,,,,"nair (frame7)
+upair (frame8)
+upB (frame9)",,"
+
+/
+
+Mr. R - Biddy - Kobe","[22 - Link Enfant]
+:link: : https://discord.gg/zcZFt7x
+:passport_control: : SnowFox, Tigrlou",88,2.09,1.749,0.966,0.096,33.66,Link Enfant,young_link,young_link
+glutonny (contacté par Tamalou / sans réponse),Ganondorf (Periklès),,The Legend of Zelda : Ocarina of Time (1998-N64),,,,,,,,,"Nair (frame10)
+upair (frame11)
+bair (frame13)",,"Glutonny - Dr Dorf
+
+/
+
+Rickles - Luz - ParagonX9","[23 - Ganondorf]
+:link: : https://discord.gg/3G7akxP
+:passport_control: : LethalJoke",118,1.87,,0.83,0.108,26,Ganondorf ,ganondorf,ganondorf
+ gardios(MP twitter bloqué),Mewtwo,,Pokemon Rouge et Bleu (1996 - GameBoy,,,,,,,,,"Usmash (frame9)
+Nair, Fair (10)
+Upair (13)",,"Dreekius - Gardios
+
+/
+
+WaDi - Zenkai - SDX ","[24 - Mewtwo] 
+:link: : https://discord.gg/JFtDMph
+:passport_control: : Dreekius",79,2.255,2.255,1.313,0.082,57.35,Mewtwo,mewtwo,mewtwo
+the flow (Contacté) ou nishinoma,Roy/Chrom (Periklès),"Roy est un personnage rushdown, terriblement agressif qui ne laisse aucun répit à son adversaire, tout en étant lui-même assez safe grâce à la portée de ses attaques. Un personnage qui ne va pas vous lâcher de sitôt car, contrairement à Marth, la partie de son épée la plus dangereuse est près de son corps.",Fire Emblem The Binding Blade (2002 - GBA),"- un personnage rapide
+- Attaques safes
+- Attaques puissantes
+- Oppressant et punitif","Mauvaise accélération aérienne
+Mauvais désavantage
+Recovery exploitable
+Sourspot de l'épée","Sacs à combos: DK, K Rool, 
+Mauvais jeu au sol: Dr Mario, Félinferno, Ganondorf
+Top tiers: Palutena, ZSS, PT","Petits persos: Pichu, Pikachu, Gre
+Persos pas évidents: Joker, Inkling","TanC, SV, PS2
+/
+","Roy est un personnage épéiste qui possède une particularité au niveau de son épée. Contrairement à Marth ou Lucina, il possède effectivement un Sweetspot au niveau de son fourreau, et un Sourspot au niveau du bout de son épée, ce qui rend ses attaques au corps à corps beaucoup plus efficaces et violentes. Cela conditionne ainsi tout le jeu de Roy, qui doit donc se rapprocher le plus possible de son ennemi.","Son Down Tilt. C'est son coup le plus safe, qui n'est pas punissable sur un bouclier et qui permet d'observer tranquillement comment l'adversaire va réagir tout en exerçant une grosse pression au sol. En plus de ça, à partir de 50%, l'attaque offre une énorme récompense car elle peut mettre en situation de tech chase, ce qui peut mener à une mort prématurée.
+Le jab: L'attaque n'est pas la plus safe qui soit, ce qui en fait un coup moins important que le Down Tilt. Cependant, c'est un coup qui peut mener à tous les combos imaginables à n'importe quel pourcent, ce qui en fait une option peu risquée mais qui peut offrir de très grosses récompenses, comme notamment le jameux Jab Back Air.
+Le Side B: Attaque très puissante car elle offre un bon panel de possibilités et de variations. C'est une option bien plus rapide que pas mal de smash, sachant que l'attaque peut tuer bien plus tôt qu'un smash. Et si vous avez peur de lancer cette attaque, soyez informés que le jab permet d'assurer son side B. Enfin, le side B peut être utile en reverse pour permettre de modifier ses déplacements.
+Attaques aériennes: Chacune possède ses avantages. On retiendra surtout le Forward Air et le Up Air qui consituent les meilleurs outils de pression aérienne de Roy et le Back Air qui est très utile pour tuer, notamment quand on tape avec le sweetspot de l'épée. Cependant, si vous tapez avec le sourspot de l'épée, le coup reste intéressant car cela permet de mettre l'adversaire en situation de techchase.","Pas taper bouclier: Evitez de taper sur le bouclier adverse surtout avec n'importe quelle attaque, que ce soit le neutral air ou surtout le jab. C'est une option relativement safe mais qui peut facilement être puni par pas mal d'options en sortie de bouclier. Préférez donc des options comme le  Down Tilt, le Forward Air en crossup ou non, le Up Air et n'oubliez pas de bien varier avec des grabs.
+Varier ses approches:  Il va vraiment falloir travailler sa phase de neutral et ne pas simplement foncer tête baisséer. La mauvaise accélération aérienne de Roy rend chaque approche risquée, ce qui fait qu'il faut faire en sorte d'éviter d'être prévisible dans ses approches car l'adversaire peut facilement parry une attaque trop prévisible. N'oubliez pas de vous servir aussi de vos grabs et d'utiliser en priorité le Down Tilt.
+Une recvovery exploitable: Enfin, soyez vigilant vis-à-vis de vos options de recovery. C'est un conseil qui s'applique à beaucoup de personnages et particulièrement à Roy. Sans son deuxième saut, Roy aura quand même pas mal de difficultés à revenir, donc faites bien attention à conserver des options et surtout à varier votre façon de revenir.","Upair (8)
+Nair, UpB (9)
+Usmash (12)","Roy possède des combos incroyables et une véritable puissance pure. Roy, c'est sans conteste une démonstration de puissance pure et l'un des personnages qui incarne le mieux l'agression sur ce jeu. Le simple bruit du Sweetspot exacerbe d'autant plus le sentiment de puissance ressenti et permet de se rendre compte de l'impact de ses propres coups. Bref, si vous souhaitez jouer un personnage qui peut facilement étouffer son adversaire tout en se servant d'une épée pour être safe, il faut donc jouer Roy. D'autant plus que le personnage est plutôt bien placé dans les tier list et qu'il permet d'obtenir de bons résultats à haut niveau.","Flow - Nishinoma
+
+/
+
+Goblin - Kola - Stroder","[25 - Roy & Chrom] 
+:link: : https://discord.gg/wwnhVjS
+:passport_control: :Tonhalluil",95,2.2,2.145,1.302,0.114,28,Roy,roy,roy
+,Chrom,,Fire Emblem Awakening (2012 - 3DS),,,,,,,,,"Upair (8)
+Nair (9)
+UpB(10)",,"Flow - Chanman
+
+/
+
+Rivers - Mr. R - Goblin",,95,2.2,2.145,1.302,0.114,28,Chrom,chrom,chrom
+phyel (mp twitter bloqué) / thisNeko (c),G&W,"Mr Game & Watch est un personnage fun et surprenant qui mêle aléatoire avec son marteau et combos techniques dévastateurs. En outre, il possède de nombreuses attaques terrifiantes et de très bonnes options en sortie de bouclier ce qui en fait un personnage qui peut lourdement punir un adversaire trop pressé ou inattentif.",Ball (1980 - Game & Watch),"- bon en avantage
+- gros dégâts
+- bon en défense
+- surprenant","- Poids très léger
+- Faible portée
+- A du mal à tuer","Abuse en désavantage: DK, Ganon, Little Mac
+Empêche de zoner: Pikachu, Ness, Plante
+Renvoie les projectiles: Snake, Villageois, Marie","Portée affreuse: Shulk, Ike
+Dans les airs: Palutena, Peach, Corrin
+Persos trop mobiles: Amphinobi, Roy et ZSS","Yoshi Sotry / Lylat / BF
+/
+DF, Kalos","Mr Game & Watch possède une aptitude qui lui est propre, puisqu'il possède une attaque qui contient une grosse part d'aléatoire. Effectivement, son Side B, le marteau lui permet d'effectuer une attaque plus ou moins puissante en fonction du chiffre qui est tiré, 9 étant l'attaque la plus puissante. Certains chiffres lui permettent d'invoquer de quoi se régénérer ou même de geler son ennemi. A noter tout de même que deux chiffres identiques ne peuvent tomber consécutivement. Il s'agit certainement de l'attaque la plus emblématique du personnage. Autre attaque spéciale intéressante, son Neutral B lui permet d'absorber ou de renvoyer certains projectiles. En fonction de la puissance de ce qui est absorbé, Game & Watch peut remplir plus ou moins rapidement son attaque qu'il peut ensuite déverser sur son adversaire, attaque qui reste chargée d'une vie à l'autre tant que vous ne l'avez pas utilisée.","Son Up B; C'est le coup signature de Game and Watch en compétition. Il est utilisé partout et pour tout, que ce soit en sortie de bouclier, en début ou fin de combo, afin de briser un combo adverse ou pour empêcher l'adversaire de revenir sur le terrain. Il s'agit d'un coup redoutable donc grâce notamment à son excellente frame data.
+Son Nair. C'est son outil de combo principal. L'attaque inflige beaucoup de dégâts et punit très bien un saut adverse. Le Neutral Air est intéressant lors d'une phase de combo quand il est par exemple précédé d'un Up B en sortie de bouclier, ou en début de combo lorsqu'il touche à l'atterrissage.
+Son Back air. Il s'agit du meilleur outil de Game and Watch afin de rester à distance raisonnable de son adversaire. Le coup possède une bonne portée, souffre de peu de lag dans les airs et bénéficie même d'une hitbox à l'atterrissage, ce qui le rend compliqué à punir. C'est également un très bon outil pour edgeguard.
+Son Down Smash. Il s'agit du coup pour achever son adversaire. En plus de souffrir de peu de lag et d'avoir une bonne portée, le fait de toucher avec le bout des marteaux peut enterrer son adversaire. Passé 70/80% c'est la mort assurée car il peut généralement être suivi d'un Forward Smash.","1) Ne pas spammer certaines attaques: Mr Game & Watch est un personnage qui possède certaines attaques très intéressantes, ce qui fait qu'on peut être tenté de les utiliser un peu trop souvent. Ainsi, il faudra par exemple éviter d'abuser du Down Air pour revenir sur le terrain dès qu'on se prend un coup. C'est une option qui peut être très punissable pour revenir en phase de neutral donc variez vos façons de revenir. Autre exemple, attention à ne pas utiliser que des Smash lorsque l'adversaire est à kill pourcent. Si ça ne fonctionne pas, utilisez d'autres attaques tout simplement.
+2) Jouer défensif: Avec ce personnage, on peut avoir tendance à jouer trop agressif, cela étant sûrement dû à son bon jeu de combo et surtout à certaines de ses attaques qui peuvent vous sauver de certaines situations dangereuses. Cependant, il est important de bien varier ses approches et même parfois de ne pas hésiter à camper pour empêcher toute approche. Un bon joueur saura basculer d'un gameplay agressif à un fameplau défensif sans chercher à agresser en permanence son adversaire.
+3) Gérer ses attaques spéciales: Alors, oui il est tentant de vouloir caler un petit Side B des familles pour s'emparer d'une stock adverse. Toutefois, cela reste une option risquée qu'il vaut mieux éviter, à moins d'être en avance ou de vouloir passer dans une compilation. D'une manière générale, évitez tout de même. Autre point dont il faut être conscient, Mr Game & Watch peut aussi orienter son Neutral B, ce qui lui permet de servir ses clients dans différents angles, pratique pour couvrir différentes approches.","UpB (3)
+Down B dans les airs (5)
+Nair (10)","Mr Game & Watch est un personnage qui procure du fun et de la hype grâce à son côté surprenant et tout simplement atypique ! Sa gestuelle étrange et ses attaques hors norme contribuent à renforcer ce sentiment. Et s'il est bien joué, il vous confèrera une domination totale sur votre adversaire, grâce notamment à son très bon jeu de combo et à certaines de ses attaques dévastatrices. Il sera donc à placer du côté des glasscanon, qui peuvent infliger de gros dégâts mais mourir facilement et du côté des bait and punish qui maintiennent la pression sur l'ennemi pour le punir. ","ThisNeko - Virus
+
+/
+
+Maister - Regi - Zackray","[26 - Mr. Game & Watch]
+:link: : https://discord.gg/MUMcDJF
+:passport_control: : Disa BLACHERAN",75,1.98,1.679,1.176,0.08,27.51,Game&Watch,mr_game_and_watch,mr_game_and_watch
+devilshiranui(contacté) ou armades ou destany ou nofall FAIT,Meta Knight,,Kirby's Adventure (1993-NES),"petit perso, rapide, leger, dispose de 5 sauts aériens, capacité a harceler l'adversaire, très difficile a punir en offstage","manque de range, son disjoint est l'un des plus petits du jeu, difficile de faire monter les pourcents a partir des 60% (modulo le perso en face) ","perso de contact, (mario, dr.mario) et gros persos avec offstage nul (DK, bowser, ganondorf)","Toon link en première place qui rassemble le disjoint des épéistes, classes de MU difficile pour MK, et les projos chiant comme avec Ness et Lucas, et un recovery difficile a punir",,,"kit de base (aérials, tilts, jabs), les tilts permettent de set-up un les aérials et de gagner le neutral",,"Down air (7)
+Upsmash, UpB (9)
+Nair, Upair (10)","sa capacité a mix-up impressionante et son énorme mobilité, chacun de ses spéciaux est une recovery différents des autres (et selon devilshiranui, on peut rajouter le AYAYAYAYAYAYAYA)","Armades - Destany - Nofall
+
+/
+
+Jay - Abadango - realschon","[27 - Meta Knight]
+:link: : https://discord.gg/THs9u5f
+:passport_control: : Nessteruk, Ninoctali",80,2.211,2.090,1.040,0.11,28.93,Meta Knight,meta_knight,meta_knight
+yass (contacté),Pit,,Kid Icarus (1986-NES),,,,,,,,,"Upsmash (6)
+Nair (7)
+Dair (13)",,"Yass - impala
+
+/
+
+Lucky - Nata - Kiraflax","[28 - Pit & Pit Maléfique] 
+:link: : https://discord.gg/4EmaEse
+:passport_control: : Fredow, Naptec, Mysthogame",96,2.09,1.828,0.935,0.081,31,Pit,pit,pit
+,Dark Pit,,Kid Icarus Uprising (2012-NES),,,,,,,,,,,,,96,2.09,1.828,0.935,0.081,31,Dark Pit,dark_pit,dark_pit
+yoyod (contacté) ou dash prof,"Samus Sans Armure
+
+ZERO SUIT SAMUS",,Metroid Zero Mission (2004-GBA),,,,,,,,,"UpB (4)
+Fair, Uair (9)
+Usmash (10)",,"ZHT - Yoyod
+
+/
+
+Marss - Choco - Kuro","[29 - Samus sans armure]
+:link: : https://discord.gg/vHTu5sQ
+:passport_control: : Kuroplasma, IB / Brams",80,2.42,2.31,1.26,0.12,44.2,Samus Sans Armure,zero_suit_samus,zero_suit_samus
+Glutonny (contacté sans réponse) / Mika (c),Wario (Tamalou),,Super Mario Land 2 : 6 Golden Coins (1992-GameBoy),,,,,,,,,"UpB (6)
+Nair (7)
+Fair (8)",,"Glutonny - Mika - Crepesalée
+
+/
+
+Tweek - Kameme","[30 - Wario]
+:link: : https://discord.gg/jTDGUC2
+:passport_control: : Echo | Tapstar  SI | Arthur et CS | Cooky.",107,1.837,1.65,1.271,0.107,30.50,Wario ,wario,wario
+blacksushi(Genki mp twitter) ou ether ou agito FAIT?,Snake (Genki),,Metal Gear (1987 - NES),"grande force de frappe, projectiles a gogo, les % montent très vite avec lui, sans prendre de gros risque","sa taille, le manque d'option defensive (type out of shield) et sa recovery très lisible",persos lents et/ou sans projectiles : facile a toucher et a esquiver,"Megaman, ness et G&W",,,neutral B (grenade) et Utilt,,"Dair (6)
+Bair (10)
+Usmash (11)","Personnage très différents du reste du casting, toujours des pièges un peu partout : un c4 quelque part, une grenade en vol et une autre en main, un missile en haut de la map qui tombe...","Inter - Mirazuo - Blacksushi
+
+/
+
+Salem - Shogun - MVD","[31 - Snake]
+:link: : https://discord.gg/WgWhze4
+:passport_control: : Astrat",106,1.76,1.595,0.987,0.08,34.07,Snake,snake,snake
+radiance(Genki mp twitter) FAIT,Ike,"Ike manie l'épée Ragnell et diffère des autres épéistes issus de la licence Fire Emblem entre autres. Effectivement, il s'agit d'un épéiste lourd dont chaque attaque peut causer de gros dégâts sur son adversaire ce qui peut lui permettre de s'emparer rapidement d'une stock. Cette grande épée lui confère aussi une portée intéressante.",Fire Emblem Path of Radiance (2005 - GC),"Très grande allonge
+Très bon kill power
+Dur à éjecter","Personnage lent et lourd
+Prévisible dans son gameplan
+Recovery exploitable","Manque de portée: Dr Mario, Kirby, Gand Watch
+Sacs à combo: Ganon, Bowser, K Rool
+Meilleur dans les airs: Rondoudou, Lucario, Zelda
+","Pression et dur à toucher: Pikachu
+Etouffant: Roy, Lucina, Fox
+Némésis: Palutena et Joker","BF, PS2, Yoshi Story
+/
+Lylat, Yoshis Island, DF",,"Neutral Air: C'est son meilleur coup tout simplement. En effet cette attaque aérienne a peu de lag, possède une bonne portée, ce qui la rend relativement safe sur un bouclier si bien spacé et donc difficilement punissable. L'attaque étant à ce point dangereuse, elle devient un très bon outil de conditionnement pour varier ses approches et remporter le neutral.
+Down Tilt: L'une de ses meilleures attaques. En effet, le coup est rapide et peut être facilement utilisé après une parry par exemple pour lancer un combo sur un Forward Air. Sa rapidité fait que cette attaque peut aussi servir à couvrir un atterrissage et il faut aussi savoir que cette attaque envoie un adversaire qui s'est endormi au ledge dans un angle parfait pour un Forward Air, ce qui peut permettre de s'emparer d'une stock adverse !
+Son Forward Tilt: Très bonne option de Ike car le coup possède une très bonne portée ainsi qu'un très bon kill power. En effet, le coup peut tuer à 90%, ce qui le rend monstrueux en spacing, pour calmer un adversaire trop agressif  ou au ledge pour empêcher un ennemi de remonter. Attention tout de même à l'effectuer à bonne distance car le coup possède un peu de latence.
+Autres attaques aériennes: Ike peut aussi compter sur ses autres attaques aériennes comme le Up Air qui est l'un des meilleurs outils de juggle et d'anti air du jeu grâce à sa portée et à son bon kill power. On pourra aussi parler de son Back Air qui est très safe en short hop fast fall et qui peut tuer vraiment tôt au ledge après un Neutral Air ! 
+Up B: Cette option est intéressante en sortie de bouclier. En effet, cette attaque possède de l'armure au début ce qui permet à Ike de se sortir de certaines situations ! Un coup qui peut être intéressant sur le terrain quoique punissable. Cet aspect punissable explique d'ailleurs pourquoi, hors du terrain, il sera préférable de revenir avec un side B plutôt qu'un Up B !
+Grab: L'une de ses meilleures options. En effet, c'est un coup complémentaire du Neutral Air et les Throws sont toutes intéressantes. Ainsi, la Down Throw permet de lancer des combos. La Up Throw place l'ennemi dans une situation risquée qui limite ses options. Enfin, Sa Forward Throw et Back Throw servent essentiellement à reprendre le contrôle du terrain !","Comprendre les attaques: Evitez de bourrer ou de mal utiliser certaines attaques. Le Neutral Air est par exemple une très bonne option d'approche mais si vous ne vous reposez que sur cette attaque, cela vous rendra extrêmement prévisible. De même, les Smash d'Ike ne doivent être utilisés que sur une read car ils sont inutiles dans le neutral. Bref, même si les attaques de Ike sont puissantes, elles sont aussi très punissables ce qui fait que vous allez devoir les utiliser avec soin !
+Garder son saut: Ike possède une recovery qui peut être exploitable ce qui fait qu'il est nécessaire de conserver don double saut pour avoir une chance de revenir sur le terrain. Ainsi, ne sautez pas immédiatement en direction du terrain après vous être fait frapper car cela équivaut généralement à une vie perdue. Préférez une esquive aérienne ou une attaque spéciale.
+Maîtriser le fastfall:  Pour jouer Ike, il vous faudra maîtriser le fastfall qui consiste à redescendre plus rapidement sur le terrain en orientant le stick vers le bas dans les airs. Pour Ike, maîtriser le fastfall est crucial car cela rend les combos au Neutral Air true et d'autres attaques comme le Forward Air ou le Back Air moins voire pas punissables. C'est d'autant plus utile que cela permettra de pouvoir confirm et donc de tuer son adversaire.
+","Bair (10)
+Nair (13)
+Fair (14)","Ike possède des attaques qui comptent vraiment et qui peuvent faire une vraie différence en match et renverser le cours d'un match. En plus de ça, placer certaines de ces grosses attaques nécessitera de bien lire le jeu adverse, ce qui fait que cela vous procurera toujours un grand sentiment de mérite. En effet, jouer avec Ike vous oblige à vous montrer prudent et extrêmement patient tout en réfléchissant bien à vos approches. Du coup, jouer Ike vous permettra généralement de développer un excellent neutral game! S'entraîner avec Ike est donc un bon moyen de réviser ses bases afin de progresser d'une manière générale.","Ryuji - Niko - Radiance
+
+/
+
+Ryuga - San - Logix","[32 - Ike]
+:link: : https://discord.gg/hT6zdue
+:passport_control: : Dreekius, Niko",107,1.815,1.507,1.134,0.092,31,Ike,ike,ike
+mike (introuvable),"Dresseur Pokemon
+
+POKEMON TRAINER
+
+Carapuce
+SQUIRTLE",,Pokemon Rouge et Bleu (1996 - GameBoy),,,,,,,,,"Nair (7)
+Fair, Bair, Uair (8)
+UpB, Dair (9)", ,"Griffith - Ruthrax
+
+/
+
+Tweek - Leffen - Pandarian","[33 - 34 - 35 - Dresseur de Pokémon]
+:link: : https://discord.gg/Y6dhCsM
+:passport_control: : Reunart",75,1.936,  1.76 ,01.01,0.128 ,35.35 ,Carapuce,carapuce,pokemon_trainer
+,"Herbizarre
+
+IVYSAUR",,Pokemon Rouge et Bleu (1996 - GameBoy),,,,,,,,,"Nair, Bair, NeutralB dans les airs (10)
+Dair (14)
+Upair, UpB, Dtilt (15)",,,,96,1.903,1.595,0.998,0.082,32.25,Herbizarre,herbizarre,pokemon_trainer
+,"Dracaufeu
+
+CHARIZARD",,Pokemon Rouge et Bleu (1996 - GameBoy),,,,,,,,,"Usmash (6)
+UpB (9)
+Nair, Fair (11)",,,,116,2.288,2.200,1.103,0.11,36,Dracaufeu,dracaufeu,pokemon_trainer
+manda (introuvable) / demo (contacté), Diddy Kong,,Donkey Kong Country (1994 - SNES),,,,,,,,,"Usmash (5)
+Bair, UpB (8)
+Fair (9)",,"Mono - Demo - Manda
+
+/
+
+Dakpo - Rivers - Tweek","[36 - Diddy Kong]
+:link: : https://discord.gg/xEPP8WC
+:passport_control: : Demo",90,2.09,2.006,0.924,0.125,41.21,Diddy Kong,diddy_kong,diddy_kong
+river ou nitox (pas de mp),Lucas,,Mother 3 (2006 - GBA),,,,,,,,,"Nair, Upair (10)
+Fair, Zair (12)
+Dair, Jab (13)",,"Nitox
+
+/
+
+ChocoTaco - 8Mitsuki - Mekos","[37 - Lucas]
+:link: : https://discord.gg/NUQC6xA 
+:passport_control: : Lo~Gin, Kirbo, EKO, Antoine Skyligne",94,1.815,1.65,1.155,0.09,44.13,Lucas,lucas,lucas
+hedgeon (contacté),Sonic,Sonic possède la meilleure vitesse au sol du jeu et une rapidité de mouvement qui permet immédiatement de punir chaque erreur de l'adversaire ! Il s'agit donc d'un personnage qui a besoin de beaucoup d'espace pour pouvoir pleinement exploiter son jeu et infliger une grosse pression à son adversaire.,Rad Mobile (1991 - Arcade),"Le plus rapide au sol
+Expert du hit and run
+Très bon en edgeguard","Poids léger
+A du mal à tuer
+Pas de projectile au sol","Recovery exploitable: Falco, DK","Bon neutral et projectiles: Pikachu, Snake, MM","TandC, PS2
+/
+BF, Yoshi's Story",Sonic possède beaucoup de variations pour deux de ses attaques : le Down B et le Side B. Ces dernières peuvent être chargées plus ou moins longtemps et il est possible de les annuler ou de sauter à différents moments de l'attaque. Ces différentes possibilités possèdent toutes leurs utilités et il est important de les connaître pour pouvoir surprendre son adversaire.,"Side B et le Down B:  Ces attaques Spin permettent au joueur de Sonic de varier son approche en fonction du timing voulu, ce qui pourra surprendre son adversaire. Ainsi, le but du jeu sera surtout d'attaquer l'adversaire à une distance à laquelle il ne peut réagir, car Sonic subit du lag à la fin de son Spin.  Il existe énormément de variations possibles pour le Side B et pour le Down B et il est important de les connaître.
+Neutral B:Peut mener à des kill confirm en edgeguard. Une fois que vous avez appuyé sur B le coup se déclenche tout seul au bout d'un moment mais vous pouvez toujours accélérer le processus en appuyant sur B. L'attaque vous fera foncer sur votre ennemi sauf s'il est trop loin ou s'il ne peut être touché, ce qui fait qu'il faudra faire attention, car l'attaque vous confère 74 frames de lag ! A utiliser donc pour lire un saut, une get up attack ou en tech chase sur une plateforme au dessus de Sonic ! 
+Forward Air : Excellent outil de combo. Cette attaque est très rapide, dure 11 frames, ce qui en fait un excellent combo starter à bas pourcent sur lui-même par exemple.
+Back Air /Forward Smash: Ce sont toutes deux des attaques qui sont généralement destinées à tuer, les principaux kill moves de Sonic.  Pour le Back Air, il est plus lent que le Forward Air, mais il peut tuer plus tôt avec son sweetspot, sachant qu'il peut être plus facilement placé après avoir utilisé un Side B ! 
+","Pas trop agressif: Il faudra éviter de jouer de manière trop agressive. La puissance des attaques de Sonic et son faible poids ne lui permettent pas de se battre à armes égales avec la majorité du roster, ce qui fait qu'un joueur de Sonic devra jouer de manière défensive en possédant toujours une option de fuite à sa disposition !
+Varier ses approches:  Attention à ne pas suffisamment varier vos approches et notamment au niveau du Spin Dash. Vous possédez une douzaine d'approches possibles et de variations via le Spin Dash et il vous faut toutes les maîtriser afin de surprendre votre adversaire. Ne vous contentez donc pas d'approcher de la même façon et variez afin de créer la peur chez votre ennemi !
+Pas trop de Neutral B: Attention à ne pas trop utiliser le Neutral B en phase de neutral ! C'est une technique intéressante qui possède de nombreuses utilités, cependant, elle possède beaucoup d'ending lag et peut donc être fortement punissable surtout dans le neutral. Il s'agit donc d'une attaque à utiliser avec parcimonie !","Fair, Upair (8)
+Nair (9)
+Jab (14)","Le mouvement et la capacité à pouvoir se mouvoir extrêmement rapidement à n'importe quel endroit de la carte de Sonic sont sans équivalent. En plus de sa vitese au sol qui est la meilleure du jeu, sa vitesse aérienne a aussi été améliorée depuis, ce qui s'ajoute à ses attaques spéciales, à son Down Air, à ses esquives aériennes et à ses wall jump pour vous donner l'impression de ne pas avoir de limites. Tout cela confère au personnage un style unique basé sur la rapidité, la précision et la punition qui le démarque vraiment du reste du roster !","Hedgeon
+
+/
+
+KEN - Wrath - Sonido","[38 - Sonic]
+:link: : https://discord.gg/NVWzs5M
+:passport_control: : Antoine Skyligne & HEDGEON",86,2.31,3.85,1.208,0.09,35,Sonic,sonic,sonic
+fengos (pas de mp),"Roi Dadidou
+
+KING DEDEDE",,Kirby's Dreamland (1992 - GameBoy),,,,,,,,,"Nair (10)
+Upair (13)
+Fair (16)",,"Meigamorse
+
+/
+
+Zaki - Mike - Peli","[39 - Roi DaDiDou]
+:link: : https://discord.gg/rcseuAP
+:passport_control: : Rasciong, Meigamorse",127,1.815,1.496,0.735,0.097,32.85,Roi Dadidou,dedede,dedede
+guimodas (pas de mp),Olimar,,Pikmin (2001 - GameCube),,,,,,,,,"Nair, Fair (10)
+Upair (11)
+Dair, Usmash (12)",,"Guimodas - Demo
+
+/
+
+Shuton","[40 - Olimar]
+:link: : https://discord.gg/YH2tMZb
+:passport_control: : ShinyRuby",79,1.606,1.617,0.861,0.068,33.5,Olimar,pikmin_and_olimar,pikmin_and_olimar
+jeda (c) / Indra (contacté),Lucario,"Lucario est un personnage qui peut s'adapter à tout type d'adversaire grâce à sa très bonne mobilité aérienne ou au sol. De plus, il possède une mécanique bien singulière, l'aura, qui améliore la puissance de ses attaques ! Cela en fait un personnage qui peut véritablement renverser le cours d'un match et qui confère à son utilisateur un avantage psychologique très intéressant.",Pokemon Diamant et Perle (2006 - DS),"Mobilité aérienne et terrestre
+Personnage polyvalent
+Mécanique de l'aura","Léger
+Aura parfois inutile
+Attaques lentes
+Perso compliqué","Mauvais kill power: MM, Peach, Pac Man
+Faible mobilité aérienne : DDD, Ganon","Meilleur en l'air: Roy, Chrom, Palutena
+Epeistes et portée: Lucina, Shulk","Kalos, PS2, TandC
+/
+Lylat, Smashville","Lucario est un personnage qui possède une mécanique qui lui est propre, à savoir la mécanique de l'aura. Lorsque Lucario dépasse les 65%, ses attaques vont progressivement s'améliorer, que ce soit au niveau des dégâts qu'elle infligent ou au niveau de leur puissance d'éjection. Cela est multiplié jusqu'à 1.6 fois quand Lucario atteint les 190%. Cependant, cela dépend de plusieurs facteurs, à savoir si Lucario mène ou non en terme de vie, et s'il s'agit d'un 1v1 ou d'un 2v2.","Neutral B: l'aurasphere, que ce soit la charge ou le projectile. C'est l'outil le plus important du jeu, qui peut faire gagner un match. Le projectile pourra infliger énormément de dégâts et possède une bonne puissance d'éjection, tandis que la charge mettra beaucoup de pression sur l'adverse, voire mènera même à un kill! 
+Attaques aériennes : Celles-ci sont toutes utiles et peuvent être regroupées. Si on ajoute à ses attaques l'une des meilleures vitesses aériennes du jeu et une frame data convenable, ce sont les meilleurs outils de Lucario pour approcher et contrer les approches des adversaires. C'est vraiment le domaine où Lucario va exceller dans le jeu!
+Grab: C'est ce qui fera la différence entre un bon et un excellent Lucario, c'est si le joueur réussira à trouver beaucoup de grabs ou non. Le up throw notamment est le principal outil de Lucario pour commencer un combo qui peut vite faire grimper les pourcentages adverses!
+F Smash: C'est le coup le plus puissant de Lucario! Il peut tuer incroyablement tôt s'il est bien placé, mais encore faut-il réussir à bien le placer sans pour autant en abuser pour ne pas se faire punir! C'est le coup de Lucario qu'il faut savoir le mieux placer, car un Fsmash placé à chaque vie mène généralement à une victoire !","Pas que l'aura: On pense souvent que Lucario commence à jouer et à se battre quand il est aux alentours de 65 % car c'est à partir de ce moment-là que sa mécanique d'aura rend Lucario plus puissant. Cependant, il possède énormément de combos sans son Aura et il peut très bien réussir à prendre une stock sans ça. Donc, voyez plutôt ça comme un bonus que comme la base de votre gameplay, c'est ce qui vous fera progresser.
+Être patient : n'attendez pas d'obtenir des résultats trop vite. Lucario est certainement l'un des personnages les plus durs du jeu à jouer. La preuve, il n'y a que 2 ou 3 Lucario dans le monde qui font de gros résultats avec le personnage et techniquement, le meilleur Lucario du monde, Tsu, ne le joue plus depuis 2019, car il attend des buffs pour le rejouer. Lucario est un personnage qui demande beaucoup de temps, beaucoup d'apprentissage des différents match ups et surtout une très bonne compréhension du jeu.
+Garder son calme: Alors, certes, on parle souvent de cette situation où un Lucario à150% peut tuer un adversaire à 30%. Cependant, l'inverse est tout aussi dangereux si vous êtes avec votre Lucario à 40-50% face à un adversaire qui est sous le coup de la rage à 130% ! Bref, un personnage qui nécessite d'avoir une bonne dose de sang froid et de concentration car chaque prise de stock peut être une véritable épreuve si l'un des deux personnages est à haut pourcentage. ","Dair (7)
+Fair (10)
+Nair, Upair (13)","Lucario est très agréable à prendre en main grâce à sa bonne mobilité notamment. Le personnage devient aussi très bon si le joueur s'est suffisamment entraîné avec, ce qui explique d'ailleurs pourquoi les meilleurs Lucario sont ceux qui le jouaient déjà avant. Cela fait que Lucario est un personnage qui a l'avantage de ne pas se faire battre sur le papier par des personnages très populaires et massivement joués comme Pikachu, Joker, Snake, Peach, etc. Enfin, jouer Lucario procure un sentiment inédit car savoir comment exploiter sa mécanique de l'aura et savoir esquiver les attaques mortelles peut conférer un boost d'adrénaline supplémentaire en fin de partie!","Jeda - Wari
+
+/
+
+Tsu - Vivi",":link: : https://discord.gg/ptKYD7v
+:passport_control: : Brayz",92,2.255,1.705,1.281,0.084,37.62,Lucario,lucario,lucario
+vanaheim (introuvable),R.O.B. (Tamalou),,Gyromite (1984 - NES),,,,,,,,,"Fair (9)
+Upair, Upsmash (10)
+Jab, Dtilt (14)",,"Vanaheim - Nin
+
+/
+
+WaDi - OCEAN - Epic_Gabriel","[42 - R.O.B.]
+:link: : https://discord.gg/rSx8MSf
+:passport_control: : LoXi & Ali",106,2.002,1.725,1.134,0.09,38,R.O.B. ,robot,robot
+mana ou linkeur (contacté),"Link Cartoon (Tamalou)
+
+TOON LINK",,The Legend of Zelda : The Wind Waker (2002 - GameCube),,,,,,,,,"UpB (6)
+Nair, Bair (9)
+Usmash (12)",,"Linkeur
+
+/
+
+Ri-ma - Sigma - Zan - Hayato","[43 - Link Cartoon]
+:link: : https://discord.gg/mSU95AB
+:passport_control: : Mutra, Pom, Law, Demo",91,1.914,1.906,1.050,0.081,33.8,Link Cartoon,toon_link,toon_link
+greil (c) ou calamari Ogey (contacté),Wolf,"Wolf est un très bon personnage souvent placé dans la liste des personnages top tier, notamment pour sa très bonne capacité à gérer la phase de neutral. Entre son excellent projectile, la puissance de ses attaques et de ses attaques aériennes polyvalentes, on se retrouve face à un personnage qui peut facilement s'adapter à n'importe quel match up.",Lylat Wars (1997-N64),"- Excelle dans les airs
+- Très bon en neutral
+- Bons combos et bon killpower","- relativement vulnérable en offstage
+- prévisible pour tuer","mauvais neutral: K Rool, Lil Mac, Kirby
+reflecteur: Belmont, Plante, Villageois","top tier: Palutena, Pikachu, Lucina","Town, Kalos, DF
+/
+SV, Lylat, Yoshis Island",,"Le neutral b, le laser. C'est un projectile rapide qui permet de poke son adversaire en sécurité afin de gratter des pourcentages ou du bouclier adverse! En plus de ça, quand vous avez l'avantage il est particulièrement utile puisqu'il va forcer l'ennemi à approcher,  car il est supérieur à la plupart des projectiles!
+Le Forward air. C'est sans doute le coup le plus utile de tout l'arsenal de Wolf car il possède tout ce qu'on voudrait d'un bon outil en phase de neutral : que ce soit de la portée qui le rend safe, des dégâts et une bonne frame data. Enfin, à bas pourcent, le coup permet de lancer pas mal de combos ou de situations intéressantes. 
+Le Neutral air. C'est un excellent outil en edgeguard ou en situation de désavantage. Le coup possède une bonne hitbox qui lui permet de gêner énormément l'adversaire qui se rapproche de lui, ou de se sortir de situations désvantageuses. Enfin, n'oublions pas que c'est aussi un outil de combo à bas pourcentage.
+le UpSmash: Il s'agit tout simplement d'un des meilleurs Smash du jeu. Le coup est un excellent outil de punition, car il a une excellente portée et un killpower très correct. C'est l'une de meilleures options de Wolf pour se débarasser d'un ennemi et il ne faut surtout pas hésiter à s'en servir pour tuer sur une attaquemal spacée sur votre bouclier ou pour couvrir un saut ou une roulade !","Sur utilisation du laser: Cela a beau être un très bon projectile, il n'est vraiment utile que dans certaiens circonstances, et assez risqué/non optimal dans d'autres situations. Certains personnages comme Wario, Roy ou Pikachu possèdent effectivement une très bonne mobilité et/ou une assez bonne portée, ce qui fait qu'ils peuvent punir le laser de Wolf rien qu'en passant par dessus . Abuser du laser peut ainsi vous faire perdre un positionnement avantageux. C'est donc un outil dont il ne faut pas abuser et qu'il faut surtout voir comme un outil de pression psychologique. 
+- Jouer trop souvent offstage : Wolf a beau posséder un Neutral Air très pratique pour edgeguard, il reste un personnage qui peut mourir sur une erreur de timing en dehors du terrain ou sur un seul petit coup qui peut l'envoyer trop loin du stage. La plupart du temps, contre un personnage avec une bonne recovery, il vaut donc mieux faire semblant d'aller edgeguard pour véritablement surprendre l'adversaire quand vous y allez vraiment. 
+- Trop chercher les killmoves à haut % : Wolf n'a pas vraiment de problèmes en terme d'attaques pour éjecter son adversaire. Par contre, il est relativement prévisible quand il a besoin de s'emparer d'une vie et n'a pas de set up particulier. Cela fait qu'il peut être assez prévisible lorsqu'il s'agit de porter le coup fatal.  Face à un adversaire méfiant, il vaudra mieux donc continuer de jouer normalement pour tenter de mettre l'adversaire en situation de désavantage et ainsi lire une de ses options avec un Tilt ou un Back Air. ","Nair, Fair, Uair, Down B dans les airs (10)
+Upsmash (13)
+Jab (15)","Wolf est un personnage qui offre une grande liberté et un grand confort de jeu dans son maniement grâce à sa mobilité et à ses outils très polyvalents! Le personnage peut paraître relativement ennuyeux au premier abord, car il peut paraître simple à jouer. Toutefois, même s'il peut sembler facile de jouer efficacement avec Wolf, optimiser son jeu avec lui est beaucoup plus compliqué! Pour exceller, il vous faudra choisir les bonnes options dans son moveset ce qui demande pas mal de rigueur mais ce qui peut avoir un effet dévastateur quand vous y arrivez. Un personnage donc puissant mais qui possède également une vraie profondeur de gameplay.","Oryon
+
+/
+
+Zackray - Jakal - Larrylurr","[44 - Wolf]
+:link: : https://discord.gg/esk7R3H
+:passport_control: : Volfe, NetrozZ_ & DenisIP",92,2.09,1.54,1.281,0.13,30.71,Wolf,wolf,wolf
+volya(Genki mp twitter) FAIT,"Villageois (Tamalou)
+
+VILLAGER","Si dans ces jeux, le villageois est là pour apporter le bonheur aux gens de son entourage, dans Smash Ultimate, le villageois est un personnage de zoning qui va au contraire sans cesse harceler ses adversaires ! Beaucoup de ses attaques possèdent ainsi des projectiles, ce qui le rend particulièrement redoutable depuis une plateforme. ",Animal Crossing (2001-N64),"Bon jeu de punish
+Bon jeu offstage
+Très bon jeu de zoning","De mauvaises stats
+Dur contre les épéistes
+Recovery exploitable","Peach: pas flotter
+Snake: Pocket
+DK, Bowser: Sacs à combos
+","Lucina : épéistes
+Renvoie projectiles: GandW
+Falco et Palu: gêne en l'air
+","Kalos, SV, Yoshi Story
+/
+Lylat","Villageois est un personnage qui possède plusieurs caractéristiques qui sont atypiques, notamment au niveau de ses attaques spéciales. Son Neutral B lui permet ainsi d'attraper un projectile afin de pouvoir le renvoyer avec deux fois plus de puissance quand il le souhaite. Enfin, son Down B nécessite plusieurs étapes. La première fois que vous l'utilisez, vous plantez une graine, que vous pouvez ensuite arroser pour faire pousser un arbre qui inflige de gros dégâts à l'endroit où il a pris racine. Enfin, cela permet de débloquer la hache qui inflige de gros dégâts et qui peut aussi servir à faire tomber l'arbre sur l'adversaire.","son neutral B. Cette attaque lui permet de mettre dans sa poche quasiment n'importe quel projectile adverse tout en le renvoyant avec deux fois plus de violence, c'est donc très pratique dans pas mal de matchup!  A noter aussi que cette attaque possède des frames d'invulnérabilité et que certains objets restent dans la poche jusqu'à la mort du villageois.
+Son forward air et son back air. Ce sont ses principaux outils de zoning. Ce sont les coups essentiels du villageois et ils permettent de maintenir l'adversaire à distance tout en le harcelant. A noter que le Back Air sort plus tardivement mais est plus puissant et peut donc tuer plus facilement. 
+Son Side B: C'est aussi un outil important dans le jeu de zoning du villageois. Le side B est aussi très utile pour stopper son mouvement en l'air de manière nette, ce qui permet de feinter des atterrissages, de temporiser en dehors du terrain pour attendre de voir comment réagit l'adversaire ou bien même de stopper net notre propre éjection ! 
+Neutral Air: Il s'agit de la principale attaque pour s'approcher de l'adversaire et pour permettre aussi souvent d'initier des combos. En plus de ça, c'est la meilleure option du villageois en sortie de bouclier et l'attaque permet d'edgeguard facilement les persos avec une mauvaise recovery en leur fonçant dessus avec un Neutral Air!
+Son down B: C'est  une attaque importante du villageois car elle permet de faire pousser un arbre qui met 10 secondes à pousser, reste présent pendant 10 secondes, possède 30 points de vie et peut faire énormément de dégâts lorsque l'adversaire se le prend ou est au-dessus au moment de la pousse. Au-delà de ça, faire pousser un arbre vous donne accès à la hache qui peut permettre de briser un bouclier ou d'envoyer valser votre adversaire très rapidement.
+Forward smash: Il s'agit d'un outil important notamment en edgeguard puisque vous lâchez une boule de bowling sur votre adversaire. L'attaque est safe on shield tout en étant très violente et peut tuer très rapidement un adversaire au bord du terrain ou bien être placée depuis un rebord sur un terrain qui possède des plateformes. Enterrer votre adversaire avec un Down Smash à haut pourcent peut même mener à une mort assurée quand il est suivi d'un Forward Smash!","Un Down B crucial: Cette attaque spéciale est très utile car elle offre un grand contrôle du terrain et il est plus qu'important de bien comprendre quand l'utiliser et pourquoi ! En effet cette attaque peut être très intéressante même lorsque l'arbre n'est qu'une jeune pousse car sa simple présence peut facilement effrayer l'adversaire, de peur de se prendre la poussée de l'arbre qui peut faire très très mal !
+Profiter de la disposition des terrains:. Le villageois possède de très bons outils sur des plateformes comme la Dash Attack qui peut être utilisée depuis une plateforme ou au ledge pour edgeguard et permettre de s'emparer d'une stock adverse en étant suivi d'un Forward Air par exemple ! Dans le même ordre d'idée, il faut aussi compter sur le wall jump du Villageois pour varier sa recovery ou pour edgeguard l'adversaire !
+Pas de tour de manège: Il ne faut pas ou très peu utiliser le missile chevauché qui s'obtient en laissant appuyer sur B avec un Side B. Cette attaque vous fait prendre un trop grand risque pour une récompense qui est loin d'en valoir la peine. Il peut être utilisé pour varier sa recovery ou en attaque mais dans des situations bien précises.
+","Nair (6)
+Upair (9)
+Upsmash (12)","Le Villageois est un personnage qui possède une très bonne capacité à harceler l'adversaire et à sans cesse faire monter les pourcentages de ce dernier tout en restant à une distance convenable. Cela aura pour effet d'énerver votre adversaire qui pourra vite perdre son sang froid et qui commettra des erreurs. C'est alors à ce moment qu'il faudra le punir lourdement avec un Forward Smash ou un coup de hache bien placé! En plus de ça, malgré sa position basse dans la tier list, il s'agit d'un personnage qui peut tenir tête à beaucoup de personnages, y compris des top tier comme Peach !","Volya - El Orso
+
+/
+
+Kept","[45 - Villageois]
+:link: : https://discord.gg/9N6Rr3B
+:passport_control: : Orso",92,1.815,1.397,0.987,0.078,32.5,Villageois ,murabito,murabito
+Trim (contacté),Mega Man (Tamalou),,Mega Man (1987 - NES),,,,,,,,,"Bair (7)
+Usmash (8)
+Nair (10)",,"Ohlord - TriM
+
+/
+
+Kameme - ScAtt - Yeti","[46 - Mega Man]
+:link: : https://discord.gg/sKp954t
+:passport_control: : Master.M",102,1.958,1.602,1.155,0.107,32.8,Mega Man ,rockman,rockman
+olivia ou sinogara (contacté sur YT) chaîne YT (match: https://www.youtube.com/watch?v=27ySzazClVk&list=PLizS1dN7xqIwNN9a9faXCVniArM0WbNhK),"Wii Fit (Periklès)
+
+WII FIT TRAINER","L'entraîneur Wii Fit est un personnage surprenant, qui dispose de pas mal d'atouts dans sa manche pour surprendre son adversaire, ce qui vous permettra également de constamment innover ! Entre ses attaques surprenantes aux propriétés parfois uniques, ainsi que les capacités offertes par beaucoup de ses attaques spéciales, vous risquez vite d'être dépassé face à un bon entraîner Wii Fit.",Wii Fit (2007 - Wii),"- Met une grosse pression
+Beaucoup de combos
+Un perso surprenant
+Très bon offstage","Demande beaucoup d'entraînement
+Plutôt lent
+Manque de portée","Sacs à combos: K Rool, Ridley
+Projectiles balayés: ROB","Renvoient l'ascenceur: Villageois, Marie, GandW
+Petite taille: Pikachu, Pichu, Kirby
+Rapide et portée: Chrom","BF, Kalos
+/
+Yoshi's Islad, Lylat","Lorsque vous jouez l'entraîneur Wii Fit, il va être crucial de maîtriser deux attaques spéciales, le Down B et le Side B. Le Down B appelé ""Deep Breathing"" vous octroie un boost de statistiques qui peut rendre l'entraîneur Wii Fit effrayant. En ce qui concerne le Side B, cela vous permet d'invoquer un ballon que vous pourrez ensuite lancer dans la direction souhaitée en fonction de l'attaque avec laquelle vous allez frapper la balle.","Son Side B. Il s'agit du principal atout de Wii Fit. Ce coup qui permet d'envoyer un ballon sort très rapidement, ce qui peut permettre de se sortir de situations délicates tout en mettant une grosse pression sur l'adverse. Ce coup permet aussi de se maintenir dans les airs, de mettre beaucoup de dégâts voire même de tuer. A noter que la balle peut être utilisée avec d'autres moves, ce qui offre une cinquantaine d'angles possibles permettant de couvrir beaucoup d'options de l'adversaire et de lancer des combos destructeurs. 
+Son F Tilt. Cette attaque sort très rapidement tout en infligeant beaucoup de dégâts des deux côtés. Cela en fait donc un outil très intéressant pour tuer, sachant que sa rapidité pourra dérouter votre adversaire, le rendant peu punissable. A savoir que si vous tapez avec votre pied, cela va envoyer votre adversaire dans un angle très intéressant pour lancer un combo!
+Son Down B, le deep Breathing. Une fois activée, cette attaque procure des bonus non négligeables à Wii Fit. Le coup augmente ainsi les dégâts, la puissance d'éjection et la vitesse de déplacement de 25%. Les dégâts reçus et l'éjection est également réduite de 10% et tout cela pendant environ 13 secondes. Un coup qui permet d'effectuer des combos redoutables, mais qui peut cependant vous rendre vulnérable, c'est pourquoi il vaut mieux l'utiliser en dehors du terrain, même si on ne peut en sortir qu'en faisant une esquive aérienne. 
+Son Neutral Air: C'est l'attaque qui permet de comboter son adversaire et de lui mettre plus de 60%. Le coup permet aussi de kill confirm à partir de 50% si vous êtes sous le coup d'un deep breathing ou à partir de 85% sans. Le perfect shield est également inutile contre cette attaque car l'attaque tape deux fois, ce qui permet de mettre une pression supplémentaire à l'adversaire.
+Jab : L'attaque permet d'enterrer son adversaire sur la dernière attaque, et on sait à quel point le fait d'enterrer son adversaire est devenu un vrai danger dans Ultimate! Cela permet de tuer à coup sûr même si l'adversaire réussit à s'en dégager. En plus de ça, le deuxième jab tape aussi derrière ce qui permet d'envoyer l'adversaire ou la balle dans des angles très intéressants!
+","Se croire intouchable au sol: Un joueur de l'entraîneur Wii Fit a tout intérêt à utiliser son Down B dès que c'est possible afin d'améliorer ses statistiques et de s'offrir plus de chances de tuer son adversaire. Cependant, il faut faire attention lorsque l'on charge cette attaque car on peut être très vulnérable, surtout si on l'effectue sur le terrain avec les pieds au sol. Il en va de même pour le Neutral B. Si vous chargez cette attaque au sol, votre sheild sera plus lent à sortir ce qui vous donne une occasion d'être puni.
+Se croire tout puissant: Si vous avez correctement activé le Deep Breathing, votre personnage est désormais plus puissant et plus résistant certes, cependant il ne faut pas croire que Wii Fit devient invincible pour autant. Cette technique ne vous protège malgré tout pas d'un Forward Smash bien placé. Ainsi, lorsque vous êtes sous cet effet, il ne faut pas poser son cerveau et continuer à jouer de manière rigoureuse en accentuant simplement la pression que vous exercez sur votre adversaire.
+Eviter certaines habitudes: Comme pour tous les personnages, il existe certaines attaques qui sont utilisées comme par réflexe dans certaines situations. L'objectif n'est pas de les bannir de votre répertoir, mais plutôt d'en limiter leur utilisation afin que vous puissiez surprendre votre adversaire et puissiez éviter donc de vous faire violemment punir. Ainsi, il faudra éviter d'utiliser le Side B sans réfléchir car vous êtes tout de même vulnérable et surtout &vitez d'atterrir trop souvant avec une attaque aérienne et notamment le Down Air.","UpB (5)
+Bair (8)
+Uair (9)","C'est un personnage complexe qui crééra la surprise chez son adversaire car le personnage est peu joué et dispose de beaucoup d'options pour constamment changer son gameplay, innover et piéger son adversaire. La gestion bien particulière de la balle apporte notamment beaucoup au charme du personnage. En plus, le personnage peut se soigner, enterrer son adversaire, possède une double hitbox, a 3 spikes, peut augmenter sa vitesse, bref plein d'options qui le rendent d'autant plus intéressant. Un personnage donc qui demande beaucoup d'entraînement, comme quoi, l'entraîneur wii fit porte bien son nom. ","Sinogara - Zenryukhan - Melkanobi
+
+/
+
+WaDi - Varun","[47 - Entraîneuse Wii Fit]
+:link: : https://discord.gg/NcGbfek
+:passport_control: : NeRyu",96,2.024,1.866,1.019,0.09,35.6,Wii Fit ,wii_fit_trainer,wii_fit_trainer
+homika (c),"Harmonie
+
+ROSALINA AND LUMA",,Super Mario Galaxy (2007 - Wii),,,,,,,,,"Upsmash (8)
+Upair (9 avec /11 sans Luma)
+Nair (10 avec Luma)
+Bair (12 sans Luma)",,"Homika
+
+/
+
+Dabuz - Kirihara","[48 - Harmonie et Luma]
+:link: : https://discord.gg/zfvA8xV
+:passport_control: : Glloupiefox, Zomberly, Will.",82,2.035,1.795,1.050,0.062,40,Harmonie,rosetta_and_chiko,rosetta_and_chiko
+matcarron(C) / Destany (c),Little Mac,,Punch Out (1984 - NES),Coup très puissant sur terre.,"Le jeu aérien le plus mauvais du jeu, recovery très mauvaise.",,"Jeu de grab (Luigi,...), recovery de fou (Ridley). Ne jamas céder à la pression de l'adversaire. On verra souvent des gens se mettre au bout du ledge afin de pouvoir éjecter Little Mac, c'est très important de toujours garder le controle du terrain, ne jamais céder à la pression.",,,"Ses smashs, Side B, down tilt",,"UpB (3)
+Nair (5)
+Uair (8)","Très mobile, sentiments de puissance sur les coups terriens.","
+
+/
+
+Kwaz - Tarakotori - Gaia","[49 - Little Mac]
+:link: : https://discord.gg/fUmq4cJ
+:passport_control: : Arikor, FrenchPotato",87,2.365,2.464,1.208,0.09,26,Little Mac,little_mac,little_mac
+elexiao (C) ou raarchyor ou smuff,"Amphinobi
+
+GRENINJA",,Pokemon X et Y (2013 - DS),,,,,,,,,"Bair (8)
+Uair (10)
+Usmash (12)",,"Elexiao
+
+/
+
+Lea - Jw - Stroder","[50 - Amphinobi]
+:link: : https://discord.gg/ERX3BSr
+:passport_control: : Agent Jenny, Varuna, Burrakauchy",88,2.178,2.288,1.239,0.18,46,Amphinobi,gekkouga,gekkouga
+Amiine (introuvable),"Mii Cogneur
+
+MII BRAWLER",,Wii Sport (2006 - Wii),,,,,,,,,"UpB numéro 3(3)
+Nair (6)
+Upsmash ou UpB numéro 2 (8)",,"Amiin
+
+/
+
+Ghost - LeeT - iTheta - WDBTHTGP",,94,1.97,1.92,1.15,0.192,35.5,Boxeur Mii,mii_fighter,mii_fighter
+"thebed (mp bloqué), Amiine","Mii Sabreur
+
+MII SWORDFIGHTER",,Wii Sport (2006 - Wii),"des coups plutôt puissant, une bonne recovery",des endlags abominable,,,,,"les aerials, le jab, le neutral b tornade ",,"UpB numéro 3 (8)
+Usmash (11)
+UpB numéro 1 (13)
+","ce personnage se comporte comme la plupart des épeistes du jeu, à la différence que, comme les autres miis, il représente toujours une surprise pour l'adversaire car il ne peut pas connaitre ses coups à l'avance (sauf cas particulier), le fait de pouvoir personnaliser ses coups spéciaux le rend très maléable et peut permettre a beaucoup d'avoir un kit particulier qui donne plusieurs fonctionalités pour un même perso","ZheBed - Amiin
+
+/
+
+Anonymous Moniker - iTheta - Parappa",,100,1.74,1.58,1.17,0.106,28.30,Epeiste Mii,mii_swordfighter,mii_fighter
+,"Mii Tireur
+
+MII GUNNER",,Wii Sport (2006 - Wii),,,,,,,,,"UpB numéro 2 (6)
+Nair, Usmash (11)
+Bair, UpB numéro 1 (12)",,"Amiin
+
+/
+
+Katakiri - Protom - Pokecheese",,104,1.613,1.37,0.93,0.098,32.3,Tireur Mii,mii_gunner,mii_fighter
+"eko (plus ,palu et mp bloqué)",Palutena,,Kid Icarus (1986-NES),,,,,,,,,"Nair (8)
+Bair (11)
+Fair (12)",,"Tag - Ismaël
+
+/
+
+Nairo - Abadango","[54 - Palutena]
+:link: : https://discord.gg/2hSRYg2
+:passport_control: : Alexwolf",91,2.035,2.077,1.0,0.12,35.9,Palutena,palutena,palutena
+tea,Pac-Man,,Pac-Man (1980 - Arcade),,,,,,,,,"UpB (4)
+Nair (6)
+Fair (8)",,"
+
+/
+
+Tea - Sinji - Kiwi","[55 - Pac-Man]
+:link: : https://discord.gg/CmDjRXz
+:passport_control: : Sorbexos",95,1.87,1.672,1.092,0.072,34.1,Pac-Man,pac_man,pac_man
+,"Daraen
+
+ROBIN",,Fire Emblem : Awakening (2012 - 3DS),,,,,,,,,"UpB (8)
+Nair (10)
+Bair ou Usmash (12)",,"NGP
+
+/
+
+Jul - Dath - Ke-ya","[56 - Daraen]
+:link: : https://discord.gg/Gpc7Dbu
+:passport_control: : Nep, Goomba_Man, Kuro Stayford",95,1.815,1.265,1.050,0.089,33.21,Daraen,robin,robin
+sirknight / Scarhi / OntoS / LeyKoO,Shulk,"Shulk est un épéiste qui diffère beaucoup des autres personnages de ce style puisque sa capacité à modifier ses statistiques via le Arts Monado permet de lui donner beaucoup de profondeur de gameplay. Cela permet de varier son gameplan et donc de conférer au personnage une grande adaptabilité, ce qui le place logiquement en haut de la plupart des tier list.",Xenoblade Chronicles (2010 - Wii),"Dur à approcher en neutral
+Grande adaptabilité
+Edgeguard et ledgetrap","Start Up de ses coups
+Corps à corps
+Accélération aérienne","AERIALS DETRUITS Villageois et Marie
+PAS DE MOBILITE Ganon, Dr Mario, Felin
+RECOVERY BANCALE Cloud","OPPRESSANT: Palutena, Pikachu
+PROJOS MAIS PAS QUE: ROB
+NEMESIS: Snake","DF + TandC
+
+/
+
+SmashVille + CB + Lylat","Shulk est un personnage qui possède un système d'amélioration qui lui est propre. Effectivement, son attaque Neutral B lui permet de choisir parmi 5 Arts, 5 options pour renforcer certaines de ses caractéristiques. Il peut ainsi renforcer sa vitesse, la hauteur de ses sauts, sa protection, la puissance de ses attaques ou encore la puissance d'éjection de ses attaques. Chaque Art possède aussi ses contraintes, mais surtout sa propre durée d'utilisation et son propre temps de recharge. Jouer Shulk va donc nécessiter de maîtriser le changement d'Art et de savoir quand utiliser tel boost à tel moment pour n'octroyer que des bonus à Shulk.","Neutral B: Cette commande permet d'ouvrir une sélection de boosts pour Shulk qui vont augmenter sa vitesse, sa résistance, sa hauteur de saut, sa puissance d'éjection ou encore les dégâts qu'il inflige. C'est l'outil principal de Shulk qu'il convient de maîtriser pour exploiter le potentiel du personnage.
+Fair : Il s'agit du principal outil de Shulk en phase d'edgeguard et de neutral car l'attaque possède une grosse portée et peu d'ending lag ce qui la rend plutôt safe. Le coup permet aussi de lancer des combos à bas pourcent et de couvrir des approches aériennes.
+Nair: Autre coup indispensable dans l'arsenal de Shulk, le Neutral Air possède aussi une très grande portée et peu de lag à l'atterrissage. L'attaque touche des deux côtés et est très utile en atterrissant pour lancer toute sorte de combos possibles.
+Up B: Cette attaque est une excellente option en sortie de bouclier car même si l'attaque est assez lente, cela est compensé par la très bonne portée du coup et son bon potentiel de kill power. Il s'agit aussi d'une bonne option en phase d'edgeguard et d'une option de recovery intéressante.
+Dash Attack: Il s'agit d'une des meilleures options au sol de Shulk. La dash attack est assez safe si elle est bien spacée grâce à son excellente portée qui permet aussi de couvrir des esquives aériennes si on a anticipé où l'adversaire allait atterrir. Bonne option de tech chase avec le Speed Art.","RESTE SIMPLE: Même si Shulk est un personnage complexe, ne vous concentrez pas sur l'aspect technique du personnages ni sur les techniques avancées. Ces techniques sont intéressantes et apportent de la profondeur au personnage, mais elles ne sont pas essentielles pour jouer le perso, loin de là ! Shulk est avant tout un personnage basé sur les fondamentaux, qui nécessite de se concentrer sur son spacing, son avantage ou encore son désavantage.
+GERE TES SAUTS: Il faut faire attention à ne pas trop sauter car même si Shulk possède des excellentes attaques aériennes, il est aussi très sensible à certaines attaques vu le temps qu'il met à attaquer. Apprenez donc aussi à jouer au sol mais aussi à varier votre distance d'approche en sautant depuis différents endroits. Cela vous permettra de surprendre votre adversaire et d'éviter qu'il vous cueille trop facilement.
+MAITRISE TES ARTS: Même si un art vous confère un avantage non négligeable, il ne faut pas tout le temps en activer un et attendre que la situation s'y prête. Shulk sans boost reste aussi un bon perso ne l'oubliez pas, et tout art utilisé possède un cooldown assez long, ce qui fait que le moment venu vous pourriez ne pas être en mesure de pouvoir l'utiliser, sacrifiant au passage une stock adverse ou la vôtre. D'ailleurs, chaque Art correspond à une situation bien précise, donc évitez d'en activer certains quand la situation ne s'y prête pas.","UpB (10)
+Nair, jab (16)
+Fair, Uair, Dair (17)",Shulk est un épéiste qui est différent de ce qui se fait ailleurs. Les arts Monado confèrent effectivement au personnage une grande complexité tout en lui octroyant une grande richesse et en permettant une grande créativité. S'entraîner avec Shulk est ainsi loin d'être redondant car vous aurez toujours le plaisir de pouvoir travailler sur de nouvelles techniques et optimisations possibles. Les arts ajoutent en outre une dimension stratégique au personnage car ils permettent de concevoir une stratégie différente en fonction de votre adversaire. Un personnage riche et complet mais qui est suffisamment intéressant pour pouvoir être manipulé sans devoir maîtriser toutes les techniques existantes.,"Sirknight - Scarhi
+
+/
+
+Kome - DoubleA - Nicko","[57 - Shulk]
+:link: : https://discord.gg/GneEZAC
+:passport_control: : Sirknight",97,1.87,1.672,1.113,0.098,33.5,Shulk,shulk,shulk
+magnet alpha (et seulement lui) / Torynk (contacté),Bowser.Junior,,Super Mario Sunshine (2002 - GameCube),,,,,,,,,"Usmash (7)
+Uair (9)
+Nair (10)",,"Torynk - Arthas - Ryuto - Magnet Alpha
+
+/
+
+Taternater - Ketchup - TraSh Koopa God - Young eevee","[58 - Bowser Jr.]
+:link: : https://discord.gg/eFDYEfG
+:passport_control: : Ryuto",108,1.76,1.566,1.134,0.092,34.4,Bowser Junior,koopa_jr,koopa_jr
+Mykka,Duck hunt (Tamalou),,Duck Hunt (1984 - NES),,,,,,,,,"Nair, Uair (9)
+Fair, Bair (10)
+Usmash (12)",,"Mika - DiaMinGer
+
+/
+
+Raito - Ozone - Vintendo - Wisdom","[59 - Duo Duck Hunt]
+:link: : https://discord.gg/MEmd3C3
+:passport_control: : DiaMinGer, Pomme",86,1.76,1.793,1.155,0.076,33.8,Duck hunt ,duck_hunt,duck_hunt
+OursOuzbek,Ryu (Shadow),"Ryu est un personnage qui demande une grande maîtrise technique. En effet, ses attaques spéciales peuvent être effectuées de différentes manières afin de les rendre plus ou moins puissantes. En ce qui concerne Ryu, il possède  une meilleure allonge dans ses combos que Ken, ce qui fait qu'il sera difficile de s'en échapper",,"- Beaucoup de combos
+- Pression sur Shield
+- Punitif et défensif
+- Bon au CAC mais surtout en zoning
+- Shield Break facilement
+","Demande beaucoup de travail
+Vulnérable en offstage
+Points forts exploitables
+Sensibles aux coups multihits","Sac à combo: DK
+Victime: Sheik, Little Mac
+Facile à parry: Ike
+","Multihits: Palutena, Harmonie, Ness
+Sort des combos: Snake, Yoshi
+Petite taille: Pikachu Pichu","PS2, Yoshi 2
+/
+Town, Lylat, Kalos","Ryu et Ken possèdent plusieurs particularités intéressantes. Tout d'abord ce sont deux personnages qui feront toujours face à leur adversaire, ce qui permet de le rendre plutôt redoutable en situation de legetrap. Autre particularité, les deux personnages peuvent varier l'intensité de certaines de leurs attaques en appuyant plus ou moins fortement sur les touches d'attaque ou en réalisant des quarts de cercle et des combinaisons de touche directement tirées de Street Fighter. Cela a pour effet de nécessiter plus d'apprentissage que pour les autres personnages et de devoir faire plus attention à ses inputs même sous le coup de la pression.","Down tilt. Il s'agit d'un des coups les plus rapides des personnages et permet d'enchaîner et de coincer l'adversaire. C'est une attaque qui peut facilement mettre la pression à son adversaire, sachant que le Down Tilt peut être bourré pour garantir un true combo!
+Strong jab: Ce coup peut être réalisé en maintenant le Jab. L'attaque inflige beaucoup de pourcentages, n'éjecte pas loin l'adversaire et peut être annulé avec une attaque speciale, ce qui en fait donc un très bon outil de combo ! 
+Shoryuken: Il peut être réalisé en pressant haut et B ou en réalisant une manipulation spécifique, ce qui en fait donc un true Shoryuken. Il s'agit du meilleur kill move des deux  personnages même s'ils ont des propriétés différentes. Pour Ryu, le true shoryuken est sa principale attaque pour tuer car elle éjecte plus facilement les personnages lourds et peut être utilisé n'importe quand après des tilts. 
+Strong F Tilt: Très utile, le collabone breaker peut être réalisé en maintenant la touche d'attaque. Ce qu'il faut savoir c'est que cette attaque enlève facilement 95% du bouclier adverse ce qui le rend très utile pour enlever une stock adverse! 
+Le down B: Le coup peut aussi facilement briser un bouclier, voire totalement le détruire si l'attaque est chargée à fond. En plus de ça, vous pouvez absorber un coup ennemi avant de frapper, et l'attaque peut être suivie par n'importe quoi, vu que vous mettez l'adversaire dans une situation délicate. Et si jamais, vous souhaitiez l'annuler, pas de soucis, il suffit de courir dans une direction, ce qui permet de conditionner l'adversaire et donc de le punir ! 
+Neutral B: Son Hadoken, et plus précisément de la version Hadoken Shakunetsu, qui inflige 14% de dégâts, s'effectue avec un demi cercle vers l'avant. On peut aussi varier la vitesse, si on appuie plus ou moins longtemps sur la touche. Si l'attaque est lente, cela permet d'enchaîner et de limiter les options adverses, se elle est moyennement rapide, cela permet d'enchaîner un combo et si elle est rapide, cela permet tout simplement de zoner et de maintentir l'adversaire à distance! ","Maîtriser les True Inputs: Ken et Ryu possèdent tous les deux des attaques qui peuvent être effectuées de différentes façons. Même si cela demande beaucoup d'entraînement, il va falloir apprendre à utiliser ces true inputs pour faire davantage de dégâts ou pour éjecter son adversaire. Donc, il va falloir se retrousser les manches dans un premier temps et avoir en tête toutes les manipulations possibles.
+Foncer dans le tas: L'une des erreurs qu'il faut éviter lorsque l'on dirige Ken ou Ryu, c'est de foncer dans le tas et de s'approcher à grand coups de Neutral Air et de grands sauts. Il s'agit de personnages qui excellent en réaction et il ne faut pas sans cesse chercher à attaquer son adversaire, mais plutôt apprendre à bien maîtriser l'esquive parfaite. En plus, comparé à Ken, Ryu est un personnage plutôt défensif, ce qui fait qu'il ne faut pas toujours s'approcher.
+Vouloir edgeguard : Beaucoup de joueurs ont tendance à vouloir aller chercher leur adversaire en dehors du terrain dès qu'ils en ont la possibilité. Pourtant, il vaut mieux éviter avec Ken et Ryu car la moindre erreur peut vous être fatale, vu que leur recovery est plutôt exploitable. On privilégiera donc le ledegtrap et on attendra sagement sur le terrain pour punir l'adversaire, d'autant plus que le fait d'être toujours face à son adversaire peut être bien utile dans ce cas bien précis.","UpB (6)
+Nair (7)
+Uair, Usmash (9)","Ils sont tous les deux très compliqués à jouer, trop complexes et techniques pour beaucoup. Du coup, le fait de réussir à les jouer et à les maîtriser va procurer une grande fierté, car à chaque victoire, on sait que c'est grâce à l'entraînement qu'on est capable de jouer ces persos et de gagner avec. Effectivement, le fait de réussir à placer un combo à 60% que l'on a soi-même réalisé suite à un enchaînement d'input précis offre un grand moment de plaisir. Ce sont donc deux personnages qui sont faits pour les joueurs qui aiment les défis et les difficultés et qui le rendent bien aux courageux qui seront allés s'aventurer dans les couloirs infinis des combos et enchaînements de Ryu et de Ken Masters!","OursOuzbek - Maeda
+
+/
+
+Munekin - Sandstorm - Locus","[60 - Ryu & Ken]
+:link: : https://discord.gg/CPptRsR
+:passport_control: : OursOuzbek",103,1.76,1.600,1.120,0.12,29.5,Ryu,ryu,ryu
+OursOuzbek,Ken (Shadow),"Tout comme Ryu, Ken est naturellement un personnage qui demande une grande maîtrise technique. Cependant, malgré son statut de personnage écho, Ken est loin d'être un simple clone et on observe pas mal de différences le concernant. En effet, vis-à-vis de Ryu, Ken est plus rapide, tape beaucoup plus et profite de combos interminables! ",,"- Beaucoup de combos
+- Pression sur Shield
+- Punitif et offensif
+- Excellent jeu de combos
+- Bon anti air et possède des killmoves","Demande beaucoup de travail
+Vulnérable en offstage
+Points forts exploitables
+Sensibles aux coups multihits","Sac à combo: DK
+Victime: Sheik, Little Mac
+Facile à parry: Ike","Multihits: Palutena, Harmonie, Ness
+Sort des combos: Snake, Yoshi
+Petite taille: Pikachu Pichu","PS2, Yoshi, Kalos
+/
+Town, Lylat","Ryu et Ken possèdent plusieurs particularités intéressantes. Tout d'abord ce sont deux personnages qui feront toujours face à leur adversaire, ce qui permet de le rendre plutôt redoutable en situation de legetrap. Autre particularité, les deux personnages peuvent varier l'intensité de certaines de leurs attaques en appuyant plus ou moins fortement sur les touches d'attaque ou en réalisant des quarts de cercle et des combinaisons de touche directement tirées de Street Fighter. Cela a pour effet de nécessiter plus d'apprentissage que pour les autres personnages et de devoir faire plus attention à ses inputs même sous le coup de la pression.","Down tilt. Il s'agit d'un des coups les plus rapides des personnages et permet d'enchaîner et de coincer l'adversaire. C'est une attaque qui peut facilement mettre la pression à son adversaire, sachant que le Down Tilt peut être bourré pour garantir un true combo!
+Strong jab: Ce coup peut être réalisé en maintenant le Jab. L'attaque inflige beaucoup de pourcentages, n'éjecte pas loin l'adversaire et peut être annulé avec une attaque speciale, ce qui en fait donc un très bon outil de combo ! A noter, que cette attaque est plus intéressante pour Ken qui possède davantage d'options après ce coup et qui si l'on connecte cette attaque avec un shoryuken, ce dernier sera bien plus puissant.
+Shoryuken: Il peut être réalisé en pressant haut et B ou en réalisant une manipulation spécifique, ce qui en fait donc un true Shoryuken. Il s'agit du meilleur kill move des deux  personnages même s'ils ont des propriétés différentes. Celui de Ken fait moins mal en terme de puissance pure, mais il a plus de portée et permet de punir les sauts et de tuer dans les airs car le troisième hit tue.
+Side B:  Ainsi, son tatsumaki qui s'effectue de deux façons différentes et qui peut être plus ou moins fort en appuyant plus ou moins longtemps, lui sert de technique d'approche, permet d'étendre un combo, de technique pour se déplacer déplacement et est très utile car il ne possède quasiment pas de lag.
+Crescent kick: Cette attaque s'effectue en réalisant un quart de cercle dans ce sens là. C'est une attaque que ne possède pas Ryu et qui peut être plus ou moins forte. C'est une attaque qui se place dans pas mal de combos et qui permet d'offrir pas mal de créativité au personnage. 
+Neutral air : Celui de Ken est meilleur que celui de Ryu car il est plus rapide et qu'il possède moins de lag. C'est la principale technique d'approche de Ken qui peut faire n'importe quoi après un Nair!","Maîtriser les True Inputs: Ken et Ryu possèdent tous les deux des attaques qui peuvent être effectuées de différentes façons. Même si cela demande beaucoup d'entraînement, il va falloir apprendre à utiliser ces true inputs pour faire davantage de dégâts ou pour éjecter son adversaire. Donc, il va falloir se retrousser les manches dans un premier temps et avoir en tête toutes les manipulations possibles.
+Foncer dans le tas: L'une des erreurs qu'il faut éviter lorsque l'on dirige Ken ou Ryu, c'est de foncer dans le tas et de s'approcher à grand coups de Neutral Air et de grands sauts. Il s'agit de personnages qui excellent en réaction et il ne faut pas sans cesse chercher à attaquer son adversaire, mais plutôt apprendre à bien maîtriser l'esquive parfaite. 
+Vouloir edgeguard : Beaucoup de joueurs ont tendance à vouloir aller chercher leur adversaire en dehors du terrain dès qu'ils en ont la possibilité. Pourtant, il vaut mieux éviter avec Ken et Ryu car la moindre erreur peut vous être fatale, vu que leur recovery est plutôt exploitable. On privilégiera donc le ledegtrap et on attendra sagement sur le terrain pour punir l'adversaire, d'autant plus que le fait d'être toujours face à son adversaire peut être bien utile dans ce cas bien précis.","UpB (6)
+Uair (8)
+Nair, Usmash (9)","Ils sont tous les deux très compliqués à jouer, trop complexes et techniques pour beaucoup. Du coup, le fait de réussir à les jouer et à les maîtriser va procurer une grande fierté, car à chaque victoire, on sait que c'est grâce à l'entraînement qu'on est capable de jouer ces persos et de gagner avec. Effectivement, le fait de réussir à placer un combo à 60% que l'on a soi-même réalisé suite à un enchaînement d'input précis offre un grand moment de plaisir. Ce sont donc deux personnages qui sont faits pour les joueurs qui aiment les défis et les difficultés et qui le rendent bien aux courageux qui seront allés s'aventurer dans les couloirs infinis des combos et enchaînements de Ryu et de Ken Masters!","OursOuzbek - Maeda 
+
+/
+
+Nito - fsharp - Takera - Riddles",,103,1.936,1.76,1.120,0.12,29.5,Ken ,ken,ken
+ou nives? (c),Cloud (Tamalou),"Cloud est un épéiste qui possède une bonne allonge ainsi que pas mal de coups disjoint, ce qui en fait un personnage redoutable, pour infliger une grosse pression à son adversaire. Même si le personnage est moins effrayant que sur le précédent opus sur Wii U et 3DS, il n'en demeure pas moins un combattant souvent bien placé dans les tier list.",,"- Bonne mobilité aérienne et au sol
+- Très grande portée
+- Maintient l'ennemi en désavantage","- Mauvaise recovery
+- Grab peu utile
+- A du mal à tuer","Moins bonne portée : Kirby, Mario, Ness
+Match serré contre top tiers: Peach, ZSS, Palutena","Gênant partout: Pikachu
+Gimp facilement Cloud: Joker, Lucina, Shulk
+Durs à éjecter: Bowser, Ridley","BF, Lylat","Cloud possède une Jauge de Limite qui lui est propre. Cette jauge se remplit automatiquement en fonction des dégâts reçus (100%) et infligés (150%) . Il existe cependant un moyen de charger cette jauge plus rapidement (6 secondes) en utilisant le Down B. Cela confère à Cloud un statut de Limit Break qui va améliorer ses statistiques de 10 à 20 % pendant 15 secondes. Au-delà de ses attributs qui se voient modifier, cela confère aussi à Cloud des attaques spéciales améliorées et une attaque différente, le Finishing Touch qui permet de se débarrasser assez rapidement d'un adversaire.","le Back air. Il s'agit du principal move d'approche dans le neutral, car l'attaque est safe sur un bouclier si elle est suffisamment spacée ! La portée de cette attaque est vraiment grande ce qui permet d'ériger une muraille d'attaques infranchissables. En ledgetrap notamment, l'attaque est particulièrement redoutable pour punir un saut par exemple. C'est le principal kill move pour tuer sans limite et un très bon outil pour commencer des combos pouvant infliger jusqu'à 40% !
+Son Forward air: Il possède aussi pas mal de similitudes avec le Back Air. Effectivement, cette attaque permet de se créer un mur défensif tout en étant plutôt safe grâce à sa grande portée. L'attaque permet d'initier pas mal de combos et est très utile pour punir un saut adverse. En revanche l'attaque est plus lente que le Back Air, ce qu'elle compense par son énorme hitbox, la rendant plus utile en situation d'edgeguard !
+Le Down B: Il s'agit bien évidemment d'une attaque très utile pour booster la vitesse et les attaques spéciales de Cloud pendant 15 secondes ou moins en fonction de si Cloud prend des dégâts!
+Son Up B Cette attaque sort à la frame 7 ce qui en fait une très bonne option en sortie de bouclier qui inflige presque 20% de dégâts si tous les hits touchent ! L'attaque est dévastatrice pour punir pas mal d'approches ou d'attaque normalement safe sur un bouclier. Et si jamais vous êtes sous le coup d'une limite, c'est un moyen facile de tuer l'ennemi en sortie de bouclier. 
+Le Side B : C'est aussi une très bonne options de Cloud puisque l'attaque est relativement rapide ce qui permet d'attraper un ennemi qui saute. L'attaque peut infliger quasiment 25 % de dégâts, ce qui est plutôt rentable ! C'est en plus de ça un bon combo finisher car il peut être précédé de pas mal d'attaques aériennes ! Au delà de ça, l'attaque peut taper de 1 à trois fois, ce qui fait que ça peut être très utile pour conditionner et surprendre son adversaire.
+Neutral B : C'est le projectile de Cloud qui permet de varier ses approches et son jeu tout en infligeant des pourcentages. Par sa nature de projectile, c'est également un outil intéressant pour empêcher certaines recovery ! Enfin, en état de limite, cette attaque permet aussi de se débarrasser d'un adversaire !","Apprendre à gérer sa limite : Effectivement, il va être important de maîtriser cette limite et d'éviter de l'utiliser à tort par peur du timer. Au contraire, c'est un outil très intéressant pour camper ce qui fait qu'il faut donc la conserver le plus possible. La limite vous offre un gain de vitesse non négligeable et il peut toujours être intéressant de la conserver au cas où pour revenir plus facilement sur le terrain. 
+Ne pas trop s'exposer en dehors du terrain. Cloud possède une mauvaise recovery, il va donc falloir bien gérer son deuxième saut et bien agripper le rebord avec le up B pour exposer Cloud le moins possible. Il faut aussi conserver ses ressources au maximum ce qui implique d'éviter au maximum d'aller en dehors du terrain pour edgeguard son ennemi, car la moindre erreur peut faire très mal. Il vaudra donc mieux charger sa barre de limite ou privilégier le ledgetrap ! 
+Comprendre l'essence de Cloud et comment le jouer : Cloud est un personnage avec lequel il est nécessaire d'être patient et qui repose essentiellement sur le zoning et les déplacements défensifs. Trop souvent les joueurs débutants foncent tête baissée, ce qui est loin d'être une bonne idée. Cloud excelle pour créer un mur d'attaque face à son ennemi et pour punir violemment la moindre ouverture ! Il sera donc nécessaire encore une fois d'être patient et de bien varier ses approches !","UpB (7)
+Nair (8)
+Uair (11)","Sa fluidité de mouvements et de sa grande portée offrent à Cloud un grand plaisir au niveau de la prise en main. Le personnage repose aussi sur les fondamentaux du jeu, et surtout sur le contrôle du neutral, ce qui en fait un personnage d'autant plus agréable ! Il possède en plus de ça pas mal d'attaques plutôt satisfaisantes à placer, notamment via la limite, ce qui fait qu'il peut aussi renverser le cours d'un match. Tout cela en fait donc un personnage plutôt plaisant à regarder jouer. Au-delà de ça, le personnage est issu d'un des jeux les plus appréciés de tous les temps, ce qui le rend forcément d'autant plus intéressant à contrôler.","Lambda - Satoshi
+
+/
+
+SpargO - Masashi - Cheeks","[61 - Cloud]
+:link: : https://discord.gg/acHKeyQ
+:passport_control: : Lambda, Shad, MrChef",100,2.145,2.167,1.155,0.098,32.5,Cloud ,cloud,cloud
+,Corrin,"Corrin est un combattant qui possède une excellente portée sur des attaques disjoint ainsi qu'un grand choix de combos surtout à bas pourcentage. Il s'agit donc d'un personnage qui laissera peu de répit à son adversaire dès qu'elle sera en situation d'avantage, afin d'en profiter pour faire rapidement monter les pourcentages adverses. ",,"Très bonne portée
+Des attaques disjoint
+Bon jeu de combo
+Dangereux en ledgetrap","Manque d'options pour approcher
+Pas très bon jeu au sol
+A du mal à tuer","Manque de portée et de projos: Mario, Ness, Kirby","Rushdowns: Fox, Joker, Yoshi
+Projectiles: Link, Samus, Snake","BF, PS2, Yoshi Story
+/
+DF, Lylat, Yoshis Island",,"Le upair: C'est une attaque très polyvalente qui est certainement le meilleur outil de Corrin grâce à son grand nombre d'usage possible, à sa portée monstrueuse et au fait que cette attaque envoie vers le haut. Cette attaque permet d'intercepter des attaques aériennes, de juggle, de commencer, poursuivre ou finir un combo et permet même de couvrir un saut près du rebord ou une plateforme !  Cependant, l'attaque est vraiment très intéressante quand elle est utilisée en reverse, car elle devient dès lors un outil utile en phase de neutral.
+Le neutral air: C'est un outil crucial dans l'arsenal de Corrin. Il est bon pour initier un combo, bon en ledgetrap et bon pour empêcher des approches aériennes tout en éjectant vers le haut Le Neutral Air possède toutefois des attraits supplémentaires, puisqu'il s'agit de son attaque aérienne la plus rapide, ce qui en fait un bon outil en sortie de bouclier, un outil qui tape à 360 degrés tout autour de Corrin ! Attention tout de même car le coup est assez punissable sur un bouclier !
+Son back air:  Ce mouvement est un coup important de Corrin car il s'agit d'un bon kill move qui permet aussi de se replacer voire de revenir en dehors du terrain. L'attaque vous déporte effectivement légèrement vers le côté quand vous l'effectuez ! Cela peut être très utile pour feinter son ennemi et aider à revenir sur ou vers le terrain ! A noter que c'est aussi un bon combo finisher voire un kill confirm ! 
+Le Side B : Cette attaque inflige 22% de dégâts, possède pas mal d'utilités ainsi qu'une très grosse portée. Le Side B peut être effectué en un ou deux temps pour aller dans une direction précise ! Utilisé seul, il possède un tipper ce qui permet d'éjecter violemment. Ce coup est alors utile pour punir et en situation d'edgeguard. A noter aussi que cette attaque peut être utilisée sur les stages à mur droit comme Kalos pour varier sa recovery !
+Le neutral B : Cette attaque tire une boule qui peut paralyser et qui peut tuer assez tôt si le coup est fait suffisamment proche de son ennemi en laissant la touche B enfoncée.
+Le down tilt:  C'est une attaque utile pour lancer pas mal de combos, ou pour en poursuivre depuis une plateforme, ce qui en fait l'une des meilleures options de Corrin au sol !
+ F Smash : C'est un très bon killmove qui est aussi intéressant par sa nature de multi hit. Il devient dès lors utile pour conditionner le shield adverse et peut, par sa nature de multi hit punir les esquives sur place ou même le fait de se relever au ledge !","Pas trop de Special: En effet avec Corrin, il faudra éviter d'abuser des attaques spéciales notamment dans la phase de neutral. Même si le neutral B et le side B peuvent être intéressants, ces attaques restent des options qui possèdent trop d'ending lag et qui sont donc facilement punissables ! Or une phase de neutral bien gérée ne doit pas trop vous exposer après une attaque ratée.
+Pas de Dair en descente: Autre erreur assez fréquente, faites attention, à ne pas trop utiliser le down air quand vous êtes en l'air en situation de désavantage. Cela peut vite devenir très prévisible et donc punissable car l'attaque est notamment très mauvaise si l'adversaire est au sol et prépare une grosse punition. Ce coup a perdu de sa superbe depuis Smash 4 donc n'en abusez pas. 
+Savoir quand stopper: Même si Corrin peut offrir un bon jeu de combos, faites attention à ne pas rallonger inutilement vos combos afin de conserver votre avantage. Cela marche aussi pour les phases de juggle. Vous risquez seulement de perdre votre avantage et donc de vous retrouver en mauvaise posture ! Cela est notamment particulièrement dangereux en dehors du terrain à cause de la recovery de Corrin qui n'est pas incroyable !","Nair (9)
+Uair (10)
+Fair (12)","Comme beaucoup de personnages défensifs, Corrin donne ce sentiment d'avoir mené à bien le plan qui était prévu ! Votre objectif consistera ainsi à conditionner l'ennemi à approcher et à sauter pour se créer des ouvertures afin de lancer des combos et des phases de juggle ! En plus de ça, le fait que certains coups possèdent une mécanique de tipper comme Marth rendent ces attaques particulièrement plaisantes à placer car elles nécessitent d'être parfaitement positionné !  Bref, un personnage assez méconnu et peu représenté mais qui possède un gros potentiel ainsi que des options uniques qui le rendent vraiment attachant.","Batô - KM - Keurtt
+
+/
+
+Shadic","[62 - Corrin]
+:link: : https://discord.gg/F98MKp8
+:passport_control: : batô",98,1.892,1.595,1.019,0.092,31,Corrin,kamui,kamui
+julepango (mp bloqué),Bayonnetta,"Bayonetta est un personnage complexe, quoique beaucoup moins puissant que dans Smash 4. Malgré cela, le personnage possède toujours un très bon combo game et a de très bonnes options pour juggle, même si le personnage a tout de même subi un gros nerf général depuis l'épisode précédent. Elle n'en reste pas moins un personnage véritablement atypique dans son fonctionnement.",,"Bonne mobilité aérienne
+Bon jeu offstage
+Bon jeu de combo","Beaucoup de lag
+Beaucoup de mal à tuer
+N'a pas un très bon neutral","Sacs à combos: Ganon, DDD
+Jeu aérien battu: Rondoudou
+Top tier à genoux: Palutena","Zoneurs à projectiles: Snake, MM, Olimar
+Rapides: Amphinobi, Pikachu
+L'aide à devenir fort: Lucario","PS2, BF, Lylat
+/
+Kalos, SV","Bayonetta est un personnage qui possède énormément de particularités: elle peut ainsi tirer des balles en maintenant la touche de ses attaques, elle possède une autre esquive aérienne qui l'empêche de se faire repousser mais qui lui fait subir la moîtié des dégâts évités et un jeu aérien qui diffère des autres. En effet, plus vous effectuez d'attaques spéciales en l'air, plus le lag à l'atterrissage sera important, ce qui vous demandera donc de ne pas être trop gourmand. Enfin, Bayonetta peut aussi bénéficier d'un triple saut en effectuant son saut et son Up B quasiment en même temps, ce qui lui permet de conserver un saut supplémentaire.","Son Side B : Son Side B est un bon move dans les airs et au sol pour punir les atterrissages, sauts et esquives aériennes ennemies. Au sol, l'attaque possède deux coups si on maintient B enfoncé et permet de se sortir d'une situation délciate ou de se rapprocher de l'ennemi pour initier un combo, même si, dans le deuxième cas, c'est une option très risquée. A noter qu'on peut effectuer cette attaque dans les airs avec un quart de cercle avant ou arrière, ce qui permet de revenir sur le terrain, de s'écarter de l'adversaire ou de lancer un combo plus court !
+Son Up B, le Witch Twits. C'est une très bonne option en sortie du bouclier car le coup sort à la frame 6. On peut aussi utiliser deux fois le upB dans les airs ce qui confère une bonne recovery à Bayonetta si on y ajoute la technique du triple saut. En plus de ça, c'est une attaque qui permet de lancer pas mal de combos.
+Le Back air : C'est le meilleur killmove de Bayo, qui s'avère particulièrement redoutable notamment en phase d'edgeguard. C'est également un excellent outil de combo pour commencer ou achever un enchaînement. D'ailleurs, d'une manière générale, en plus de celles déjà citées, les principales attaques de Bayonetta pour les combos seront le Forward Air, le Up Tilt ou le Down Tilt. 
+Enfin, le Down B, le Witch Time. C'est un contre assez lent comparé aux autres mais qui permet de ralentir le temps. C'est une attaque qui permet alors de punir avec quasiment ce que l'on veut après, que ce soit un smash, un kill confirm ou une attaque pour démarrer un combo afin de faire le plus de dégâts possibles.. Attention, cependant, plus vous l'utilisez, plus la durée du temps arrêté raccourcit. ","Penser à l'atterrissage:  Tout d'abord, il faudra faire attention à ne pas dépenser toutes ses ressources en l'air, ce qui peut vous empêcher de revenir sur le terrain tout simplement ou bien vous conférer plus de lag à l'atterrissage si vous avez utilisé toutes vos attaques spéciales, ce qui fait que vous serez facilement punissable. Pris dans un combo, on peut vite prendre confiance, mais plus dure en sera alors la chute !
+En garder en l'air : Autre erreur à éviter,  il ne faut pas gaspiller toutes ses options en l'air pour un combo et toujours garder une option pour pouvoir surprendre son adversaire ou pour pouvoir s'échapper. Effectivement, si vous n'avez plus rien à votre disposition, l'adversaire aura juste à attendre et à vous cueillir à l'atterrissage ! Ne comptez pas uniquement sur le Down B pour vous en sortir et conservez une option supplémentaire pour pouvoir vous éloigner !
+Pas trop de glissade : Essayez d'éviter d'utiliser trop souvent votre Side B au sol. Le coup est très punissable ce qui le rend high risk mais aussi low reward. Effectivement, le coup à bas pourcent ne mène pas forcément à un autre coup, et à haut pourcent, l'adversaire peut DI pour faire en sorte que le coup ne se connecte pas. C'est donc loin d'être la meilleure option de l'arsenal de Bayonetta !
+","UpB (6)
+Fair, SideB dans les airs (10)
+Nair, Uair (12)","Le plaisir viendra du personnage en lui-même qui, comme dans son jeu de base, a la classe en toute circonstances. Au-delà de ça, son jeu de combos est satisfaisant. Il est bien plus dur et plus compliqué à placer que dans Smash 4, mais justement. Si vous réussissez à lancer un combo, c'est parce que vous avez correctement prédit comment allait réagir votre adversaire, ce qui vous donnera l'impression de contrôler les mouvements de l'ennemi ! Ainsi, c'est un personnage complexe, qui ne récompense pas forcément toujours ceux qui oseront la jouer, mais qui possède un potentiel de combo hors norme et des aptitudes uniques !","Mysto san - Rudilloyd
+
+/
+
+Salem - Tamim - Lima - Shadow_PR","[63 - Bayonetta]
+:link:  : https://discord.gg/DC36FXc
+:passport_control:  : Rayy, Raphi",81,1.936,1.76,1.019,0.12,42,Bayonnetta,bayonetta,bayonetta
+anragon (c) ou shuun,Inkling (Periklès),,,,,,,,,,,"Nair, Usmash (9)
+Bair (10)
+UpB (12)",,"Raphro - Pew
+
+/
+
+Cosmos - Armada - Space","[64 - Inkling]
+:link: : https://discord.gg/TjRTWhz
+:passport_control: : Hylocery, Bravir",94,2.118,1.925,1.208,0.087,36.33,Inkling ,inkling,inkling
+devilshiranui(C) ou aurablast(C) ou yiazmat ou TPK FAIT,Ridley (Periklès),"Ridley est un personnage qui occupe le terrain par son grand nombre d'attaques disjoint et sa présence physique ! Ses trois sauts lui permettent en outre de facilement temporiser et donc d'être particulièrement dangereux en ledgetrap et en edgeguard. Un personnage tout en distance et en puissance donc, qui s'avère redoutable quand il s'agit de mettre la pression à son adversaire.",,"Portée des attaques
+Des attaques disjoint
+Bon en ledgetrap et en edgeguard
+Un bon killpower","Une grosse hurtbox
+Un poids plutôt léger
+Manque d'options OOS
+Up B prévisible
+Pas de kill confirm","- Les persos qui n'arrivent pas à approcher : Dr. Mario / Luigi / Félinferno / Kirby
+- Les persos qui sautent beaucoup (ca facilite grandement la tâche de Ridley => anti-air) : Yoshi / Rondoudou / Cloud / Mr. G&W (Wario également mais son pet permet de trouver une grosse ouverture pour snowball la game, donc c'est pas aussi évident que les autres)
+- Les persos qui peuvent facilement se faire douiller : Little-Mac / Ganondorf (Dr. Mario/Cloud peuvent également être placés ici)
+- Les Ice Climbers (nos hitbox split assez facilement les deux personnages, ce qui permet à la fois d'éloigner Popo mais aussi de focus Nana. Vu les hard punish de Ridley, ça va souvent assez vite ...)","- Rushdown (difficile de maintenir la distance, très mauvais OoS) : Pikachu / Fox / Amphinobi / Sheik / Roy / Chrom
+- Les gros shieldpressure (pour les mêmes raisons que ci-dessus) : Palutena / ZSS / Peach / Daisy
+- Hard zoneurs (mauvaises options OoS, grosse hurtbox, mauvaise mobilité aérienne) : Samus / Dark Samus / Link / Megaman / Young Link","CB, Lylat
+/
+Kalos, DF","Ridley est un personnage qui possède trois sauts ce qui en fait une particularité intéressante pour revenir sur le terrain et pour lui permettre de temporiser. Au-delà de ça, on pourra citer son Neutral B où Ridley crache des boules de feu, qui peut lui exploser à la figure si son adversaire le tape à ce moment-là, sans oublier son Down B qui peut effectuer 50% de dégâts si le coup est correctement placé.","Neutral Air: Certainement sa meilleure attaque, car il s'agit de son option la plus rapide en sortie de bouclier. Le coup possède beaucoup de disjoint ce qui la rend plutôt safe et est une excellente attaque pour couvrir toute approche par les airs ce qui la rend donc notamment très intéressante en situation de ledgetrap ou d'edgeguard. En plus de tous ces éléments, c'est aussi une très bonne option pour commencer poursuivre ou finir un combo.  Bref une excellente attaque qui peut malgré tout être punie si elle est effectuée dans le vent car elle dure plutôt longtemps !
+F Tilt: Le coup possède une excellente portée ainsi que beaucoup de disjoint ce qui la rend également plutôt safe. C'est une attaque qui peut aussi facilement tuer surtout si vous frappez au bon endroit avec le sweetspot, et c'est surtout un coup très polyvalent car il est possible de l'orienter dans trois directions.  Attention tout de même car l'attaque est globalement assez risquée en situation de désavantage.
+D Tilt: Il s'agit du move le plus disjoint de Ridley, sachant que l'attaque sort relativement tôt, ce qui en fait l'outil idéal pour forcer l'adversaire à sauter. A noter aussi que cette attaque est safe sur un bouclier mais uniquement si vous tapez avec le sweetspot, donc faites attention à bien spacer ce coup. Autre point intéressant, cette attaque permet à Ridley de lancer l'adversaire dans un angle idéal pour pouvoir ensuite jongler comme il le désire ou lancer des combos  Sur un terrain comme Champ de bataille, c'est aussi très intéressant pour mettre l'adversaire en situation de tech chase sur une plateforme 
+Side B: C'est un command Grab qui passe donc au dessus du bouclier adverse. C'est une attaque très utile en situation d'avantage qui permet de s'emparer d'une stock à haut pourcentage et qui peut surtout créer pas mal de douille pour voler une stock adverse. Une attaque dont il ne faut pas abuser car elle peut être très punissable si elle est anticipée et qui va être plus rentable à haut pourcent par rapport à un grab. Cependant si elle est judicieusement utilisée, c'est un coup qui pourra potentiellement faire paniquer l'adversaire dans une situation critique !
+Back Air: L'attaque possède un bon kill power et est certainement le killmove le plus utilisé par les joueurs de Ridley. Le coup possède une hitbox assez large et possède pas mal de frames actives ce qui peut permettre à l'attaque de 2 frame des recovery verticales ! Attention cependant car l'attaque met tout de même un peu de temps à sortir et ne possède surtout pas de disjoint ce qui la rend moins safe que d'autres attaques.","Stop Spam Nair: Il faudra éviter d'abuser de certaines attaques et notamment du Neutral Air. Il s'agit d'une attaque qui peut vous mettre dans une situation délicate à cause de la mauvaise mobilité aérienne de Ridley et qui peut se faire punir en sortie de bouclier donc évitez de trop l'utiliser. Temporisez, variez vos approches, afin de surprendre et de punir plus lourdement votre ennemi.
+Side B dangereux: Il s'agit d'un bon move mais qui possède aussi pas mal d'inconvénients dont il faut être conscient. L'attaque possède pas mal de lag ce qui fait que vous ne pouvez pas vous permettre de piffer cette attaque. Préférez lui plutôt un grab à bas pourcentage. Enfin, évitez de vous servir trop souvent du Side B pour revenir sur le terrain car vous risquez de vous prendre un Smash, et évitez de trop vous en servir pour atterrir sur le terrain, car c'est encore une fois beaucoup trop risqué.
+Patience et observation: Ridley est un personnage qui peut être compliqué à jouer car chaque affrontement peut mener à une situation de désavantage qui a le risque de vous faire perdre une vie. Donc ne vous précipitez pas, même si c'est tentant ! Contentez-vous de conditionner l'adversaire pour supprimer ses options et le punir quand ses mêmes options sont donc limitées. Il est important de ne pas brûler les étapes quand on joue Ridley. Donc soyez patients, même quand vous vous faîtes enchaîner, même quand votre adversaire campe, car votre tour viendra et à ce moment-là, il faudra que ça fasse très mal !","Nair (11)
+Usmash (12)
+Fair, Bair (13)","C'est un personnage qui procure un gros sentiment de puissance et d'agilité à la fois, ce qui peut vous permettre d'effectuer des grosses douilles et de vous emparer d'une vie adverse beaucoup trop rapidement. Au-delà de ça, le jeu de Ridley va consister à spacer correctement et à conditionner son opposant pour le punir violemment à la moindre impatience et donc à la moindre erreur. En jouant Ridley, vous aurez donc la satisfaction d'entrer dans la tête de votre adversaire pour pouvoir lui coller un bon spike ou un bon Smash des familles dans les gencives ! Un personnage très attachant donc et dont le maniement apprend globalement beaucoup à spacer, à conditionner, et à ne pas être trop gourmand en phase de neutral.","Aurablast - Yiazmat Goth - Lapogne36 - Mezi
+
+/
+
+Nair - Overlade - Plup - Tweek
+","[65 - Ridley]
+:link: : https://discord.gg/yenwRqm
+:passport_control: : Spartcon, Dracau",107,1.8,2.200,1.050,0.09,32,Ridley,ridley,ridley
+greil (contacté) / Taka (contacté),Simon,,,,,,,,,,,"UpB (6)
+Nair (11)
+Jab (16)",,"Greil - Taka
+
+/
+
+Riddles - Nitro - Shuton","[66 - Simon & Richter]
+:link: : https://discord.gg/ZDvJWdz
+:passport_control: : Naptec, KawKy, Flaos",107,1.73,1.52,0.94,0.085,29,Simon,simon,simon
+,Richter,,,,,,,,,,,,,,,107,1.73,1.52,0.94,0.085,29,Richter,richter,richter
+aurablast? ou bonnejour?,King K.Rool (Tamalou),"King K Rool est un personnage qui impose sa puissance et qui peut être comparé à une sorte de tank. En effet, il possède de l'armure et des projectiles servant à lui conférer un très bon état d'avantage, notamment en edgeguard où il peut s'avérer redoutable ! Un personnage qui se distingue donc des autres personnages lourds du jeu.",,"Dur à éjecter
+Puissant
+Son jeu de projectiles
+Redoutable en avantage","Très faible en désavantage
+Recovery exploitable
+Des attaques lentes","Edgeguard bien: Little Mac, DDh
+Dépasse: Sonic
+Quitte ou double: Pichu, Link enfant","Némésis: Palutena
+Jongleur de talent: Lucina, Mario, Pikachu","Kalos, BF, PS2
+/
+SV
+","K Rool est un personnage qui possède de l'armure sur son ventre. Cette armure possède 14 points de vie mais réduit les dégâts par deux ce qui fait qu'elle possède en réalité 28 points de vie. Quand ces points de vie sont épuisés, l'armure se brise laissant K Rool totalement vulnérable. A noter que le ventre récupère 0.3 points de vie par secondes, ce qui fait qu'il faut 47 secondes pour régénérer ses points d'armure. Ce ventre est très utile notamment pour s'approcher ou pour se défendre.","son grab: Tous ses throws qui ont une grosse utilité. Le Down Throw, Back Throw et Up Throw servent à tuer, sachant que le Up Throw sert aussi à faire de très gros dégâts. Le Back Throw ou Forward Throw servent à mettre l'adversaire en situation de désavantage et le Down Throw et le Forward Throw permettent de lancer des combos! Mention spéciale d'ailleurs pour le down throw
+Neutral Air: C'est le meilleur move de King K Rool. Le coup possède de la super armure ce qui lui permet de passer outre les attaques adverses pour tout de même infliger des dég^pats à l'ennemi, ce qui en fait donc son meilleur outil d'edgeguard. Le coup possède aussi peu d'ending lag ce qui en fait un outil plutôt safe ou utile pour lancer des combos.
+Side B: C'est l'un des meilleurs projectiles du jeu, qui peut mener à des combos sur à peu près n'importe quelle attaque de K Rool. La couronne inflige beaucoup de dégâts aux pourcentages et au bouclier, ce qui en fait donc un bon outil de pression et pour spacer. Un très bon outil donc en phase de neutral et pour se sortir d'une situation compliquée.
+Jab: C'est une attaque très rapide qui lui permet de lancer des combos à bas pourcentage avec la couronne notamment.
+Forward Air : Le Forward Air est également une attaque très intéressante puisque c'est une attaque rapide utile en combos, pour infliger de gros dégâts ou pour éjecter tout simplement son ennemi notamment en situation d'edgeguard. En plus de ça, l'attaque est plutôt safe quand elle est bien spacée sur un bouclier.","Attention au Neutral Air: Lorsque l'on joue King K Rool, on est souvent tenté d'effectuer son Neutral Air pour s'approcher car le coup possède de l'armure avec le ventre et dure longtemps pour atterrir de manière plutôt safe. Cependant, il faut faire attention à bien le spacer car il peut être très punissable s'il est mal effectué. C'est une très bonne attaque, mais il faut faire attention à ne pas trop l'utiliser sur un bouclier adverse.
+ Attention à l'armure: King K Rool possède une armure ventrale qui lui permet d'encaisser pas mal d'attaques et de rendre certaine de ses attaques plus safes. Cependant, son utilisation prolongée est plutôt risquée ce qui fait qu'il ne faut pas trop en abuser car on n'est jamais à l'abri d'une attaque bien plus puissante que les autres.
+Être patient: Contrairement à ce qu'on pourrait croire, il faut vraiment être patient et jouer de manière plutôt safe. Prendre de l'espace est la clef de la victoire bien souvent avec King K Rool. Donc, soyez patients encore une fois, faites attention à bien spacer vos attaques et à bien gérer vos atterrissages surtout car le crocodile rencontre beaucoup de difficulté pour atterrir convenablement sur le terrain.","Usmash (6)
+Nair, Uair (10)
+UpB (11)","Le plaisir viendra de ses attaques qui sont tellement satisfaisantes à placer et du fait de pouvoir toujours mettre une douille à votre adversaire alors qu'il est à bas pourcentage! Au-delà de ça, c'est un personnage vraiment très polyvalent et versatile qui se distingue des autres personnages lourds par son jeu de projectile. Un personnage qui vous fera donc ressentir un grand sentiment de puissance grâce à sa carrure et à ses attaques totalement jouissives! Un personnage vraiment attachant mais dont les grosses faiblesses font qu'il sera généralement plus utile en secondary qu'en main.","Bonnejour - Kimarito
+
+/
+
+Ben Gold - Tweek - Ketchup - Vex","[67 - King K. Rool]
+:link: : https://discord.gg/sQCDnKx
+:passport_control: : BonneJoure, Misterzix",133,1.936,1.485,0.945,0.105,32.61,King K.Rool ,king_k_rool,king_k_rool
+volya (Genki mp twitter) FAIT,"Marie (Genki)
+
+ISABELLE","Marie est un personnage semi écho du villageois, qui possède beaucoup des attaques de ce dernier tout en possédant ses propres caractéristiques. Même si plusieurs de leurs attaques sont similaires, elle possède cependant des aptitudes qui lui sont propres comme la possibilité d'effectuer un grab à distance grâce à sa canne à pêche.",,"Très bon jeu de zoning
+Bon jeu offstage
+Meilleurs outils au Cac","Poids léger
+Peu safe sur un bouclier
+Totalement impuissante face à certains","Comme villageois: Snake, Peach
+DK, Bowser: Sacs à combos
+Mieux que Villageois: Sonic, Rondoudou","Némésis: Palutena
+Détruisent zoning: Lucina, Shulk
+Vivacité et projos: Inkling","Kalos, SV
+/
+Lylat","Marie possède un Side B où elle utilise sa canne à pêche pour ramener ce qu'elle a trouvé. Cela peut être une bonne occasion de récupérer des objets ou des projectiles afin de les mettre dans sa poche. Cependant, parfois, il arrive qu'elle attrape une plus grosse prise et notamment un ennemi. L'attaque devient alors redoutable en edgeguard car Marie peut lancer sa prise dans n'importe quelle direction y compris dans les airs. A noter que vous pouvez choisir la direction de votre lancer ainsi que sa distance en appuyant plus ou moins fortement sur le stick.","son neutral air. Cette attaque possède pas ou très peu de lag, est un bon combo starter, en plus d'être un killmove. Bref, cette attaque est un véritable couteau suisse qui est un indispensable du moveset de Marie !
+Le uptilt : Le Up Tilt de Marie est aussi redoutable car le coup possède une bonne portée autour de Marie, il sort vite, et permet de lancer des combos à bas pourcent. En plus de ça, c'est un très bon outil pour contrer des approches aériennes. Bref, un autre indispensable de Marie qui peut être crucial dans certains match ups !
+Side B: Marie peut aussi compter sur sa fameuse canne à pêche qui est cependant à double tranchant car si cette attaque est mal utilisée, Marie peut se faire punir violemment ! Toutefois, le Side B permet de varier sa recovery, est un très bon kill move et est utile pour ledgetrap ou pour couvrir beaucoup d'options en tech chase. 
+Down B Le Down B de Marie est aussi très utile. En effet, l'adversaire se ramasse 20% de dégâts par missile et surtout votre ennemi ne pourra pas DI ce qui rend cette attaque vraiment redoutable. En effet, elle peut alors être suivie d'un Up air ou d'un Side B ce qui permet d'en faire un outil très intéressant de kill confirm. Cependant, c'est comme pour le Side B, il faut savoir l'utiliser correctement!","Attention au side B:  Il faudra être très vigilant à bien effectuer ses side B quand la situation le permet et que vos Side B sont le plus safe possibles. Même si le Side B offre plusieurs variation, si jamais, vous ratez un side B, c'est quasiment la punition immédiate, donc faites bien attention à être à distance convenable et à l'utiliser quand vous ne risquez pas grand chose.
+Down B façon C4:  N'hésitez pas à activer manuellement le Down B. Beacoup de joueurs de Marie n'utilisent pas assez tous les avantages qui sont procurés par cette attaque. En effet,  le fait d'enclencher manuellement la bombe permet de lire des sauts ou même encore d'empêcher l'adversaire de casser la mine lui-même ! N'attendez donc pas simplement que l'adversaire marche dessus et ayez une utilisation active de cette attaque !
+","Nair (8)
+Uair (9)
+Usmash (11)","Le plaisir viendra essentiellement du fait qu'elle donne un second souffle au villageois. Même si ce dernier est meilleur d'une manière générale, elle permet de couvrir certains match ups difficiles en offrant un gameplay assez similaire quoique différent. Après, certaines des attaques comme la canne à pêche sont tellement uniques et atypiques qu'elles peuvent aussi valoir le coup d'apprendre à jouer le personnage ! Bref, un personnage qui va vous demander beaucoup de patience dans votre gameplay et qui va vous permettre d'apprendre à analyser la situation au lieu de foncer tête baissée pour venir à bout de votre ennemi !","Volya - Uriko - Yato
+
+/
+
+Kept - Tsu - Lv.1","[68 - Marie]
+:link: : https://discord.gg/YNdU5B8
+:passport_control: : Yato, Sinkryz",88,1.815,1.48,1.020,0.07,32.5,Marie ,shizue,shizue
+,"Félinferno
+
+INCINEROAR",,,,,,,,,,,"Nair, Neutral B dans les airs (8)
+Bair, Uair (10)
+UpB (11)",,"Armades
+
+/
+
+Mew2King - Magister - Sharpy","[69 - Félinferno]
+:link: : https://discord.gg/QhyTjn7
+:passport_control: : Mohamed",116,1.716,1.18,0.88,0.126,32.8,Félinferno,gaogaen,gaogaen
+kirboo(Contacté mais a décliner) + Radiance?(contacté),"Plante Piranha
+
+PIRANHA PLANT",,,"Perso très lourd, qui tape dur, et qui a une très bonne recovery","et comme tout les persos lourd, la plante est lente, et pas mal de ses coups aussi, donc punissable, peu de combo (mais puissant !)","Personnage lent et grosses hitbox (Bowser, DK, Ganondorf)","Marie/Villageois (absorbeur de projectile), Little Mac, sheik, fox (perso rapide/combo)  ",,,"Down tilt, Nair, Uair, Down Air, Up throw(kill move), Up smash (hitbox trompeuse, elle choppe ceux a côté d'elle)",,"Uair (10)
+Nair (11)
+Dair, Usmash, NeutralB dans les airs (12)","Son kit est basé sur la punition, il est plaisant de lire le jeu de l'adversaire pour le punir, la plante pousse ce concept encore plus loin, ses spéciaux notamment","Kirboo - Azey - Eligarok
+
+/
+
+Brood - DiZ - Uber","[70 - Plante Piranha]
+:link: : https://discord.gg/xrHCvpX
+:passport_control: : Fabayou",112,1.82,1.72,1.0,0.14,38.52,Plante Piranha,packun_flower,packun_flower
+raarchyor?,Joker,"Joker est un personnage qui peut compter sur sa très bonne mobilité et surtout sur Arsène pour faire partie des top tiers du jeu ! Arsène améliore ainsi toutes ses attaques et attaques spéciales, ce qui rend le personnage déjà dangereux, effrayant. Joker est aujourd'hui quasiment indissociable du joueur mexicain MKLeo qui fait briller le personnage sur la scène internationale !",Persona 5 (2016 - PS4),"Très bonne mobilité
+Très bon jeu de pression
+Arsène et la mécanique de comeback
+Personnage polyvalent","Dépend d'Arsène pour tuer
+Recovery exploitable
+Manque d'options en OOS
+Demande beaucoup de précision","Faible mobilité et recovery: Ganondorf, Corrin
+Sacs à combos: K Rool Dadidou
+Beaucoup de MU positifs","Durs à toucher: Pikachu, Pichu, Carapuce
+Contre des options: Inkling
+Faisables mais compliqués: MM, Sonic, Peach
+","PS2, TandC, SV
+/
+Lylat, DF","Joker possède une aptitude qui lui est propre, la jauge de Rebellion. Cette jauge se remplit naturellement en fonction des dégâts reçus par Joker mais il peut la compléter plus rapidement s'il utilise son Down B pour contrer une attaque. Une fois que cette jauge est remplie, Joker invoque son Persona Arsène qui va l'aider en combat en améliorant significativement la puissance de ses attaques, leur portée et leur éjection. Toutefois, plus vous utilisez d'attaques spéciales et plus vous prenez de dégâts, plus cette jauge diminue rapidement.","Neutral B, le Gun. Il s'agit sans conteste d'un des meilleurs projectiles du jeu car les balles ne peuvent être renvoyées par les reflecteurs, ce qui permet de gratter très rapidement des pourcentages en phase de neutral. En plus de ça, cette attaque permet à Joker de se sortir très facilement d'une situation de désavantage, notamment pour atterir au sol. Et en situation d'edgeguard, le gun permet aussi de gimp certaines recovery basses ! 
+Son Down B : C'est l'une de ses meilleures attaques puisqu'il s'agit tout simplement du meilleur contre du jeu. Sans Arsène, c'est un outil qui peut renverser une partie à lui tout seul, si on arrive bien à lire l'adversaire, tout en étant un excellent combo breaker ! Sous l'effet d'Arsène, le contre sort très rapidement, tue tôt et permet d'edgeguard pas mal de recoverys adverses et de punir les ennemis un peu trop agressifs. 
+Side B Le Side B est aussi revenu dans quelques réponses, car c'est un bon projectile dans la phase de neutral qui permet de concurrencer d'autres projectiles comme le blaster de Wolf. De plus, il est très safe lorsqu'il est lancé en shorthop tout en reculant et c'est aussi un bon outil d'edgeguard surtout avec Arsène !
+Back air ! Le coup est rapide, puissant surtout avec Arsène et est d'autant plus redoutable, lorsqu'il est couplé à la vitesse de fastfall de Joker ! Si on ajoute à ça, le fait que sa hitbox dure longtemps et que l'attaque possède peu de lag, vous comprendrez qu'il s'agit d'un outil extrêmement utile et puissant notamment en situation d'edgeguard ou de ledgetrap, et l'un des seuls bons outils en sortie de bouclier. Et lorsque vous êtes sous l'effet d'Arsène, le coup devient monstrueux.
+Le grab: Le grab de Joker est aussi sans aucun doute l'une de ses meilleures options car Joker possède l'un des meilleurs dashgrab du jeu et que le grab de Joker est son meilleur outil pour lancer un combo ! Si Joker vous attrape avec Arsène activé, vous êtes sûrs de vous prendre 30% au minimum ! Joker est un personnage qui conditionne l'adversaire à souvent se protéger, donc trouver le grab est l'un des aspects les plus importants du personnage !
+Forward Tilt: Son forward Tilt est aussi intéressant au sol et en situation de ledgetrap. L'attaque permet de poke ses adversaires tout en restant safe et peut même être orienté dans 3 angles différents pour provoquer certaines situations dont des situations de tech chase par exemple ! Et près du ledge, son angle d'éjection le rend bien intéressant et permet de mener à des situations de kill ! ","Down B avec soin: Servez-vous du Rebel's Guard, le Down B de manière intelligente et évitez de trop l'utiliser car c'est une attaque qui offre certes une bonne récompense mais dont le risque est trop élevé. En effet, Joker peut se faire lourdement punir si aucun coup n'est encaissé ! Servez-vous en donc essentiellement sur les combos ennemis qui ne sont pas true ou en tant que variation, mais pas en tant qu'option principale!
+Evitez de bourrer: C'est une erreur récurrente chez les Joker de bas/moyen niveau. Il ne faut pas croire qu'avoir Arsène, vous donne le droit d'appuyer sur tous les boutons et de rusher, c'est au contraire, le meilleur moyen de perdre Arsène ! En effet, Joker ne devient pas forcément plus safe quand il a Arsène sur certains de ses coups en tout cas, et il vaudra mieux rester patient et maximiser ses Arsène plutôt que de bourrer de Forward Smash ! 
+Entraînez-vous et soyez patients ! Ne vous attendez pas à maîtriser Joker et à obtenir de gros résultats en un claquement de doigts. Il s'agit d'un personnage qui demande beaucoup d'entraînement au niveau de l'exécution, et déjà un bon niveau du côté des fondamentaux! En effet, il est certes, rapide, évasif et puissant mais il demande d'avoir une compréhension particulière du neutral car il n'est pas forcément safe et car son neutral sans Arsène reste très linéaire! Ce n'est doncpas un personnage à recommander à quelqu'un qui débute, bien au contraire ! ","Uair (8)
+Fair, Bair, Usmash (10)
+Nair, NeutralB dans les airs, jab (15)","Le plaisir viendra du fait qu'il s'agit d'un personnage rapide, puissant et technique qui requiert une bonne dose de précision, ce qui fait qu'il procure une grande satisfation une fois qu'il est maîtrisé. En plus de ça, il peut se jouer de pas mal de manières différentes et le prendre en main va nécessiter de bien apprendre à analyser son adversaire. Et puis, n'oublions pas qu'il possède des attaques, projectiles ou contres qui font partie des meilleures options du jeu, donc pourquoi ne pas le jouer? Bref, un personnage rapide et agréable à prendre en main, qui nécessite malgré tout un réel apprentissage pour pouvoir jouer à un véritable niveau compétitif.","Jeda - Yass - Kuro
+
+/
+
+MKLeo - Zackray - Eim - Lemmon akasa","[71 - Joker]
+:link: : https://discord.gg/x6cHgmM
+:passport_control: : Ali, Shogeki, Reunart",93,1.9,2.060,1.100,0.127,34,Joker,joker,joker
+Coming soon,"Le Héros
+
+HERO",,,,,,,,,,,"UpB (7)
+Uair (9)
+Nair (11)",,"
+
+/
+
+Salem - Trela - Ibannu","[72 - Héros]
+:link: : https://discord.gg/sevQSfS
+:passport_control: : Anoter, Dreekius",101,1.9,1.84,1.01000,0.094,31,Le Héros,dq_hero,dq_hero
+"river, Dracaufeuille",Banjo&Kazooie,,,,,,,,,,,"Usmash (9)
+Uair (10)
+Bair (11)",,"Rony
+
+/
+
+Utopian Ray - Trela - Raito - Tweek","[73- Banjo-Kazooie]
+:link: : https://discord.gg/fEyhZrn
+:passport_control: : Dracaufeuille",106,1.68,2.18,0.92,0.11,32,Banjo&Kazooie,banjo_and_kazooie,banjo_and_kazooie
+,Terry,,,,,,,,,,,"Nair (7)
+Power Dunk dans les airs (9)
+UpB, Usmash, Fair, Uair (10)
+",,"
+
+/
+
+Munekin - Tsu - Locus - Riddles","[74-Terry Bogard]
+link : https://discord.gg/WXW26zN
+passport_control : Mohamed",108,1.65,1.72,0.95,0.09,29,Terry,terry,terry
+,Byleth,,,,,,,,,,,"Nair (9)
+UpB (11)
+Uair, Usmash (13)",,"
+
+/
+
+","[75-Byleth]
+link : https://discord.gg/KDTPNfs
+passport_control : YnT | Selford, Kuse, Ogrest",97,1.8,1.43,0.89,0.089,28.5,Byleth,,
+,Min Min,,,,,,,,,,,,,,,,,,,,,,,
