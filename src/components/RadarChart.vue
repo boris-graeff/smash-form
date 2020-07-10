@@ -9,7 +9,7 @@ import ChartJS from 'chart.js'
 
 const WEIGHT = { min: 62, max: 135 }
 const DASH = { min: 1.5375, max: 2.42 }
-const RUN_SPEED = { min: 1.18, max: 3.85 }
+const RUN_SPEED = { min: 1.18, max: 2.5 }
 const AIR_SPEED = { min: 0.735, max: 1.344 }
 const GRAVITY = { min: 0.053, max: 0.23 }
 const JUMP = { min: 19.79, max: 50.51 }
